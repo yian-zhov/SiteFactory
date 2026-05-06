@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-05-05"
+last_generated: "2026-05-06"
 target_keywords:
   - academic search engines
   - academic search with google scholar
@@ -100,7 +100,7 @@ topics:
   - title: "Best Practices for Safe Online Shopping"
     keywords: "safe online shopping tips, how to shop online safely, protect credit card online"
     slug: "best-practices-safe-online-shopping"
-    status: pending
+    status: published
   - title: "How to Master Your Email Inbox with Gmail Filters"
     keywords: "master email inbox gmail filters, gmail filter setup guide, organize gmail inbox"
     slug: "how-to-master-email-inbox-gmail-filters"
