@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-05-07"
+last_generated: "2026-05-09"
 target_keywords:
   - academic search engines
   - academic search with google scholar
@@ -108,7 +108,7 @@ topics:
   - title: "How to Recognize and Avoid Phishing Scams"
     keywords: "how to recognize phishing scams, avoid email phishing, phishing scam protection"
     slug: "how-to-recognize-avoid-phishing-scams"
-    status: pending
+    status: published
   - title: "How to Use Reverse Image Search to Find Information"
     keywords: "how to use reverse image search, google reverse image search, find source of image online"
     slug: "how-to-use-reverse-image-search-find-information"
