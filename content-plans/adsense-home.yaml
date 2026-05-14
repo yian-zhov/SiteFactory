@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-05-13"
+last_generated: "2026-05-14"
 target_keywords:
   - Amazon search tricks
   - Firefox security
@@ -32,7 +32,7 @@ topics:
   - title: "Google Search vs DuckDuckGo: Which Is More Private?"
     keywords: "google vs duckduckgo, search engine privacy comparison, private google alternative"
     slug: "google-search-vs-duckduckgo-privacy-comparison"
-    status: pending
+    status: published
   - title: "How to Use Search Operators to Find Free eBooks and Documents"
     keywords: "find free ebooks online, search for pdf documents, filetype search, advanced search tricks"
     slug: "use-search-operators-find-free-ebooks"
