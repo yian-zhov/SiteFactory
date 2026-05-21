@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-05-20"
+last_generated: "2026-05-21"
 target_keywords:
   - Amazon search tricks
   - Firefox security
@@ -60,7 +60,7 @@ topics:
   - title: "How to Search for Legal Documents and Court Records Online"
     keywords: "court records public search, legal documents online, PACER search, find court cases"
     slug: "search-legal-documents-court-records"
-    status: pending
+    status: published
   - title: "Best Free VPNs for Safe Searching: Pros, Cons, and Honest Review"
     keywords: "free VPN review, safe browsing VPN, search privacy VPN, best free VPNs"
     slug: "best-free-vpns-safe-searching-review"
