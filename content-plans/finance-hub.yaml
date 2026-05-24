@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "weekly"
-last_generated: "2026-05-17"
+last_generated: "2026-05-24"
 target_keywords:
   - 401k vs ira vs hsa
   - 50 30 20 budget rule
@@ -70,7 +70,7 @@ topics:
     status: published
   - title: "Term Life Insurance vs Whole Life Insurance: Which Should You Choose?"
     keywords: "term vs whole life insurance, difference between term and whole life"
-    status: pending
+    status: published
   - title: "How to Save for a House Down Payment in 5 Years or Less"
     keywords: "how to save for a down payment, fast down payment savings plan"
     status: pending
