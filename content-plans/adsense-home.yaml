@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-01"
+last_generated: "2026-06-02"
 target_keywords:
   - Amazon search tricks
   - Firefox security
@@ -108,7 +108,7 @@ topics:
   - title: "How to Find the Best Deals on Amazon Using Search Modifiers"
     keywords: "Amazon search tricks, find discounts, deal finding search, advanced Amazon query"
     slug: "find-amazon-deals-search-modifiers"
-    status: pending
+    status: published
   - title: "The Beginner's Guide to Using Search Alerts for Market Research"
     keywords: "search alerts, Google Alerts, market research monitoring, track competitors, real-time news"
     slug: "search-alerts-market-research-guide"
