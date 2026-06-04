@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-03"
+last_generated: "2026-06-04"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -24,7 +24,7 @@ topics:
   - title: "10 Advanced Google Search Tips You Probably Don't Know"
     keywords: "google search tips, advanced google search, hidden google features"
     slug: "advanced-google-search-tips"
-    status: pending
+    status: published
   - title: "How to Search for Free Stock Images Without Copyright Issues"
     keywords: "free stock images, copyright free images, search for stock photos"
     slug: "search-free-stock-images-no-copyright"
