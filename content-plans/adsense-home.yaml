@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-06"
+last_generated: "2026-06-07"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -36,7 +36,7 @@ topics:
   - title: "How to Search for Academic Papers and Research Articles Online"
     keywords: "academic search engines, research articles, find scholarly papers"
     slug: "search-academic-papers-online"
-    status: pending
+    status: published
   - title: "How to Remove Your Personal Information from Search Results"
     keywords: "remove personal info search results, online privacy, data removal"
     slug: "remove-personal-information-search-results"
