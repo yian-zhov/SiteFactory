@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-08"
+last_generated: "2026-06-09"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -44,7 +44,7 @@ topics:
   - title: "Voice Search vs Typing: Which Is Faster for Productivity?"
     keywords: "voice search vs typing, search speed, productivity tips"
     slug: "voice-search-vs-typing-productivity"
-    status: pending
+    status: published
   - title: "How to Search for Email Addresses of Professionals and Companies"
     keywords: "find email addresses, professional email search, email lookup"
     slug: "search-professional-email-addresses"
