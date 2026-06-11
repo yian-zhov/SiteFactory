@@ -84,6 +84,13 @@ _llm_openai_compatible() {
       ]
     }')
 
+  # DeepSeek V4 models default to thinking mode (slower, more expensive).
+  # Disable it to keep the fast non-thinking behavior of the old deepseek-chat.
+  # Only DeepSeek understands this param; other providers would reject it.
+  if [[ "$SF_AI_PROVIDER" == "deepseek" ]]; then
+    body=$(echo "$body" | jq '. + {thinking: {type: "disabled"}}')
+  fi
+
   local tmpfile curl_exit=0
   tmpfile=$(mktemp)
   local http_code

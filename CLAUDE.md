@@ -563,6 +563,8 @@ AI-generated content must pass these quality checks:
 | CI config.yaml template missing secrets | All workflows that create `config.yaml` must map every field validated by `config.sh` (currently `SF_DOMAIN`, `SF_VERCEL_TOKEN`). When adding a new workflow or modifying config validation, cross-check `deploy.yml` config template as the reference baseline and `config.sh` validation loop for required fields |
 | Generating slugs with ASCII-only regex for non-ASCII titles | `sed 's/[^a-z0-9 -]//g'` strips all Chinese/Japanese characters, producing empty filenames. Use `generate_slug` in `generate-content.sh`: plan slug (LLM-generated English) → ASCII extraction → md5 hash fallback. Content plans must include `slug` field |
 | Expecting `GITHUB_TOKEN` push to trigger other workflows | GitHub blocks `push` events from `GITHUB_TOKEN` to prevent loops. Content workflows must explicitly trigger `deploy.yml` via `gh workflow run` (`workflow_dispatch` events ARE allowed). Requires `actions: write` permission |
+| Calling DeepSeek V4 models without disabling thinking mode | V4 models (`deepseek-v4-flash`/`-pro`) default to thinking mode — slower and pricier than the old `deepseek-chat` (which was the non-thinking alias). Send `thinking: {"type": "disabled"}` in the request body, as `lib/llm.sh` and `sites/mingli/api/chat.js` do |
+| Static site with serverless functions losing env vars | Vercel functions under a static site's `api/` dir need project env vars (e.g., `DEEPSEEK_API_KEY` for `sites/mingli`). Set via `npx vercel env add <NAME> production --cwd sites/<name>` after linking; they persist across deploys |
 
 ## Code Quality
 

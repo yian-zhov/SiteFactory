@@ -114,3 +114,13 @@ sites:
       en: Markdown Editor
       zh: Markdown编辑器
       ja: Markdownエディター
+  - name: mingli
+    title: 紫微命盘 AI 解读
+    description: AI Zi Wei Dou Shu chart reading with conversational calibration
+    type: static
+    category: tool
+    language: zh
+    titles:
+      en: Zi Wei Astrolabe AI
+      zh: 紫微命盘 AI 解读
+      ja: 紫微斗数AI鑑定

@@ -1,0 +1,8 @@
+type: static
+name: mingli
+title: "紫微命盘 AI 解读"
+description: "AI 紫微斗数命盘解读：输入生辰，浏览器内精确排盘，AI 生成可视化命盘报告，对话持续校准"
+source: https://github.com/learnwithu/mingli-master
+license: MIT
+language: zh
+created: "2026-06-10"
