@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-12"
+last_generated: "2026-06-13"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -60,7 +60,7 @@ topics:
   - title: "10 Best Browser Extensions to Speed Up Your Online Searches"
     keywords: "browser extensions for search, speed up search, search productivity tools"
     slug: "browser-extensions-speed-up-searches"
-    status: pending
+    status: published
   - title: "How to Use Google Dorking Safely for Advanced Searches"
     keywords: "google dorking, advanced search queries, google hacking"
     slug: "google-dorking-safe-advanced-searches"
