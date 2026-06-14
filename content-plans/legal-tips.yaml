@@ -3,92 +3,117 @@
 # Managed separately from sites/ — see docs/automated-content.md
 site: legal-tips
 niche: "legal tips"
-publishing_schedule: "weekly"
-last_generated: "2026-06-07"
+publishing_schedule: "daily"
+last_generated: "2026-06-14"
 target_keywords:
-  - becoming a legal guardian
-  - business partnership agreement template
-  - cease and desist legal advice
-  - clearing your criminal history
-  - consumer complaint process
-  - consumer rights faulty products
-  - copyright basics for creators
-  - copyright law explained
-  - divorce process for beginners
-  - DIY will preparation
+  - breach of contract
+  - breached company responsibility
+  - business registration
+  - car accident without lawyer
+  - child custody arrangements
+  - co-signer legal responsibilities
+  - co-signing loan risks
+  - consumer rights
+  - contract cancellation clauses
+  - create a will
 topics:
-  - title: "How to Write a Legally Binding Contract for Freelancers"
-    keywords: "legally binding contract template, freelance contract agreement, simple legal contract"
+  - title: "How to Read a Rental Agreement Before Signing"
+    keywords: "rental agreement, lease contract tips, understanding lease terms"
+    slug: "how-to-read-rental-agreement-before-signing"
     status: published
-  - title: "Understanding Your Rights During a Traffic Stop"
-    keywords: "rights during traffic stop, what to do when pulled over, police stop legal rights"
-    status: published
-  - title: "Step-by-Step Guide to Creating a Last Will and Testament"
-    keywords: "how to write a will, last will and testament guide, DIY will preparation"
-    status: published
-  - title: "What to Do If You're Injured at Work: A Worker's Guide"
-    keywords: "injured at work what to do, workers compensation claim steps, workplace injury rights"
-    status: published
-  - title: "How to Handle a Dispute with Your Landlord"
-    keywords: "tenant landlord dispute resolution, how to deal with bad landlord, rental disagreement legal tips"
-    status: published
-  - title: "A Complete Guide to Small Claims Court Procedures"
-    keywords: "how to file in small claims court, small claims court process, suing someone in small claims"
-    status: published
-  - title: "Understanding Power of Attorney: Types and How to Set One Up"
-    keywords: "what is power of attorney, types of power of attorney, how to get power of attorney"
-    status: published
-  - title: "What Constitutes Harassment and How to Document It"
-    keywords: "what is considered harassment, how to prove harassment, legal definition of harassment"
-    status: published
-  - title: "How to Expunge or Seal Your Criminal Record"
-    keywords: "how to expunge a criminal record, seal criminal record process, clearing your criminal history"
-    status: published
-  - title: "A Guide to Understanding and Responding to a Cease and Desist Letter"
-    keywords: "how to respond to cease and desist letter, what is a cease and desist, cease and desist legal advice"
-    status: published
-  - title: "Your Rights as a Consumer: Returning Faulty Goods and Services"
-    keywords: "consumer rights faulty products, returning defective items, legal rights for bad service"
-    status: published
-  - title: "How to Start the Divorce Process: A Step-by-Step Overview"
-    keywords: "how to file for divorce, starting divorce proceedings, divorce process for beginners"
-    status: published
-  - title: "Understanding Non-Disclosure Agreements (NDAs) for Small Businesses"
-    keywords: "what is an NDA, non-disclosure agreement explained, how to use an NDA"
-    status: published
-  - title: "What to Do If You're Being Sued: A First-Time Defendant's Guide"
-    keywords: "what to do if you are being sued, responding to a lawsuit, first time defendant advice"
-    status: published
-  - title: "How to Legally Change Your Name: The Complete Process"
-    keywords: "legal name change process, how to change your name legally, name change petition steps"
-    status: published
-  - title: "Understanding Copyright Law for Content Creators"
-    keywords: "copyright basics for creators, how to copyright your work, copyright law explained"
-    status: published
-  - title: "A Renter's Guide to Security Deposit Laws and Getting Your Money Back"
-    keywords: "security deposit laws, how to get security deposit back, tenant rights security deposit"
-    status: published
-  - title: "How to Create a Simple Business Partnership Agreement"
-    keywords: "business partnership agreement template, starting a partnership legal steps, partnership contract basics"
-    status: published
-  - title: "What is Probate and How Does the Process Work?"
-    keywords: "probate process explained, what is probate court, understanding probate administration"
-    status: published
-  - title: "How to Deal with Debt Collectors: Know Your Rights"
-    keywords: "rights when dealing with debt collectors, how to handle debt collection calls, fair debt collection practices"
-    status: published
-  - title: "A Guide to Prenuptial Agreements: Are They Right for You?"
-    keywords: "what is a prenuptial agreement, pros and cons of prenup, how to get a prenup"
-    status: published
-  - title: "How to File a Complaint Against a Company or Professional"
-    keywords: "how to file a complaint against a business, reporting a bad contractor, consumer complaint process"
-    status: published
-  - title: "Understanding Your Miranda Rights and What They Really Mean"
-    keywords: "what are miranda rights, miranda rights explained, when are miranda rights read"
-    status: published
-  - title: "How to Establish Legal Guardianship for a Child or Adult"
-    keywords: "how to get legal guardianship, guardianship process explained, becoming a legal guardian"
+  - title: "What to Do If You Receive a Legal Notice from Your Landlord"
+    keywords: "legal notice landlord, tenant legal rights, respond to eviction notice"
+    slug: "respond-to-legal-notice-landlord"
     status: pending
-  - title: "What is Mediation and When Should You Use It for Disputes?"
-    keywords: "what is legal mediation, when to use mediation, mediation vs lawsuit"
+  - title: "Simple Steps to Create a Legally Binding Will"
+    keywords: "create a will, legal will tips, diy will requirements"
+    slug: "steps-to-create-legally-binding-will"
+    status: pending
+  - title: "Understanding Your Rights During a Police Traffic Stop"
+    keywords: "traffic stop rights, police stop legal advice, know your rights"
+    slug: "rights-during-police-traffic-stop"
+    status: pending
+  - title: "How to Handle a Minor Car Accident Without a Lawyer"
+    keywords: "car accident without lawyer, handle minor accident, insurance claim tips"
+    slug: "handle-minor-car-accident-without-lawyer"
+    status: pending
+  - title: "What to Do When You Are Served with a Lawsuit"
+    keywords: "served with lawsuit, respond to legal complaint, lawsuit response guide"
+    slug: "what-to-do-when-served-with-lawsuit"
+    status: pending
+  - title: "Understanding Probate: A Beginner's Guide"
+    keywords: "probate explained, probate process, what is probate"
+    slug: "understanding-probate-beginners-guide"
+    status: pending
+  - title: "How to Dispute a Credit Card Charge Legally"
+    keywords: "dispute credit card charge, legal chargeback, fair credit billing"
+    slug: "dispute-credit-card-charge-legally"
+    status: pending
+  - title: "Legal Implications of Signing a Non-Disclosure Agreement"
+    keywords: "nda legal implications, non-disclosure agreement tips, nda enforceability"
+    slug: "legal-implications-non-disclosure-agreement"
+    status: pending
+  - title: "What to Know Before Co-Signing a Loan"
+    keywords: "co-signing loan risks, co-signer legal responsibilities, loan agreement tips"
+    slug: "what-to-know-before-co-signing-loan"
+    status: pending
+  - title: "How to File a Small Claims Case: Step-by-Step Guide"
+    keywords: "file small claims case, small claims court guide, small claims procedure"
+    slug: "how-to-file-small-claims-case-step-by-step"
+    status: pending
+  - title: "Understanding Employment Contracts: Key Clauses to Watch"
+    keywords: "employment contract clauses, read employment contract, job contract tips"
+    slug: "understanding-employment-contracts-key-clauses"
+    status: pending
+  - title: "Legal Rights When Your Employer Refuses to Pay Overtime"
+    keywords: "overtime pay rights, employer refuses overtime, wage theft legal recourse"
+    slug: "legal-rights-employer-refuses-overtime-pay"
+    status: pending
+  - title: "How to Write a Simple Power of Attorney Document"
+    keywords: "power of attorney form, create power of attorney, legal document writing"
+    slug: "write-simple-power-of-attorney-document"
+    status: pending
+  - title: "What to Do If Your Identity is Stolen: Legal Steps"
+    keywords: "identity theft legal steps, report identity theft, legal recourse identity theft"
+    slug: "legal-steps-after-identity-theft"
+    status: pending
+  - title: "Understanding Custody Arrangements in Divorce"
+    keywords: "child custody arrangements, divorce custody legal, custody rights"
+    slug: "understanding-custody-arrangements-in-divorce"
+    status: pending
+  - title: "How to Legally Terminate a Contract Without Penalty"
+    keywords: "terminate contract legally, contract cancellation clauses, breach of contract"
+    slug: "legally-terminate-contract-without-penalty"
+    status: pending
+  - title: "Rights of Renters When Landlord Fails to Make Repairs"
+    keywords: "landlord repair rights, renters rights repairs, habitability laws"
+    slug: "renter-rights-landlord-fails-repairs"
+    status: pending
+  - title: "Simple Guide to Starting a Small Business Legally"
+    keywords: "start small business legally, business registration, legal compliance small business"
+    slug: "simple-guide-starting-small-business-legally"
+    status: pending
+  - title: "What You Need to Know About Legal Interest Rates on Loans"
+    keywords: "legal interest rates, loan interest laws, maximum interest rate"
+    slug: "legal-interest-rates-on-loans-explained"
+    status: pending
+  - title: "How to Protect Your Digital Assets in a Will"
+    keywords: "digital assets will, online accounts inheritance, digital estate planning"
+    slug: "protect-digital-assets-in-will"
+    status: pending
+  - title: "Legal Steps to Take After a Data Breach"
+    keywords: "data breach legal steps, breached company responsibility, consumer rights"
+    slug: "legal-steps-after-data-breach"
+    status: pending
+  - title: "Understanding the Difference Between Felony and Misdemeanor"
+    keywords: "felony vs misdemeanor, criminal charges difference, legal classification"
+    slug: "difference-between-felony-misdemeanor"
+    status: pending
+  - title: "How to Get a Restraining Order: A Practical Guide"
+    keywords: "get restraining order, file protection order, domestic violence legal help"
+    slug: "how-to-get-restraining-order-practical-guide"
+    status: pending
+  - title: "What to Do When a Neighbor Violates Property Boundaries"
+    keywords: "neighbor property boundaries, legal property disputes, fence line laws"
+    slug: "neighbor-violates-property-boundaries-legal-steps"
     status: pending
