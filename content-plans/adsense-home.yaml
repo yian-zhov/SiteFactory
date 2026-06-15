@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-14"
+last_generated: "2026-06-15"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -68,7 +68,7 @@ topics:
   - title: "How to Search for Products and Find the Best Deals Online"
     keywords: "find best deals online, product search tips, online shopping search"
     slug: "search-products-best-deals-online"
-    status: pending
+    status: published
   - title: "Semantic Search Explained: Why Keywords Aren't Enough Anymore"
     keywords: "semantic search, keyword search vs semantic, how semantic search works"
     slug: "semantic-search-why-keywords-not-enough"
