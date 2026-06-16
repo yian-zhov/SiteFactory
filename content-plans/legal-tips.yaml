@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-15"
+last_generated: "2026-06-16"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -28,7 +28,7 @@ topics:
   - title: "Simple Steps to Create a Legally Binding Will"
     keywords: "create a will, legal will tips, diy will requirements"
     slug: "steps-to-create-legally-binding-will"
-    status: pending
+    status: published
   - title: "Understanding Your Rights During a Police Traffic Stop"
     keywords: "traffic stop rights, police stop legal advice, know your rights"
     slug: "rights-during-police-traffic-stop"
