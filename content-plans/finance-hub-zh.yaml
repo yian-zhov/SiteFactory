@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "weekly"
-last_generated: "2026-06-10"
+last_generated: "2026-06-17"
 target_keywords:
   - ETF基金
   - ETF交易规则
@@ -67,13 +67,13 @@ topics:
     status: published
   - title: "银行理财产品风险等级R1-R5是什么意思"
     keywords: "银行理财风险等级, R1-R5, 理财产品风险"
-    status: pending
+    status: published
   - title: "ETF基金是什么？交易规则与投资策略"
     keywords: "ETF基金, ETF交易规则, ETF投资"
     status: pending
   - title: "如何制定一个可行的五年理财目标"
     keywords: "五年理财目标, 理财规划, 长期目标"
-    status: pending
+    status: published
   - title: "黄金投资有哪些渠道？优缺点分析"
     keywords: "黄金投资渠道, 黄金投资优缺点, 黄金理财"
     status: pending
