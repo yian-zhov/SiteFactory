@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-17"
+last_generated: "2026-06-18"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -36,7 +36,7 @@ topics:
   - title: "How to Handle a Minor Car Accident Without a Lawyer"
     keywords: "car accident without lawyer, handle minor accident, insurance claim tips"
     slug: "handle-minor-car-accident-without-lawyer"
-    status: pending
+    status: published
   - title: "What to Do When You Are Served with a Lawsuit"
     keywords: "served with lawsuit, respond to legal complaint, lawsuit response guide"
     slug: "what-to-do-when-served-with-lawsuit"
