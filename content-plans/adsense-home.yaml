@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-18"
+last_generated: "2026-06-19"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -84,7 +84,7 @@ topics:
   - title: "5 Common Search Scams and How to Avoid Them"
     keywords: "search scams, avoid online scams, fake search results"
     slug: "common-search-scams-how-avoid"
-    status: pending
+    status: published
   - title: "How to Search for Local Services and Businesses Effectively"
     keywords: "search local businesses, local services search, find local services"
     slug: "search-local-services-businesses"
