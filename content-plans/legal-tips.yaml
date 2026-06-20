@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-19"
+last_generated: "2026-06-20"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -44,7 +44,7 @@ topics:
   - title: "Understanding Probate: A Beginner's Guide"
     keywords: "probate explained, probate process, what is probate"
     slug: "understanding-probate-beginners-guide"
-    status: pending
+    status: published
   - title: "How to Dispute a Credit Card Charge Legally"
     keywords: "dispute credit card charge, legal chargeback, fair credit billing"
     slug: "dispute-credit-card-charge-legally"
