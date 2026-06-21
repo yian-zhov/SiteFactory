@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-20"
+last_generated: "2026-06-21"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -92,7 +92,7 @@ topics:
   - title: "Search Engine vs Database Search: Key Differences for Researchers"
     keywords: "search engine vs database, database search, research search tools"
     slug: "search-engine-vs-database-research"
-    status: pending
+    status: published
   - title: "How to Use Search Filters and Operators on Amazon and eBay"
     keywords: "amazon search filters, ebay search operators, ecommerce search tips"
     slug: "use-search-filters-amazon-ebay"
