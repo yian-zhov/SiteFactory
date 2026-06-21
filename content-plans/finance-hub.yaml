@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "weekly"
-last_generated: "2026-06-14"
+last_generated: "2026-06-21"
 target_keywords:
   - 401k vs ira vs hsa
   - 50 30 20 budget rule
@@ -82,7 +82,7 @@ topics:
     status: published
   - title: "Understanding Tax-Advantaged Accounts: 401(k), IRA, and HSA"
     keywords: "tax advantaged accounts explained, 401k vs ira vs hsa"
-    status: pending
+    status: published
   - title: "How to Create a Will and Basic Estate Planning Documents"
     keywords: "how to create a will, basic estate planning for beginners"
     status: pending
