@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-21"
+last_generated: "2026-06-22"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -96,7 +96,7 @@ topics:
   - title: "How to Use Search Filters and Operators on Amazon and eBay"
     keywords: "amazon search filters, ebay search operators, ecommerce search tips"
     slug: "use-search-filters-amazon-ebay"
-    status: pending
+    status: published
   - title: "The Best Password Managers with Search Features for Quick Access"
     keywords: "password manager search, best password managers, search passwords"
     slug: "best-password-managers-search-features"
