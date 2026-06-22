@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-21"
+last_generated: "2026-06-22"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -52,7 +52,7 @@ topics:
   - title: "Legal Implications of Signing a Non-Disclosure Agreement"
     keywords: "nda legal implications, non-disclosure agreement tips, nda enforceability"
     slug: "legal-implications-non-disclosure-agreement"
-    status: pending
+    status: published
   - title: "What to Know Before Co-Signing a Loan"
     keywords: "co-signing loan risks, co-signer legal responsibilities, loan agreement tips"
     slug: "what-to-know-before-co-signing-loan"
