@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-23"
+last_generated: "2026-06-24"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -104,7 +104,7 @@ topics:
   - title: "How to Search for PDFs, Spreadsheets, and Other File Types"
     keywords: "search for file types, find PDFs, document search tips"
     slug: "search-pdfs-spreadsheets-file-types"
-    status: pending
+    status: published
   - title: "How to Verify News Articles Using Advanced Search Techniques"
     keywords: "verify news online, fact check news, search for news sources"
     slug: "verify-news-articles-advanced-search"
