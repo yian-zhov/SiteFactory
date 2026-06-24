@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "weekly"
-last_generated: "2026-06-17"
+last_generated: "2026-06-24"
 target_keywords:
   - ETF基金
   - ETF交易规则
@@ -70,7 +70,7 @@ topics:
     status: published
   - title: "ETF基金是什么？交易规则与投资策略"
     keywords: "ETF基金, ETF交易规则, ETF投资"
-    status: pending
+    status: published
   - title: "如何制定一个可行的五年理财目标"
     keywords: "五年理财目标, 理财规划, 长期目标"
     status: published
@@ -79,13 +79,13 @@ topics:
     status: pending
   - title: "年收入20万如何合理分配进行投资理财"
     keywords: "年收入20万理财, 收入分配, 投资分配"
-    status: pending
+    status: published
   - title: "基金分红方式选择：现金分红还是红利再投资"
     keywords: "基金分红方式, 现金分红, 红利再投资"
     status: pending
   - title: "国债逆回购操作指南与收益技巧"
     keywords: "国债逆回购, 逆回购操作, 国债逆回购收益"
-    status: pending
+    status: published
   - title: "如何为子女教育准备专项储蓄与投资"
     keywords: "子女教育储蓄, 教育金规划, 教育投资"
     status: pending
