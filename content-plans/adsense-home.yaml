@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-24"
+last_generated: "2026-06-25"
 target_keywords:
   - academic search engines
   - advanced google search
@@ -108,7 +108,7 @@ topics:
   - title: "How to Verify News Articles Using Advanced Search Techniques"
     keywords: "verify news online, fact check news, search for news sources"
     slug: "verify-news-articles-advanced-search"
-    status: pending
+    status: published
   - title: "Top 10 Shortcuts to Search Faster on Any Device"
     keywords: "search shortcuts, search faster, keyboard shortcuts search"
     slug: "top-search-shortcuts-any-device"
