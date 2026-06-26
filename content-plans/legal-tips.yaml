@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-25"
+last_generated: "2026-06-26"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -68,7 +68,7 @@ topics:
   - title: "Legal Rights When Your Employer Refuses to Pay Overtime"
     keywords: "overtime pay rights, employer refuses overtime, wage theft legal recourse"
     slug: "legal-rights-employer-refuses-overtime-pay"
-    status: pending
+    status: published
   - title: "How to Write a Simple Power of Attorney Document"
     keywords: "power of attorney form, create power of attorney, legal document writing"
     slug: "write-simple-power-of-attorney-document"
