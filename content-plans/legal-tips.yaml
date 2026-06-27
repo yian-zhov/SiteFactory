@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-26"
+last_generated: "2026-06-27"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -72,7 +72,7 @@ topics:
   - title: "How to Write a Simple Power of Attorney Document"
     keywords: "power of attorney form, create power of attorney, legal document writing"
     slug: "write-simple-power-of-attorney-document"
-    status: pending
+    status: published
   - title: "What to Do If Your Identity is Stolen: Legal Steps"
     keywords: "identity theft legal steps, report identity theft, legal recourse identity theft"
     slug: "legal-steps-after-identity-theft"
