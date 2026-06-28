@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-27"
+last_generated: "2026-06-28"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -24,7 +24,7 @@ topics:
   - title: "Top 10 Privacy Settings to Change on Chrome Right Now"
     keywords: "chrome privacy settings, browser privacy tips, chrome security settings"
     slug: "top-10-chrome-privacy-settings"
-    status: pending
+    status: published
   - title: "Beginner's Guide to Searching Academic Databases Like a Pro"
     keywords: "academic database search, scholarly research tips, search academic papers"
     slug: "search-academic-databases-beginners-guide"
