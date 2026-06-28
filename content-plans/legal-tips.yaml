@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-27"
+last_generated: "2026-06-28"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -76,7 +76,7 @@ topics:
   - title: "What to Do If Your Identity is Stolen: Legal Steps"
     keywords: "identity theft legal steps, report identity theft, legal recourse identity theft"
     slug: "legal-steps-after-identity-theft"
-    status: pending
+    status: published
   - title: "Understanding Custody Arrangements in Divorce"
     keywords: "child custody arrangements, divorce custody legal, custody rights"
     slug: "understanding-custody-arrangements-in-divorce"
