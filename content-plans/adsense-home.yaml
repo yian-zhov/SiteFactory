@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-28"
+last_generated: "2026-06-29"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -28,7 +28,7 @@ topics:
   - title: "Beginner's Guide to Searching Academic Databases Like a Pro"
     keywords: "academic database search, scholarly research tips, search academic papers"
     slug: "search-academic-databases-beginners-guide"
-    status: pending
+    status: published
   - title: "How to Spot Fake News: A Step-by-Step Fact-Checking Workflow"
     keywords: "spot fake news, fact-checking tips, verify online information"
     slug: "spot-fake-news-fact-checking-workflow"
