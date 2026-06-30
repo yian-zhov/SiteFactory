@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-29"
+last_generated: "2026-06-30"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -84,7 +84,7 @@ topics:
   - title: "How to Legally Terminate a Contract Without Penalty"
     keywords: "terminate contract legally, contract cancellation clauses, breach of contract"
     slug: "legally-terminate-contract-without-penalty"
-    status: pending
+    status: published
   - title: "Rights of Renters When Landlord Fails to Make Repairs"
     keywords: "landlord repair rights, renters rights repairs, habitability laws"
     slug: "renter-rights-landlord-fails-repairs"
