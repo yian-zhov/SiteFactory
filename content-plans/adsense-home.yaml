@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-29"
+last_generated: "2026-06-30"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -32,7 +32,7 @@ topics:
   - title: "How to Spot Fake News: A Step-by-Step Fact-Checking Workflow"
     keywords: "spot fake news, fact-checking tips, verify online information"
     slug: "spot-fake-news-fact-checking-workflow"
-    status: pending
+    status: published
   - title: "DuckDuckGo vs Google: Which Search Engine Protects Your Privacy Best?"
     keywords: "duckduckgo vs google privacy, search engine comparison, private search engine"
     slug: "duckduckgo-vs-google-privacy-comparison"
