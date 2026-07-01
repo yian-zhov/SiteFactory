@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-06-30"
+last_generated: "2026-07-01"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -88,7 +88,7 @@ topics:
   - title: "Rights of Renters When Landlord Fails to Make Repairs"
     keywords: "landlord repair rights, renters rights repairs, habitability laws"
     slug: "renter-rights-landlord-fails-repairs"
-    status: pending
+    status: published
   - title: "Simple Guide to Starting a Small Business Legally"
     keywords: "start small business legally, business registration, legal compliance small business"
     slug: "simple-guide-starting-small-business-legally"
