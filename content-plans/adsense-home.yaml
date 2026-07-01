@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-06-30"
+last_generated: "2026-07-01"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -36,7 +36,7 @@ topics:
   - title: "DuckDuckGo vs Google: Which Search Engine Protects Your Privacy Best?"
     keywords: "duckduckgo vs google privacy, search engine comparison, private search engine"
     slug: "duckduckgo-vs-google-privacy-comparison"
-    status: pending
+    status: published
   - title: "10 Keyboard Shortcuts to Search Faster in Windows and Mac"
     keywords: "search keyboard shortcuts, windows mac search tips, productivity shortcuts"
     slug: "10-keyboard-shortcuts-search-faster"
