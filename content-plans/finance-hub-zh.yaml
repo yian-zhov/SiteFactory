@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "weekly"
-last_generated: "2026-06-24"
+last_generated: "2026-07-01"
 target_keywords:
   - ETF基金
   - ETF交易规则
@@ -76,7 +76,7 @@ topics:
     status: published
   - title: "黄金投资有哪些渠道？优缺点分析"
     keywords: "黄金投资渠道, 黄金投资优缺点, 黄金理财"
-    status: pending
+    status: published
   - title: "年收入20万如何合理分配进行投资理财"
     keywords: "年收入20万理财, 收入分配, 投资分配"
     status: published
