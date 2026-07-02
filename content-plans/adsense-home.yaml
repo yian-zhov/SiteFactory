@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-01"
+last_generated: "2026-07-02"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -40,7 +40,7 @@ topics:
   - title: "10 Keyboard Shortcuts to Search Faster in Windows and Mac"
     keywords: "search keyboard shortcuts, windows mac search tips, productivity shortcuts"
     slug: "10-keyboard-shortcuts-search-faster"
-    status: pending
+    status: published
   - title: "How to Search for Specific File Types (PDF, DOCX, XLS) on Google"
     keywords: "search specific file types google, find pdf files, filetype search command"
     slug: "search-specific-file-types-google"
