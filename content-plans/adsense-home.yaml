@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-03"
+last_generated: "2026-07-04"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -48,7 +48,7 @@ topics:
   - title: "The Ultimate Guide to Using Reverse Image Search for Verification"
     keywords: "reverse image search, verify image source, image search tools"
     slug: "ultimate-guide-reverse-image-search"
-    status: pending
+    status: published
   - title: "How to Use Advanced Search Commands on LinkedIn to Find Jobs"
     keywords: "linkedin advanced search, linkedin job search tips, linkedin search operators"
     slug: "advanced-linkedin-search-commands-jobs"
