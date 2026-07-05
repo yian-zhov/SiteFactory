@@ -3,92 +3,117 @@
 # Managed separately from sites/ — see docs/automated-content.md
 site: finance-hub
 niche: "finance hub"
-publishing_schedule: "weekly"
-last_generated: "2026-06-28"
+publishing_schedule: "daily"
+last_generated: "2026-07-05"
 target_keywords:
-  - 401k vs ira vs hsa
-  - 50 30 20 budget rule
-  - 6 month emergency fund guide
-  - asset allocation by age
-  - basic estate planning for beginners
-  - beginner guide to dividend investing
-  - beginner investing with little money
-  - beginner stock chart analysis
-  - best personal finance apps
-  - best place for emergency fund
+  - 50 30 20 rule
+  - asking for raise
+  - avoid money mistakes twenties
+  - beginner investing
+  - best budgeting apps
+  - best health plan
+  - best savings accounts 2025
+  - best side hustles 2025
+  - budget app 2025
+  - budget rule
 topics:
-  - title: "How to Create a Zero-Based Budget for Beginners"
-    keywords: "zero-based budgeting for beginners, how to create a zero-based budget"
+  - title: "How to Create a Personal Budget That Actually Works"
+    keywords: "personal budget, budgeting tips, create a budget"
+    slug: "create-personal-budget-that-works"
     status: published
-  - title: "Index Funds vs ETFs: A Complete Comparison for New Investors"
-    keywords: "index funds vs etfs, etf vs index fund comparison"
-    status: published
-  - title: "Step-by-Step Guide to Building a 6-Month Emergency Fund"
-    keywords: "how to build an emergency fund, 6 month emergency fund guide"
-    status: published
-  - title: "Understanding Roth IRA vs Traditional IRA: Which is Right For You?"
-    keywords: "roth ira vs traditional ira, difference between roth and traditional ira"
-    status: published
-  - title: "How to Start Investing with $100: A Beginner's Action Plan"
-    keywords: "how to start investing with $100, beginner investing with little money"
-    status: published
-  - title: "The 50/30/20 Budget Rule Explained with Real-Life Examples"
-    keywords: "50 30 20 budget rule, how to use the 50 30 20 rule"
-    status: published
-  - title: "How to Improve Your Credit Score from Fair to Excellent in 12 Months"
-    keywords: "how to improve credit score fast, raise credit score in one year"
-    status: published
-  - title: "High-Yield Savings Accounts vs Money Market Accounts: Pros and Cons"
-    keywords: "high yield savings vs money market account, best place for emergency fund"
-    status: published
-  - title: "A Complete Guide to Debt Snowball vs Debt Avalanche Methods"
-    keywords: "debt snowball vs avalanche, which debt repayment method is best"
-    status: published
-  - title: "How to Read a Stock Chart for Beginners: Key Terms and Patterns"
-    keywords: "how to read a stock chart, beginner stock chart analysis"
-    status: published
-  - title: "What is a Health Savings Account (HSA) and How to Maximize Its Benefits"
-    keywords: "what is an hsa, how to use a health savings account"
-    status: published
-  - title: "How to Calculate Your Net Worth and Why It Matters"
-    keywords: "how to calculate net worth, why is net worth important"
-    status: published
-  - title: "Best Personal Finance Apps for Budgeting and Tracking Expenses in 2024"
-    keywords: "best personal finance apps, top budgeting apps 2024"
-    status: published
-  - title: "How to Start a Side Hustle to Pay Off Debt Faster"
-    keywords: "side hustles to pay off debt, best side jobs for extra income"
-    status: published
-  - title: "Understanding Asset Allocation for Different Life Stages"
-    keywords: "asset allocation by age, investment portfolio for your age"
-    status: published
-  - title: "How to Negotiate a Lower Interest Rate on Your Credit Card"
-    keywords: "how to lower credit card interest rate, negotiate credit card apr"
-    status: published
-  - title: "A Beginner's Guide to Dividend Investing for Passive Income"
-    keywords: "beginner guide to dividend investing, how to start dividend investing"
-    status: published
-  - title: "Term Life Insurance vs Whole Life Insurance: Which Should You Choose?"
-    keywords: "term vs whole life insurance, difference between term and whole life"
-    status: published
-  - title: "How to Save for a House Down Payment in 5 Years or Less"
-    keywords: "how to save for a down payment, fast down payment savings plan"
-    status: published
-  - title: "What is Dollar-Cost Averaging and How to Use It for Investing"
-    keywords: "what is dollar cost averaging, how to dollar cost average"
-    status: published
-  - title: "How to Choose the Right Robo-Advisor for Your Investment Goals"
-    keywords: "how to choose a robo-advisor, best robo-advisor for beginners"
-    status: published
-  - title: "Understanding Tax-Advantaged Accounts: 401(k), IRA, and HSA"
-    keywords: "tax advantaged accounts explained, 401k vs ira vs hsa"
-    status: published
-  - title: "How to Create a Will and Basic Estate Planning Documents"
-    keywords: "how to create a will, basic estate planning for beginners"
-    status: published
-  - title: "Best Practices for Tracking and Reducing Monthly Subscription Costs"
-    keywords: "how to reduce subscription costs, track monthly subscriptions"
+  - title: "10 Best High-Yield Savings Accounts for 2025"
+    keywords: "high yield savings accounts, best savings accounts 2025, savings account rates"
+    slug: "best-high-yield-savings-accounts-2025"
     status: pending
-  - title: "How to Invest in Real Estate with Little Money: REITs and Crowdfunding"
-    keywords: "how to invest in real estate with little money, reit investing for beginners"
+  - title: "Step-by-Step Guide to Starting an Emergency Fund"
+    keywords: "emergency fund, how to start emergency fund, emergency savings"
+    slug: "step-by-step-guide-starting-emergency-fund"
+    status: pending
+  - title: "Index Funds vs ETFs: Which Is Better for Beginners?"
+    keywords: "index funds vs etfs, beginner investing, index fund vs etf comparison"
+    slug: "index-funds-vs-etfs-beginners-comparison"
+    status: pending
+  - title: "How to Pay Off Credit Card Debt Fast: 5 Proven Strategies"
+    keywords: "pay off credit card debt, debt repayment strategies, credit card debt payoff"
+    slug: "pay-off-credit-card-debt-fast-strategies"
+    status: pending
+  - title: "The 50/30/20 Budget Rule Explained with Examples"
+    keywords: "50 30 20 rule, budget rule, budgeting percentages"
+    slug: "fifty-thirty-twenty-budget-rule-explained"
+    status: pending
+  - title: "Best Budgeting Apps to Track Your Spending in 2025"
+    keywords: "best budgeting apps, budget app 2025, spending tracker apps"
+    slug: "best-budgeting-apps-track-spending-2025"
+    status: pending
+  - title: "How to Start Investing with $100 or Less"
+    keywords: "investing with little money, start investing 100 dollars, small amount investing"
+    slug: "start-investing-with-100-dollars"
+    status: pending
+  - title: "Roth IRA vs Traditional IRA: Complete Comparison Guide"
+    keywords: "roth ira vs traditional ira, ira comparison, retirement account types"
+    slug: "roth-vs-traditional-ira-comparison"
+    status: pending
+  - title: "7 Common Money Mistakes to Avoid in Your 20s"
+    keywords: "money mistakes 20s, financial mistakes young adults, avoid money mistakes twenties"
+    slug: "common-money-mistakes-avoid-20s"
+    status: pending
+  - title: "How to Improve Your Credit Score in 30 Days"
+    keywords: "improve credit score fast, credit score tips, raise credit score 30 days"
+    slug: "improve-credit-score-30-days"
+    status: pending
+  - title: "What Is Dollar-Cost Averaging and Should You Use It?"
+    keywords: "dollar cost averaging, dca investing, investing strategy DCA"
+    slug: "what-is-dollar-cost-averaging"
+    status: pending
+  - title: "Side Hustle Ideas to Make Extra Money in 2025"
+    keywords: "side hustle ideas, make extra money, best side hustles 2025"
+    slug: "side-hustle-ideas-extra-money-2025"
+    status: pending
+  - title: "How to Negotiate a Raise: Step-by-Step Script and Tips"
+    keywords: "how to negotiate a raise, salary negotiation tips, asking for raise"
+    slug: "how-to-negotiate-raise-script-tips"
+    status: pending
+  - title: "Compound Interest Explained: Why Starting Early Matters"
+    keywords: "compound interest explanation, power of compound interest, how compound interest works"
+    slug: "compound-interest-explained-start-early"
+    status: pending
+  - title: "Everything You Need to Know About Tax-Loss Harvesting"
+    keywords: "tax loss harvesting, tax efficient investing, reduce taxes investments"
+    slug: "tax-loss-harvesting-explained"
+    status: pending
+  - title: "How to Choose the Right Health Insurance Plan"
+    keywords: "choose health insurance, health insurance guide, best health plan"
+    slug: "choose-right-health-insurance-plan"
+    status: pending
+  - title: "The Ultimate Guide to Frugal Living Without Sacrificing Fun"
+    keywords: "frugal living tips, live frugally, save money lifestyle"
+    slug: "ultimate-guide-frugal-living-fun"
+    status: pending
+  - title: "Real Estate Investing for Beginners: 3 Simple Ways to Start"
+    keywords: "real estate investing beginners, start real estate investing, passive real estate"
+    slug: "real-estate-investing-beginners-ways"
+    status: pending
+  - title: "How to Build a Diversified Investment Portfolio on a Low Salary"
+    keywords: "diversified portfolio low salary, invest on low income, build portfolio"
+    slug: "diversified-investment-portfolio-low-salary"
+    status: pending
+  - title: "Should You Pay Off Student Loans or Invest First?"
+    keywords: "student loans vs investing, pay off debt or invest, student loan payoff"
+    slug: "pay-off-student-loans-or-invest"
+    status: pending
+  - title: "Understanding Your Credit Score: Factors That Matter Most"
+    keywords: "credit score factors, what affects credit score, understand credit score"
+    slug: "understanding-credit-score-factors"
+    status: pending
+  - title: "How to Create a Retirement Plan in Your 30s"
+    keywords: "retirement plan 30s, save for retirement 30s, retirement planning age 30"
+    slug: "create-retirement-plan-in-30s"
+    status: pending
+  - title: "The Best Investment Strategies for a Recession"
+    keywords: "recession investing strategies, invest during recession, recession proof portfolio"
+    slug: "best-investment-strategies-recession"
+    status: pending
+  - title: "How to Teach Kids About Money: Age-Appropriate Lessons"
+    keywords: "teach kids about money, children financial literacy, money lessons kids"
+    slug: "teach-kids-about-money-lessons"
     status: pending
