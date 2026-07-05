@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-04"
+last_generated: "2026-07-05"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -52,7 +52,7 @@ topics:
   - title: "How to Use Advanced Search Commands on LinkedIn to Find Jobs"
     keywords: "linkedin advanced search, linkedin job search tips, linkedin search operators"
     slug: "advanced-linkedin-search-commands-jobs"
-    status: pending
+    status: published
   - title: "5 Ways to Search Your Gmail Inbox Faster Using Filters"
     keywords: "search gmail faster, gmail filters tips, email search productivity"
     slug: "search-gmail-faster-filters"
