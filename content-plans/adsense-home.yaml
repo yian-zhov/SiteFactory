@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-05"
+last_generated: "2026-07-06"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -56,7 +56,7 @@ topics:
   - title: "5 Ways to Search Your Gmail Inbox Faster Using Filters"
     keywords: "search gmail faster, gmail filters tips, email search productivity"
     slug: "search-gmail-faster-filters"
-    status: pending
+    status: published
   - title: "How to Secure Your Social Media Accounts from Hackers"
     keywords: "secure social media accounts, social media safety tips, prevent hacking"
     slug: "secure-social-media-accounts-hackers"
