@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-05"
+last_generated: "2026-07-06"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -24,7 +24,7 @@ topics:
   - title: "10 Best High-Yield Savings Accounts for 2025"
     keywords: "high yield savings accounts, best savings accounts 2025, savings account rates"
     slug: "best-high-yield-savings-accounts-2025"
-    status: pending
+    status: published
   - title: "Step-by-Step Guide to Starting an Emergency Fund"
     keywords: "emergency fund, how to start emergency fund, emergency savings"
     slug: "step-by-step-guide-starting-emergency-fund"
