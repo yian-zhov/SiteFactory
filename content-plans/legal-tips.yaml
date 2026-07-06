@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-05"
+last_generated: "2026-07-06"
 target_keywords:
   - breach of contract
   - breached company responsibility
@@ -108,7 +108,7 @@ topics:
   - title: "Understanding the Difference Between Felony and Misdemeanor"
     keywords: "felony vs misdemeanor, criminal charges difference, legal classification"
     slug: "difference-between-felony-misdemeanor"
-    status: pending
+    status: published
   - title: "How to Get a Restraining Order: A Practical Guide"
     keywords: "get restraining order, file protection order, domestic violence legal help"
     slug: "how-to-get-restraining-order-practical-guide"
