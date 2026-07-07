@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-06"
+last_generated: "2026-07-07"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -28,7 +28,7 @@ topics:
   - title: "Step-by-Step Guide to Starting an Emergency Fund"
     keywords: "emergency fund, how to start emergency fund, emergency savings"
     slug: "step-by-step-guide-starting-emergency-fund"
-    status: pending
+    status: published
   - title: "Index Funds vs ETFs: Which Is Better for Beginners?"
     keywords: "index funds vs etfs, beginner investing, index fund vs etf comparison"
     slug: "index-funds-vs-etfs-beginners-comparison"
