@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-07"
+last_generated: "2026-07-08"
 target_keywords:
   - DIY will
   - FDCPA
@@ -24,7 +24,7 @@ topics:
   - title: "What to Do Immediately After a Minor Car Accident"
     keywords: "minor car accident, car accident steps, after car accident, insurance claim"
     slug: "what-to-do-after-minor-car-accident"
-    status: pending
+    status: published
   - title: "Landlord-Tenant Rights Every Renter Should Know"
     keywords: "renter rights, landlord tenant law, security deposit, lease agreement"
     slug: "landlord-tenant-rights-renters-guide"
