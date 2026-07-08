@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-07"
+last_generated: "2026-07-08"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -64,7 +64,7 @@ topics:
   - title: "Best Private Search Engines for Anonymous Browsing"
     keywords: "private search engines, anonymous browsing, secure search engines list"
     slug: "best-private-search-engines-anonymous-browsing"
-    status: pending
+    status: published
   - title: "How to Search Within a Website Using Google Site Command"
     keywords: "google site command, search within website, site operator tips"
     slug: "search-within-website-google-site-command"
