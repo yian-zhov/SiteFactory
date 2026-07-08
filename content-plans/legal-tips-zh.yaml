@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "weekly"
-last_generated: "2026-07-01"
+last_generated: "2026-07-08"
 target_keywords:
   - 12315投诉流程
   - 被骗钱如何报警
@@ -76,7 +76,7 @@ topics:
     status: published
   - title: "交通事故伤残鉴定流程与标准"
     keywords: "交通事故伤残鉴定, 伤残等级评定标准, 伤残赔偿金计算"
-    status: pending
+    status: published
   - title: "遗嘱怎么写才具有法律效力？"
     keywords: "自书遗嘱范本, 遗嘱有效条件, 如何立遗嘱"
     status: pending
