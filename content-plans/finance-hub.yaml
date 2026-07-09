@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-08"
+last_generated: "2026-07-09"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -36,7 +36,7 @@ topics:
   - title: "How to Pay Off Credit Card Debt Fast: 5 Proven Strategies"
     keywords: "pay off credit card debt, debt repayment strategies, credit card debt payoff"
     slug: "pay-off-credit-card-debt-fast-strategies"
-    status: pending
+    status: published
   - title: "The 50/30/20 Budget Rule Explained with Examples"
     keywords: "50 30 20 rule, budget rule, budgeting percentages"
     slug: "fifty-thirty-twenty-budget-rule-explained"
