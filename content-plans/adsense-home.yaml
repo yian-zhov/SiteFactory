@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-08"
+last_generated: "2026-07-09"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -68,7 +68,7 @@ topics:
   - title: "How to Search Within a Website Using Google Site Command"
     keywords: "google site command, search within website, site operator tips"
     slug: "search-within-website-google-site-command"
-    status: pending
+    status: published
   - title: "Password Managers Compared: Which One Keeps Your Logins Safest?"
     keywords: "password manager comparison, best password manager, secure login vault"
     slug: "password-managers-compared-safest-logins"
