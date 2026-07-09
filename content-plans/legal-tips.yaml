@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-08"
+last_generated: "2026-07-09"
 target_keywords:
   - DIY will
   - FDCPA
@@ -28,7 +28,7 @@ topics:
   - title: "Landlord-Tenant Rights Every Renter Should Know"
     keywords: "renter rights, landlord tenant law, security deposit, lease agreement"
     slug: "landlord-tenant-rights-renters-guide"
-    status: pending
+    status: published
   - title: "How to Handle a Speeding Ticket in Court"
     keywords: "speeding ticket, fight speeding ticket, traffic court, reduce fine"
     slug: "handle-speeding-ticket-court"
