@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-09"
+last_generated: "2026-07-10"
 target_keywords:
   - DIY will
   - FDCPA
@@ -32,7 +32,7 @@ topics:
   - title: "How to Handle a Speeding Ticket in Court"
     keywords: "speeding ticket, fight speeding ticket, traffic court, reduce fine"
     slug: "handle-speeding-ticket-court"
-    status: pending
+    status: published
   - title: "Legal Consequences of Breaking a Lease Early"
     keywords: "break lease, early lease termination, lease penalty, landlord rights"
     slug: "legal-consequences-breaking-lease-early"
