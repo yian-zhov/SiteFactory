@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-09"
+last_generated: "2026-07-10"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -40,7 +40,7 @@ topics:
   - title: "The 50/30/20 Budget Rule Explained with Examples"
     keywords: "50 30 20 rule, budget rule, budgeting percentages"
     slug: "fifty-thirty-twenty-budget-rule-explained"
-    status: pending
+    status: published
   - title: "Best Budgeting Apps to Track Your Spending in 2025"
     keywords: "best budgeting apps, budget app 2025, spending tracker apps"
     slug: "best-budgeting-apps-track-spending-2025"
