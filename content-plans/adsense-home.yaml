@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-10"
+last_generated: "2026-07-11"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -76,7 +76,7 @@ topics:
   - title: "How to Create Strong Passwords You Can Actually Remember"
     keywords: "create strong passwords, password tips, memorable passwords"
     slug: "create-strong-passwords-remember"
-    status: pending
+    status: published
   - title: "10 Must-Know Google Search Tricks for Students"
     keywords: "google search tricks students, student research tips, academic search hacks"
     slug: "10-google-search-tricks-students"
