@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-10"
+last_generated: "2026-07-11"
 target_keywords:
   - DIY will
   - FDCPA
@@ -36,7 +36,7 @@ topics:
   - title: "Legal Consequences of Breaking a Lease Early"
     keywords: "break lease, early lease termination, lease penalty, landlord rights"
     slug: "legal-consequences-breaking-lease-early"
-    status: pending
+    status: published
   - title: "What Is a Living Trust and Do You Need One?"
     keywords: "living trust, estate planning, trust vs will, asset protection"
     slug: "living-trust-explained-need-one"
