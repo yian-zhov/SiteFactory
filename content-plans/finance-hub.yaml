@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-11"
+last_generated: "2026-07-12"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -48,7 +48,7 @@ topics:
   - title: "How to Start Investing with $100 or Less"
     keywords: "investing with little money, start investing 100 dollars, small amount investing"
     slug: "start-investing-with-100-dollars"
-    status: pending
+    status: published
   - title: "Roth IRA vs Traditional IRA: Complete Comparison Guide"
     keywords: "roth ira vs traditional ira, ira comparison, retirement account types"
     slug: "roth-vs-traditional-ira-comparison"
