@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-12"
+last_generated: "2026-07-13"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -52,7 +52,7 @@ topics:
   - title: "Roth IRA vs Traditional IRA: Complete Comparison Guide"
     keywords: "roth ira vs traditional ira, ira comparison, retirement account types"
     slug: "roth-vs-traditional-ira-comparison"
-    status: pending
+    status: published
   - title: "7 Common Money Mistakes to Avoid in Your 20s"
     keywords: "money mistakes 20s, financial mistakes young adults, avoid money mistakes twenties"
     slug: "common-money-mistakes-avoid-20s"
