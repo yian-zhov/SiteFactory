@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-13"
+last_generated: "2026-07-14"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -88,7 +88,7 @@ topics:
   - title: "The Complete Workflow for Organizing Your Bookmark Collection"
     keywords: "organize bookmarks, bookmark management, bookmark workflow"
     slug: "complete-workflow-organizing-bookmark-collection"
-    status: pending
+    status: published
   - title: "How to Use Search Operators on Twitter (X) to Find Tweets and Threads"
     keywords: "twitter search operators, x search tips, find tweets advanced"
     slug: "search-operators-twitter-x-find-tweets"
