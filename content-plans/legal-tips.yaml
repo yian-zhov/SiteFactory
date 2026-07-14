@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-13"
+last_generated: "2026-07-14"
 target_keywords:
   - DIY will
   - FDCPA
@@ -48,7 +48,7 @@ topics:
   - title: "Rights During a Police Stop: What You Can and Can't Do"
     keywords: "police stop rights, traffic stop, Miranda rights, Fourth Amendment"
     slug: "rights-during-police-stop"
-    status: pending
+    status: published
   - title: "Guide to Creating a Power of Attorney for Healthcare"
     keywords: "power of attorney healthcare, medical POA, advance directive, healthcare proxy"
     slug: "guide-creating-healthcare-power-of-attorney"
