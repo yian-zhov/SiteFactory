@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-14"
+last_generated: "2026-07-15"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -60,7 +60,7 @@ topics:
   - title: "How to Improve Your Credit Score in 30 Days"
     keywords: "improve credit score fast, credit score tips, raise credit score 30 days"
     slug: "improve-credit-score-30-days"
-    status: pending
+    status: published
   - title: "What Is Dollar-Cost Averaging and Should You Use It?"
     keywords: "dollar cost averaging, dca investing, investing strategy DCA"
     slug: "what-is-dollar-cost-averaging"
