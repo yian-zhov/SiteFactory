@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-14"
+last_generated: "2026-07-15"
 target_keywords:
   - DIY will
   - FDCPA
@@ -52,7 +52,7 @@ topics:
   - title: "Guide to Creating a Power of Attorney for Healthcare"
     keywords: "power of attorney healthcare, medical POA, advance directive, healthcare proxy"
     slug: "guide-creating-healthcare-power-of-attorney"
-    status: pending
+    status: published
   - title: "How to Get a Restraining Order Against Someone"
     keywords: "restraining order, protection order, domestic violence, file restraining order"
     slug: "how-to-get-restraining-order"
