@@ -3,92 +3,117 @@
 # Managed separately from sites/ — see docs/automated-content.md
 site: finance-hub-zh
 niche: "理财攻略"
-publishing_schedule: "weekly"
-last_generated: "2026-07-08"
+publishing_schedule: "daily"
+last_generated: "2026-07-15"
 target_keywords:
-  - ETF基金
-  - ETF交易规则
-  - ETF投资
-  - R1-R5
-  - 摆脱月光
-  - 保险攻略
-  - 保险怎么买
-  - 储蓄方法
-  - 打新技巧
-  - 低风险理财
+  - P2P投资
+  - 个人所得税
+  - 个人预算
+  - 买卖时机
+  - 低风险投资
+  - 保险产品选择
+  - 保险购买
+  - 信用卡利息
+  - 信用卡技巧
+  - 信用记录
 topics:
-  - title: "新手如何开始个人理财第一步"
-    keywords: "个人理财入门, 新手理财, 理财第一步"
+  - title: "新手理财入门：建立财务健康的基础步骤"
+    keywords: "新手理财入门, 财务健康, 理财基础知识"
+    slug: "personal-finance-basics-for-beginners"
     status: published
-  - title: "家庭月度预算表怎么做"
-    keywords: "家庭预算表, 月度预算, 家庭理财规划"
-    status: published
-  - title: "银行存款、货币基金、国债哪个更安全"
-    keywords: "低风险理财, 银行存款, 货币基金, 国债"
-    status: published
-  - title: "基金定投完全指南：从入门到精通"
-    keywords: "基金定投, 基金投资指南, 定投策略"
-    status: published
-  - title: "股票开户与交易入门基础知识"
-    keywords: "股票开户, 股票入门, 股票交易基础"
-    status: published
-  - title: "如何建立个人紧急备用金"
-    keywords: "紧急备用金, 应急资金, 个人财务安全"
-    status: published
-  - title: "信用卡使用技巧与避坑指南"
-    keywords: "信用卡技巧, 信用卡避坑, 信用卡管理"
-    status: published
-  - title: "保险怎么买？家庭保险配置全攻略"
-    keywords: "家庭保险配置, 保险怎么买, 保险攻略"
-    status: published
-  - title: "房贷提前还款划算吗？详细计算与分析"
-    keywords: "房贷提前还款, 提前还款计算, 房贷划算"
-    status: published
-  - title: "指数基金与主动型基金的区别与选择"
-    keywords: "指数基金, 主动型基金, 基金选择"
-    status: published
-  - title: "个人养老金账户是什么？如何开户与投资"
-    keywords: "个人养老金账户, 养老金开户, 养老金投资"
-    status: published
-  - title: "如何分析一家公司的股票是否值得投资"
-    keywords: "股票分析, 公司分析, 选股方法"
-    status: published
-  - title: "短期理财工具有哪些？七日年化收益率怎么看"
-    keywords: "短期理财, 理财工具, 七日年化收益率"
-    status: published
-  - title: "基金净值、估值、费率怎么看？小白必读"
-    keywords: "基金净值, 基金估值, 基金费率"
-    status: published
-  - title: "可转债打新入门与实战技巧"
-    keywords: "可转债打新, 可转债投资, 打新技巧"
-    status: published
-  - title: "月光族如何摆脱月光并开始储蓄"
-    keywords: "月光族理财, 摆脱月光, 储蓄方法"
-    status: published
-  - title: "银行理财产品风险等级R1-R5是什么意思"
-    keywords: "银行理财风险等级, R1-R5, 理财产品风险"
-    status: published
-  - title: "ETF基金是什么？交易规则与投资策略"
-    keywords: "ETF基金, ETF交易规则, ETF投资"
-    status: published
-  - title: "如何制定一个可行的五年理财目标"
-    keywords: "五年理财目标, 理财规划, 长期目标"
-    status: published
-  - title: "黄金投资有哪些渠道？优缺点分析"
-    keywords: "黄金投资渠道, 黄金投资优缺点, 黄金理财"
-    status: published
-  - title: "年收入20万如何合理分配进行投资理财"
-    keywords: "年收入20万理财, 收入分配, 投资分配"
-    status: published
-  - title: "基金分红方式选择：现金分红还是红利再投资"
-    keywords: "基金分红方式, 现金分红, 红利再投资"
-    status: published
-  - title: "国债逆回购操作指南与收益技巧"
-    keywords: "国债逆回购, 逆回购操作, 国债逆回购收益"
-    status: published
-  - title: "如何为子女教育准备专项储蓄与投资"
-    keywords: "子女教育储蓄, 教育金规划, 教育投资"
+  - title: "如何制定个人预算：月度收支管理实用方法"
+    keywords: "个人预算, 月度收支, 预算管理方法"
+    slug: "how-to-create-a-monthly-budget"
     status: pending
-  - title: "不同人生阶段的理财重点与资产配置建议"
-    keywords: "人生阶段理财, 资产配置建议, 理财重点"
+  - title: "紧急备用金存多少？最科学的计算方法"
+    keywords: "紧急备用金, 储备金计算, 应急资金"
+    slug: "how-much-emergency-fund-needed"
+    status: pending
+  - title: "股票投资入门指南：从零开始选股"
+    keywords: "股票投资入门, 选股技巧, 新手炒股"
+    slug: "stock-investing-guide-for-beginners"
+    status: pending
+  - title: "基金定投策略解析：长期稳健增值的秘诀"
+    keywords: "基金定投, 定投策略, 长期投资增值"
+    slug: "dollar-cost-averaging-strategy-guide"
+    status: pending
+  - title: "信用卡使用技巧：如何避免高息陷阱"
+    keywords: "信用卡技巧, 信用卡利息, 避免负债"
+    slug: "credit-card-tips-avoid-interest-traps"
+    status: pending
+  - title: "房贷选择攻略：等额本息 vs 等额本金"
+    keywords: "房贷选择, 等额本息, 等额本金, 贷款对比"
+    slug: "mortgage-comparison-fixed-vs-variable"
+    status: pending
+  - title: "理财小白必读：5种常见投资工具优缺点对比"
+    keywords: "投资工具对比, 理财小白, 股票基金债券"
+    slug: "common-investment-tools-comparison"
+    status: pending
+  - title: "如何提高信用评分：实用技巧与误区"
+    keywords: "信用评分提升, 信用记录, 征信优化"
+    slug: "how-to-improve-credit-score"
+    status: pending
+  - title: "儿童理财教育：培养孩子财商的有效方法"
+    keywords: "儿童理财教育, 孩子财商, 青少年理财"
+    slug: "financial-literacy-for-kids-guide"
+    status: pending
+  - title: "国债逆回购投资全攻略：低风险短期理财"
+    keywords: "国债逆回购, 短期理财, 低风险投资"
+    slug: "government-bond-repurchase-investing"
+    status: pending
+  - title: "退休养老金规划：如何实现财务自由"
+    keywords: "退休规划, 养老金, 财务自由"
+    slug: "retirement-planning-financial-freedom"
+    status: pending
+  - title: "月薪5000元如何理财：适合工薪族的资产配置"
+    keywords: "月薪理财, 工薪族资产配置, 小额投资"
+    slug: "how-to-invest-with-5000-yuan-salary"
+    status: pending
+  - title: "股票均线分析技巧：确定买卖时机"
+    keywords: "股票均线, 买卖时机, 技术分析"
+    slug: "stock-moving-average-analysis-tips"
+    status: pending
+  - title: "基金类型全解析：货币型、债券型与混合型"
+    keywords: "基金类型, 货币基金, 债券基金, 混合基金"
+    slug: "types-of-mutual-funds-explained"
+    status: pending
+  - title: "省税妙招：个人所得税抵扣技巧"
+    keywords: "个人所得税, 省税技巧, 税务抵扣"
+    slug: "income-tax-deduction-strategies"
+    status: pending
+  - title: "理财常见陷阱：避免投资骗局与误区"
+    keywords: "理财陷阱, 投资骗局, 避免误区"
+    slug: "common-financial-scams-and-mistakes"
+    status: pending
+  - title: "家庭理财规划：夫妻共同管理财务的方法"
+    keywords: "家庭理财, 夫妻财务规划, 共同管理"
+    slug: "family-financial-planning-couples"
+    status: pending
+  - title: "黄金投资指南：实物黄金与黄金ETF对比"
+    keywords: "黄金投资, 实物黄金, 黄金ETF"
+    slug: "gold-investing-physical-vs-etf"
+    status: pending
+  - title: "住房贷款提前还款：划算还是不划算？"
+    keywords: "提前还款, 房贷划算, 贷款决策"
+    slug: "early-mortgage-payoff-pros-and-cons"
+    status: pending
+  - title: "理财App推荐：个人资金管理的最佳工具"
+    keywords: "理财App, 资金管理工具, 记账软件"
+    slug: "best-personal-finance-apps-recommendation"
+    status: pending
+  - title: "如何应对通货膨胀：资产保值策略"
+    keywords: "通货膨胀, 资产保值, 抗通胀投资"
+    slug: "how-to-beat-inflation-asset-preservation"
+    status: pending
+  - title: "金融科技投资：P2P与数字银行风险分析"
+    keywords: "金融科技, P2P投资, 数字银行风险"
+    slug: "fintech-investment-risks-in-analysis"
+    status: pending
+  - title: "遗产规划入门：如何合理分配资产"
+    keywords: "遗产规划, 资产分配, 继承策略"
+    slug: "estate-planning-guide-asset-distribution"
+    status: pending
+  - title: "保险购买指南：为家庭选择合适保险产品"
+    keywords: "保险购买, 家庭保险, 保险产品选择"
+    slug: "how-to-choose-insurance-for-family"
     status: pending
