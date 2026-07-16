@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-15"
+last_generated: "2026-07-16"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -96,7 +96,7 @@ topics:
   - title: "Phishing Emails: How to Identify and Avoid Them"
     keywords: "identify phishing emails, avoid phishing scams, email safety tips"
     slug: "phishing-emails-identify-avoid"
-    status: pending
+    status: published
   - title: "How to Search YouTube Videos Like a Pro Using Filters"
     keywords: "youtube search filters, find youtube videos, advanced youtube search"
     slug: "search-youtube-videos-pro-filters"
