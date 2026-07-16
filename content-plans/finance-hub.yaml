@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-15"
+last_generated: "2026-07-16"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -64,7 +64,7 @@ topics:
   - title: "What Is Dollar-Cost Averaging and Should You Use It?"
     keywords: "dollar cost averaging, dca investing, investing strategy DCA"
     slug: "what-is-dollar-cost-averaging"
-    status: pending
+    status: published
   - title: "Side Hustle Ideas to Make Extra Money in 2025"
     keywords: "side hustle ideas, make extra money, best side hustles 2025"
     slug: "side-hustle-ideas-extra-money-2025"
