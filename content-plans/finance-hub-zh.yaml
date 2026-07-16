@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-15"
+last_generated: "2026-07-16"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -24,7 +24,7 @@ topics:
   - title: "如何制定个人预算：月度收支管理实用方法"
     keywords: "个人预算, 月度收支, 预算管理方法"
     slug: "how-to-create-a-monthly-budget"
-    status: pending
+    status: published
   - title: "紧急备用金存多少？最科学的计算方法"
     keywords: "紧急备用金, 储备金计算, 应急资金"
     slug: "how-much-emergency-fund-needed"
