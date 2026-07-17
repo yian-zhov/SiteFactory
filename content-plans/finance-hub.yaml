@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-16"
+last_generated: "2026-07-17"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -68,7 +68,7 @@ topics:
   - title: "Side Hustle Ideas to Make Extra Money in 2025"
     keywords: "side hustle ideas, make extra money, best side hustles 2025"
     slug: "side-hustle-ideas-extra-money-2025"
-    status: pending
+    status: published
   - title: "How to Negotiate a Raise: Step-by-Step Script and Tips"
     keywords: "how to negotiate a raise, salary negotiation tips, asking for raise"
     slug: "how-to-negotiate-raise-script-tips"
