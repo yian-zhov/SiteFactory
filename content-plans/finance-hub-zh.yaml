@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-16"
+last_generated: "2026-07-17"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -28,7 +28,7 @@ topics:
   - title: "紧急备用金存多少？最科学的计算方法"
     keywords: "紧急备用金, 储备金计算, 应急资金"
     slug: "how-much-emergency-fund-needed"
-    status: pending
+    status: published
   - title: "股票投资入门指南：从零开始选股"
     keywords: "股票投资入门, 选股技巧, 新手炒股"
     slug: "stock-investing-guide-for-beginners"
