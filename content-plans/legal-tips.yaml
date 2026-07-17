@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-16"
+last_generated: "2026-07-17"
 target_keywords:
   - DIY will
   - FDCPA
@@ -60,7 +60,7 @@ topics:
   - title: "Legal Steps to Take When a Contractor Scams You"
     keywords: "contractor scam, home repair fraud, sue contractor, contractor dispute"
     slug: "legal-steps-contractor-scams"
-    status: pending
+    status: published
   - title: "What Happens If You're Sued for a Credit Card Debt"
     keywords: "credit card debt lawsuit, sued for debt, debt collection, court summons"
     slug: "what-happens-sued-credit-card-debt"
