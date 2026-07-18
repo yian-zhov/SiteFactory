@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-17"
+last_generated: "2026-07-18"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -72,7 +72,7 @@ topics:
   - title: "How to Negotiate a Raise: Step-by-Step Script and Tips"
     keywords: "how to negotiate a raise, salary negotiation tips, asking for raise"
     slug: "how-to-negotiate-raise-script-tips"
-    status: pending
+    status: published
   - title: "Compound Interest Explained: Why Starting Early Matters"
     keywords: "compound interest explanation, power of compound interest, how compound interest works"
     slug: "compound-interest-explained-start-early"
