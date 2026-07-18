@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-17"
+last_generated: "2026-07-18"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -104,7 +104,7 @@ topics:
   - title: "6 Tips for Safe Online Shopping and Avoiding Scams"
     keywords: "safe online shopping, avoid shopping scams, e-commerce safety tips"
     slug: "tips-safe-online-shopping-avoid-scams"
-    status: pending
+    status: published
   - title: "How to Create a Searchable Personal Knowledge Base with Simple Tools"
     keywords: "personal knowledge base, search notes, knowledge management tools"
     slug: "create-searchable-personal-knowledge-base"
