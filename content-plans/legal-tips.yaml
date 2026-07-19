@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-18"
+last_generated: "2026-07-19"
 target_keywords:
   - DIY will
   - FDCPA
@@ -68,7 +68,7 @@ topics:
   - title: "How to Legally Change Your Name"
     keywords: "name change, legal name change, change name process, court name change"
     slug: "how-to-legally-change-your-name"
-    status: pending
+    status: published
   - title: "Understanding the Statute of Limitations for Common Crimes"
     keywords: "statute of limitations, criminal charges, time limit, legal deadlines"
     slug: "statute-limitations-common-crimes"
