@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-18"
+last_generated: "2026-07-19"
 target_keywords:
   - academic database search
   - academic search hacks
@@ -108,7 +108,7 @@ topics:
   - title: "How to Create a Searchable Personal Knowledge Base with Simple Tools"
     keywords: "personal knowledge base, search notes, knowledge management tools"
     slug: "create-searchable-personal-knowledge-base"
-    status: pending
+    status: published
   - title: "Comparison of VPNs for Private Browsing and Search Protection"
     keywords: "vpn private browsing, search protection vpn, best vpn comparison"
     slug: "comparison-vpns-private-browsing-search-protection"
