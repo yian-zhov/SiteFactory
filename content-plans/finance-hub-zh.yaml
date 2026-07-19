@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-18"
+last_generated: "2026-07-19"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -36,7 +36,7 @@ topics:
   - title: "基金定投策略解析：长期稳健增值的秘诀"
     keywords: "基金定投, 定投策略, 长期投资增值"
     slug: "dollar-cost-averaging-strategy-guide"
-    status: pending
+    status: published
   - title: "信用卡使用技巧：如何避免高息陷阱"
     keywords: "信用卡技巧, 信用卡利息, 避免负债"
     slug: "credit-card-tips-avoid-interest-traps"
