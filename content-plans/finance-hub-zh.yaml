@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-19"
+last_generated: "2026-07-20"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -40,7 +40,7 @@ topics:
   - title: "信用卡使用技巧：如何避免高息陷阱"
     keywords: "信用卡技巧, 信用卡利息, 避免负债"
     slug: "credit-card-tips-avoid-interest-traps"
-    status: pending
+    status: published
   - title: "房贷选择攻略：等额本息 vs 等额本金"
     keywords: "房贷选择, 等额本息, 等额本金, 贷款对比"
     slug: "mortgage-comparison-fixed-vs-variable"
