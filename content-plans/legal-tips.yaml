@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-19"
+last_generated: "2026-07-20"
 target_keywords:
   - DIY will
   - FDCPA
@@ -72,7 +72,7 @@ topics:
   - title: "Understanding the Statute of Limitations for Common Crimes"
     keywords: "statute of limitations, criminal charges, time limit, legal deadlines"
     slug: "statute-limitations-common-crimes"
-    status: pending
+    status: published
   - title: "Child Custody Basics for Separated Parents"
     keywords: "child custody, custody agreement, parenting plan, custody rights"
     slug: "child-custody-basics-separated-parents"
