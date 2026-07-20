@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-19"
+last_generated: "2026-07-20"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -80,7 +80,7 @@ topics:
   - title: "Everything You Need to Know About Tax-Loss Harvesting"
     keywords: "tax loss harvesting, tax efficient investing, reduce taxes investments"
     slug: "tax-loss-harvesting-explained"
-    status: pending
+    status: published
   - title: "How to Choose the Right Health Insurance Plan"
     keywords: "choose health insurance, health insurance guide, best health plan"
     slug: "choose-right-health-insurance-plan"
