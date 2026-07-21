@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-20"
+last_generated: "2026-07-21"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -84,7 +84,7 @@ topics:
   - title: "How to Choose the Right Health Insurance Plan"
     keywords: "choose health insurance, health insurance guide, best health plan"
     slug: "choose-right-health-insurance-plan"
-    status: pending
+    status: published
   - title: "The Ultimate Guide to Frugal Living Without Sacrificing Fun"
     keywords: "frugal living tips, live frugally, save money lifestyle"
     slug: "ultimate-guide-frugal-living-fun"
