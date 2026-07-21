@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-20"
+last_generated: "2026-07-21"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -44,7 +44,7 @@ topics:
   - title: "房贷选择攻略：等额本息 vs 等额本金"
     keywords: "房贷选择, 等额本息, 等额本金, 贷款对比"
     slug: "mortgage-comparison-fixed-vs-variable"
-    status: pending
+    status: published
   - title: "理财小白必读：5种常见投资工具优缺点对比"
     keywords: "投资工具对比, 理财小白, 股票基金债券"
     slug: "common-investment-tools-comparison"
