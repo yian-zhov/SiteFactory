@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-20"
+last_generated: "2026-07-21"
 target_keywords:
   - DIY will
   - FDCPA
@@ -76,7 +76,7 @@ topics:
   - title: "Child Custody Basics for Separated Parents"
     keywords: "child custody, custody agreement, parenting plan, custody rights"
     slug: "child-custody-basics-separated-parents"
-    status: pending
+    status: published
   - title: "What to Do If You're in a Hit-and-Run Accident"
     keywords: "hit and run, hit and run accident, after hit and run, insurance hit and run"
     slug: "what-to-do-hit-and-run-accident"
