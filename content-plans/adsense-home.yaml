@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-21"
+last_generated: "2026-07-22"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -28,7 +28,7 @@ topics:
   - title: "How to Reverse Image Search on Desktop and Mobile"
     keywords: "reverse image search, search by image, image lookup tools"
     slug: "reverse-image-search-desktop-mobile"
-    status: pending
+    status: published
   - title: "Boolean Search Cheat Sheet for Job Hunters and Recruiters"
     keywords: "boolean search, boolean search strings, job search tips"
     slug: "boolean-search-cheat-sheet-job-hunters"
