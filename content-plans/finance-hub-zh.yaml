@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-21"
+last_generated: "2026-07-22"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -48,7 +48,7 @@ topics:
   - title: "理财小白必读：5种常见投资工具优缺点对比"
     keywords: "投资工具对比, 理财小白, 股票基金债券"
     slug: "common-investment-tools-comparison"
-    status: pending
+    status: published
   - title: "如何提高信用评分：实用技巧与误区"
     keywords: "信用评分提升, 信用记录, 征信优化"
     slug: "how-to-improve-credit-score"
