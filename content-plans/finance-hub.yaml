@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-21"
+last_generated: "2026-07-22"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -88,7 +88,7 @@ topics:
   - title: "The Ultimate Guide to Frugal Living Without Sacrificing Fun"
     keywords: "frugal living tips, live frugally, save money lifestyle"
     slug: "ultimate-guide-frugal-living-fun"
-    status: pending
+    status: published
   - title: "Real Estate Investing for Beginners: 3 Simple Ways to Start"
     keywords: "real estate investing beginners, start real estate investing, passive real estate"
     slug: "real-estate-investing-beginners-ways"
