@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-22"
+last_generated: "2026-07-23"
 target_keywords:
   - DIY will
   - FDCPA
@@ -84,7 +84,7 @@ topics:
   - title: "How to Get a Passport Fast: Legal Options and Tips"
     keywords: "get passport fast, expedited passport, passport application, passport delay"
     slug: "get-passport-fast-legal-options"
-    status: pending
+    status: published
   - title: "Legal Rights When Dealing with Debt Collectors"
     keywords: "debt collector rights, FDCPA, debt harassment, stop debt calls"
     slug: "rights-dealing-with-debt-collectors"
