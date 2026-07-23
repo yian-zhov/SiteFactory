@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-22"
+last_generated: "2026-07-23"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -32,7 +32,7 @@ topics:
   - title: "Boolean Search Cheat Sheet for Job Hunters and Recruiters"
     keywords: "boolean search, boolean search strings, job search tips"
     slug: "boolean-search-cheat-sheet-job-hunters"
-    status: pending
+    status: published
   - title: "10 Advanced Google Tricks to Speed Up Your Research Workflow"
     keywords: "google search tricks, faster research, productivity search tips"
     slug: "advanced-google-tricks-speed-research"
