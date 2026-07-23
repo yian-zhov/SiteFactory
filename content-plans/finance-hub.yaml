@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-22"
+last_generated: "2026-07-23"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -92,7 +92,7 @@ topics:
   - title: "Real Estate Investing for Beginners: 3 Simple Ways to Start"
     keywords: "real estate investing beginners, start real estate investing, passive real estate"
     slug: "real-estate-investing-beginners-ways"
-    status: pending
+    status: published
   - title: "How to Build a Diversified Investment Portfolio on a Low Salary"
     keywords: "diversified portfolio low salary, invest on low income, build portfolio"
     slug: "diversified-investment-portfolio-low-salary"
