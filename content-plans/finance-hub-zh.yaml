@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-22"
+last_generated: "2026-07-23"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -52,7 +52,7 @@ topics:
   - title: "如何提高信用评分：实用技巧与误区"
     keywords: "信用评分提升, 信用记录, 征信优化"
     slug: "how-to-improve-credit-score"
-    status: pending
+    status: published
   - title: "儿童理财教育：培养孩子财商的有效方法"
     keywords: "儿童理财教育, 孩子财商, 青少年理财"
     slug: "financial-literacy-for-kids-guide"
