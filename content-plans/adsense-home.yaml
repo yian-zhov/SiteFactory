@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-23"
+last_generated: "2026-07-24"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -36,7 +36,7 @@ topics:
   - title: "10 Advanced Google Tricks to Speed Up Your Research Workflow"
     keywords: "google search tricks, faster research, productivity search tips"
     slug: "advanced-google-tricks-speed-research"
-    status: pending
+    status: published
   - title: "How to Search for Free Stock Photos Without Licensing Issues"
     keywords: "free stock photos, royalty-free images, image search tips"
     slug: "search-free-stock-photos-no-licensing-issues"
