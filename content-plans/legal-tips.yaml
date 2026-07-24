@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-23"
+last_generated: "2026-07-24"
 target_keywords:
   - DIY will
   - FDCPA
@@ -88,7 +88,7 @@ topics:
   - title: "Legal Rights When Dealing with Debt Collectors"
     keywords: "debt collector rights, FDCPA, debt harassment, stop debt calls"
     slug: "rights-dealing-with-debt-collectors"
-    status: pending
+    status: published
   - title: "How to Write a Cease and Desist Letter"
     keywords: "cease and desist, legal letter, harassment, infringement"
     slug: "how-to-write-cease-and-desist-letter"
