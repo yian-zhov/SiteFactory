@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-24"
+last_generated: "2026-07-25"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -60,7 +60,7 @@ topics:
   - title: "国债逆回购投资全攻略：低风险短期理财"
     keywords: "国债逆回购, 短期理财, 低风险投资"
     slug: "government-bond-repurchase-investing"
-    status: pending
+    status: published
   - title: "退休养老金规划：如何实现财务自由"
     keywords: "退休规划, 养老金, 财务自由"
     slug: "retirement-planning-financial-freedom"
