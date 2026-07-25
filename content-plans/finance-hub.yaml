@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-24"
+last_generated: "2026-07-25"
 target_keywords:
   - 50 30 20 rule
   - asking for raise
@@ -100,7 +100,7 @@ topics:
   - title: "Should You Pay Off Student Loans or Invest First?"
     keywords: "student loans vs investing, pay off debt or invest, student loan payoff"
     slug: "pay-off-student-loans-or-invest"
-    status: pending
+    status: published
   - title: "Understanding Your Credit Score: Factors That Matter Most"
     keywords: "credit score factors, what affects credit score, understand credit score"
     slug: "understanding-credit-score-factors"
