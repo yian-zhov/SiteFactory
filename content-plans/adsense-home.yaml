@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-25"
+last_generated: "2026-07-26"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -44,7 +44,7 @@ topics:
   - title: "Google vs DuckDuckGo vs Bing: Which Search Engine Is Best for You"
     keywords: "google vs duckduckgo vs bing, compare search engines, best search engine"
     slug: "google-vs-duckduckgo-vs-bing-comparison"
-    status: pending
+    status: published
   - title: "How to Use Search Filters on Amazon and eBay to Find the Best Deals"
     keywords: "amazon search filters, ebay search tips, find deals online"
     slug: "use-amazon-ebay-search-filters-best-deals"
