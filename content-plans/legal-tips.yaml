@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-25"
+last_generated: "2026-07-26"
 target_keywords:
   - DIY will
   - FDCPA
@@ -96,7 +96,7 @@ topics:
   - title: "What Is Probate and How to Avoid It"
     keywords: "probate, avoid probate, estate probate, probate process, inheritance"
     slug: "what-is-probate-avoid-it"
-    status: pending
+    status: published
   - title: "Can You Be Fired for No Reason? At-Will Employment Explained"
     keywords: "at-will employment, fired without cause, wrongful termination, employment at will"
     slug: "fired-no-reason-at-will-employment"
