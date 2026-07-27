@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-26"
+last_generated: "2026-07-27"
 target_keywords:
   - DIY will
   - FDCPA
@@ -100,7 +100,7 @@ topics:
   - title: "Can You Be Fired for No Reason? At-Will Employment Explained"
     keywords: "at-will employment, fired without cause, wrongful termination, employment at will"
     slug: "fired-no-reason-at-will-employment"
-    status: pending
+    status: published
   - title: "Steps to Dispute a Medical Bill in the US"
     keywords: "dispute medical bill, medical billing errors, fight medical bill, hospital charges"
     slug: "steps-dispute-medical-bill-us"
