@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-26"
+last_generated: "2026-07-27"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -68,7 +68,7 @@ topics:
   - title: "月薪5000元如何理财：适合工薪族的资产配置"
     keywords: "月薪理财, 工薪族资产配置, 小额投资"
     slug: "how-to-invest-with-5000-yuan-salary"
-    status: pending
+    status: published
   - title: "股票均线分析技巧：确定买卖时机"
     keywords: "股票均线, 买卖时机, 技术分析"
     slug: "stock-moving-average-analysis-tips"
