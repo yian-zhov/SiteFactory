@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-27"
+last_generated: "2026-07-28"
 target_keywords:
   - DIY will
   - FDCPA
@@ -104,7 +104,7 @@ topics:
   - title: "Steps to Dispute a Medical Bill in the US"
     keywords: "dispute medical bill, medical billing errors, fight medical bill, hospital charges"
     slug: "steps-dispute-medical-bill-us"
-    status: pending
+    status: published
   - title: "How to Get a Marriage License in Your State"
     keywords: "marriage license, get married legally, marriage requirements, marriage certificate"
     slug: "get-marriage-license-your-state"
