@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-27"
+last_generated: "2026-07-28"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -72,7 +72,7 @@ topics:
   - title: "股票均线分析技巧：确定买卖时机"
     keywords: "股票均线, 买卖时机, 技术分析"
     slug: "stock-moving-average-analysis-tips"
-    status: pending
+    status: published
   - title: "基金类型全解析：货币型、债券型与混合型"
     keywords: "基金类型, 货币基金, 债券基金, 混合基金"
     slug: "types-of-mutual-funds-explained"
