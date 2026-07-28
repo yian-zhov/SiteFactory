@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-27"
+last_generated: "2026-07-28"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -52,7 +52,7 @@ topics:
   - title: "7 Search Strategies for Academic Research and Finding Peer-Reviewed Papers"
     keywords: "academic research search, peer-reviewed papers, scholarly search tips"
     slug: "search-strategies-academic-research-papers"
-    status: pending
+    status: published
   - title: "How to Remove Personal Information from Search Engines and People Finder Sites"
     keywords: "remove personal info search, people finder opt out, privacy online"
     slug: "remove-personal-information-search-engines"
