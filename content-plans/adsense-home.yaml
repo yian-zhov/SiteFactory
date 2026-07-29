@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-28"
+last_generated: "2026-07-29"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -56,7 +56,7 @@ topics:
   - title: "How to Remove Personal Information from Search Engines and People Finder Sites"
     keywords: "remove personal info search, people finder opt out, privacy online"
     slug: "remove-personal-information-search-engines"
-    status: pending
+    status: published
   - title: "How to Search for Files on Public FTP Servers and Open Directories"
     keywords: "ftp file search, open directories search, public files online"
     slug: "search-files-public-ftp-servers"
