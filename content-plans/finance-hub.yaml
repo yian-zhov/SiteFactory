@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-28"
+last_generated: "2026-07-29"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -24,7 +24,7 @@ topics:
   - title: "Step-by-Step Guide to Building an Emergency Fund from Scratch"
     keywords: "how to build emergency fund, emergency savings guide, emergency fund steps"
     slug: "build-emergency-fund-from-scratch"
-    status: pending
+    status: published
   - title: "How to Start Investing in Index Funds: A Complete Beginner's Guide"
     keywords: "investing in index funds, index fund beginner guide, how to start investing"
     slug: "start-investing-index-funds-beginners-guide"
