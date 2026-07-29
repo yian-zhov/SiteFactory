@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-07-28"
+last_generated: "2026-07-29"
 target_keywords:
   - DIY will
   - FDCPA
@@ -108,7 +108,7 @@ topics:
   - title: "How to Get a Marriage License in Your State"
     keywords: "marriage license, get married legally, marriage requirements, marriage certificate"
     slug: "get-marriage-license-your-state"
-    status: pending
+    status: published
   - title: "Navigating the Eviction Process as a Tenant"
     keywords: "eviction process, tenant eviction rights, fight eviction, eviction notice"
     slug: "navigating-eviction-process-tenant"
