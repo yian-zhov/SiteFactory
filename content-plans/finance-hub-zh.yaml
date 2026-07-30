@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-29"
+last_generated: "2026-07-30"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -80,7 +80,7 @@ topics:
   - title: "省税妙招：个人所得税抵扣技巧"
     keywords: "个人所得税, 省税技巧, 税务抵扣"
     slug: "income-tax-deduction-strategies"
-    status: pending
+    status: published
   - title: "理财常见陷阱：避免投资骗局与误区"
     keywords: "理财陷阱, 投资骗局, 避免误区"
     slug: "common-financial-scams-and-mistakes"
