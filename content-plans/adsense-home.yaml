@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-29"
+last_generated: "2026-07-30"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -60,7 +60,7 @@ topics:
   - title: "How to Search for Files on Public FTP Servers and Open Directories"
     keywords: "ftp file search, open directories search, public files online"
     slug: "search-files-public-ftp-servers"
-    status: pending
+    status: published
   - title: "Best Chrome Extensions to Supercharge Your Search Experience"
     keywords: "chrome extensions search, improve search browser, search tools extensions"
     slug: "best-chrome-extensions-search-experience"
