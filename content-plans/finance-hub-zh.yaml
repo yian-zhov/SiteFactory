@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-30"
+last_generated: "2026-07-31"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -84,7 +84,7 @@ topics:
   - title: "理财常见陷阱：避免投资骗局与误区"
     keywords: "理财陷阱, 投资骗局, 避免误区"
     slug: "common-financial-scams-and-mistakes"
-    status: pending
+    status: published
   - title: "家庭理财规划：夫妻共同管理财务的方法"
     keywords: "家庭理财, 夫妻财务规划, 共同管理"
     slug: "family-financial-planning-couples"
