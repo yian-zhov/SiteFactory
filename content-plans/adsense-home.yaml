@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-30"
+last_generated: "2026-07-31"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -64,7 +64,7 @@ topics:
   - title: "Best Chrome Extensions to Supercharge Your Search Experience"
     keywords: "chrome extensions search, improve search browser, search tools extensions"
     slug: "best-chrome-extensions-search-experience"
-    status: pending
+    status: published
   - title: "How to Search Facebook, Twitter, and LinkedIn Like a Pro"
     keywords: "search social media, advanced facebook search, linkedin search tips"
     slug: "search-facebook-twitter-linkedin-like-pro"
