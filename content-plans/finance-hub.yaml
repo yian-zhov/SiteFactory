@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-07-31"
+last_generated: "2026-08-01"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -36,7 +36,7 @@ topics:
   - title: "5 Essential Steps to Create a Monthly Budget That Actually Works"
     keywords: "create monthly budget, budgeting steps, effective budget plan, personal finance budget"
     slug: "steps-to-create-effective-monthly-budget"
-    status: pending
+    status: published
   - title: "The Ultimate Guide to Paying Off Credit Card Debt Fast"
     keywords: "pay off credit card debt, credit card debt payoff strategies, debt reduction tips"
     slug: "ultimate-guide-pay-credit-card-debt-fast"
