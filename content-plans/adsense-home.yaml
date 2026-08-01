@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-07-31"
+last_generated: "2026-08-01"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -68,7 +68,7 @@ topics:
   - title: "How to Search Facebook, Twitter, and LinkedIn Like a Pro"
     keywords: "search social media, advanced facebook search, linkedin search tips"
     slug: "search-facebook-twitter-linkedin-like-pro"
-    status: pending
+    status: published
   - title: "10 Common Online Search Mistakes and How to Avoid Them"
     keywords: "search mistakes, online search errors, better search habits"
     slug: "common-online-search-mistakes-avoid"
