@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-07-31"
+last_generated: "2026-08-01"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -88,7 +88,7 @@ topics:
   - title: "家庭理财规划：夫妻共同管理财务的方法"
     keywords: "家庭理财, 夫妻财务规划, 共同管理"
     slug: "family-financial-planning-couples"
-    status: pending
+    status: published
   - title: "黄金投资指南：实物黄金与黄金ETF对比"
     keywords: "黄金投资, 实物黄金, 黄金ETF"
     slug: "gold-investing-physical-vs-etf"
