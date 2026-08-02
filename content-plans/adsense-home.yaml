@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-01"
+last_generated: "2026-08-02"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -72,7 +72,7 @@ topics:
   - title: "10 Common Online Search Mistakes and How to Avoid Them"
     keywords: "search mistakes, online search errors, better search habits"
     slug: "common-online-search-mistakes-avoid"
-    status: pending
+    status: published
   - title: "How to Search for Open-Source Intelligence (OSINT) for Investigators and Journalists"
     keywords: "osint search, open source intelligence, investigator search tools"
     slug: "search-osint-investigators-journalists"
