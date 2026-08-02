@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-01"
+last_generated: "2026-08-02"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -92,7 +92,7 @@ topics:
   - title: "黄金投资指南：实物黄金与黄金ETF对比"
     keywords: "黄金投资, 实物黄金, 黄金ETF"
     slug: "gold-investing-physical-vs-etf"
-    status: pending
+    status: published
   - title: "住房贷款提前还款：划算还是不划算？"
     keywords: "提前还款, 房贷划算, 贷款决策"
     slug: "early-mortgage-payoff-pros-and-cons"
