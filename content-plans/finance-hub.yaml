@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-01"
+last_generated: "2026-08-02"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -40,7 +40,7 @@ topics:
   - title: "The Ultimate Guide to Paying Off Credit Card Debt Fast"
     keywords: "pay off credit card debt, credit card debt payoff strategies, debt reduction tips"
     slug: "ultimate-guide-pay-credit-card-debt-fast"
-    status: pending
+    status: published
   - title: "401k vs Roth IRA: Key Differences and How to Choose"
     keywords: "401k vs roth ira, 401k roth ira differences, retirement savings choice"
     slug: "401k-vs-roth-ira-key-differences"
