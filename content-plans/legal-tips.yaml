@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-01"
+last_generated: "2026-08-02"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -32,7 +32,7 @@ topics:
   - title: "How to Write a Simple Rental Agreement Yourself"
     keywords: "rental agreement template, diy lease, landlord contract"
     slug: "write-simple-rental-agreement"
-    status: pending
+    status: published
   - title: "Small Claims Court Guide: What You Can Sue For"
     keywords: "small claims court limits, filing a claim, represent yourself"
     slug: "small-claims-court-sue-guide"
