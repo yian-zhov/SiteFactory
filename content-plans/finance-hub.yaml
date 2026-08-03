@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-02"
+last_generated: "2026-08-03"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -44,7 +44,7 @@ topics:
   - title: "401k vs Roth IRA: Key Differences and How to Choose"
     keywords: "401k vs roth ira, 401k roth ira differences, retirement savings choice"
     slug: "401k-vs-roth-ira-key-differences"
-    status: pending
+    status: published
   - title: "7 Side Hustle Ideas for Beginners to Make Extra Money in 2025"
     keywords: "side hustle ideas, beginner side hustles, make extra money, passive income ideas"
     slug: "beginner-side-hustle-ideas-2025"
