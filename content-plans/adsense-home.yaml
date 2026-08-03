@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-02"
+last_generated: "2026-08-03"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -76,7 +76,7 @@ topics:
   - title: "How to Search for Open-Source Intelligence (OSINT) for Investigators and Journalists"
     keywords: "osint search, open source intelligence, investigator search tools"
     slug: "search-osint-investigators-journalists"
-    status: pending
+    status: published
   - title: "How to Use Incognito Mode, VPNs, and TOR for Private Searching"
     keywords: "private browsing, incognito mode search, vpn privacy tor"
     slug: "incognito-vpn-tor-private-searching"
