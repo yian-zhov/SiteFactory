@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-03"
+last_generated: "2026-08-04"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -100,7 +100,7 @@ topics:
   - title: "理财App推荐：个人资金管理的最佳工具"
     keywords: "理财App, 资金管理工具, 记账软件"
     slug: "best-personal-finance-apps-recommendation"
-    status: pending
+    status: published
   - title: "如何应对通货膨胀：资产保值策略"
     keywords: "通货膨胀, 资产保值, 抗通胀投资"
     slug: "how-to-beat-inflation-asset-preservation"
