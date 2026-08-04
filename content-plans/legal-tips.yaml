@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-03"
+last_generated: "2026-08-04"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -40,7 +40,7 @@ topics:
   - title: "Power of Attorney vs Living Will: Key Differences"
     keywords: "power of attorney, living will, advance directive comparison"
     slug: "power-of-attorney-vs-living-will"
-    status: pending
+    status: published
   - title: "Steps to Take If You're Served with a Lawsuit"
     keywords: "served lawsuit, response deadline, civil litigation steps"
     slug: "served-lawsuit-response-steps"
