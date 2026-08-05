@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-04"
+last_generated: "2026-08-05"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -104,7 +104,7 @@ topics:
   - title: "如何应对通货膨胀：资产保值策略"
     keywords: "通货膨胀, 资产保值, 抗通胀投资"
     slug: "how-to-beat-inflation-asset-preservation"
-    status: pending
+    status: published
   - title: "金融科技投资：P2P与数字银行风险分析"
     keywords: "金融科技, P2P投资, 数字银行风险"
     slug: "fintech-investment-risks-in-analysis"
