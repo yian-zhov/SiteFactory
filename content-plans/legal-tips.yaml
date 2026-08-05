@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-04"
+last_generated: "2026-08-05"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -44,7 +44,7 @@ topics:
   - title: "Steps to Take If You're Served with a Lawsuit"
     keywords: "served lawsuit, response deadline, civil litigation steps"
     slug: "served-lawsuit-response-steps"
-    status: pending
+    status: published
   - title: "First-Time DUI: Legal Consequences and Next Steps"
     keywords: "first dui, dui penalties, hiring a lawyer, ignition interlock"
     slug: "first-time-dui-consequences"
