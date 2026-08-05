@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-04"
+last_generated: "2026-08-05"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -84,7 +84,7 @@ topics:
   - title: "How to Search for Scholarships and Grants Online Effectively"
     keywords: "scholarship search, find grants online, educational funding search"
     slug: "search-scholarships-grants-online-effectively"
-    status: pending
+    status: published
   - title: "How to Search for Medical Information Without Misleading Results"
     keywords: "medical search tips, health information online, reliable medical sources"
     slug: "search-medical-information-reliable-results"
