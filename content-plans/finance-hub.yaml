@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-05"
+last_generated: "2026-08-06"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -56,7 +56,7 @@ topics:
   - title: "The 50/30/20 Budget Rule: How to Apply It to Your Finances"
     keywords: "50 30 20 budget rule, budgeting rule, personal finance rule, how to budget"
     slug: "50-30-20-budget-rule-application"
-    status: pending
+    status: published
   - title: "High-Yield Savings Accounts vs CDs: Best Place to Park Your Cash"
     keywords: "high yield savings vs cd, savings account vs certificate of deposit, cash savings comparison"
     slug: "high-yield-savings-vs-cds"
