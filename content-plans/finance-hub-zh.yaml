@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-05"
+last_generated: "2026-08-06"
 target_keywords:
   - P2P投资
   - 个人所得税
@@ -108,7 +108,7 @@ topics:
   - title: "金融科技投资：P2P与数字银行风险分析"
     keywords: "金融科技, P2P投资, 数字银行风险"
     slug: "fintech-investment-risks-in-analysis"
-    status: pending
+    status: published
   - title: "遗产规划入门：如何合理分配资产"
     keywords: "遗产规划, 资产分配, 继承策略"
     slug: "estate-planning-guide-asset-distribution"
