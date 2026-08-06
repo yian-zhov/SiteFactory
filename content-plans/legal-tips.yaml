@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-05"
+last_generated: "2026-08-06"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -48,7 +48,7 @@ topics:
   - title: "First-Time DUI: Legal Consequences and Next Steps"
     keywords: "first dui, dui penalties, hiring a lawyer, ignition interlock"
     slug: "first-time-dui-consequences"
-    status: pending
+    status: published
   - title: "Copyright vs Trademark vs Patent: Quick Comparison"
     keywords: "copyright trademark patent difference, intellectual property protection"
     slug: "copyright-trademark-patent-comparison"
