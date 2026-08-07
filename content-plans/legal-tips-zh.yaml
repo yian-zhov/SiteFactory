@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-06"
+last_generated: "2026-08-07"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -28,7 +28,7 @@ topics:
   - title: "借条和欠条的区别：一句之差可能让你败诉"
     keywords: "借条, 欠条, 借条欠条区别, 民间借贷, 债权凭证"
     slug: "iou-vs-promissory-note-differences"
-    status: pending
+    status: published
   - title: "离婚财产分割：婚前房产婚后增值算谁的？"
     keywords: "离婚财产, 婚前房产, 婚后增值, 财产分割, 夫妻共同财产"
     slug: "divorce-asset-split-pre-marital-property"
