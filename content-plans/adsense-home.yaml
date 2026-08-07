@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-06"
+last_generated: "2026-08-07"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -92,7 +92,7 @@ topics:
   - title: "How to Search for Past Versions of Websites Using Wayback Machine"
     keywords: "wayback machine search, view old websites, web archive tools"
     slug: "search-past-website-versions-wayback-machine"
-    status: pending
+    status: published
   - title: "10 Best Email Search Tools to Find Anyone's Email Address"
     keywords: "email search tools, find email addresses, people lookup email"
     slug: "best-email-search-tools-find-addresses"
