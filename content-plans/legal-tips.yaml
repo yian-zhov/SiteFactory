@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-06"
+last_generated: "2026-08-07"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -52,7 +52,7 @@ topics:
   - title: "Copyright vs Trademark vs Patent: Quick Comparison"
     keywords: "copyright trademark patent difference, intellectual property protection"
     slug: "copyright-trademark-patent-comparison"
-    status: pending
+    status: published
   - title: "Ten Warning Signs of a Bad Employment Contract"
     keywords: "employment contract red flags, non-compete clause, severance terms"
     slug: "bad-employment-contract-warning-signs"
