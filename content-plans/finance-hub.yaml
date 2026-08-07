@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-06"
+last_generated: "2026-08-07"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -60,7 +60,7 @@ topics:
   - title: "High-Yield Savings Accounts vs CDs: Best Place to Park Your Cash"
     keywords: "high yield savings vs cd, savings account vs certificate of deposit, cash savings comparison"
     slug: "high-yield-savings-vs-cds"
-    status: pending
+    status: published
   - title: "How to Improve Your Credit Score in 6 Months or Less"
     keywords: "improve credit score quickly, raise credit score tips, credit score improvement plan"
     slug: "improve-credit-score-6-months"
