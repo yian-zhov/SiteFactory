@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-07"
+last_generated: "2026-08-08"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -64,7 +64,7 @@ topics:
   - title: "How to Improve Your Credit Score in 6 Months or Less"
     keywords: "improve credit score quickly, raise credit score tips, credit score improvement plan"
     slug: "improve-credit-score-6-months"
-    status: pending
+    status: published
   - title: "Compound Interest Explained: Why It's the Most Powerful Investing Force"
     keywords: "compound interest explained, power of compound interest, investing basics"
     slug: "compound-interest-powerful-investing-force"
