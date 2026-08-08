@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-07"
+last_generated: "2026-08-08"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -96,7 +96,7 @@ topics:
   - title: "10 Best Email Search Tools to Find Anyone's Email Address"
     keywords: "email search tools, find email addresses, people lookup email"
     slug: "best-email-search-tools-find-addresses"
-    status: pending
+    status: published
   - title: "How to Use Google Image Search for Fact-Checking Visual Content"
     keywords: "image search fact checking, verify photos, visual content truth"
     slug: "google-image-search-fact-checking-visual"
