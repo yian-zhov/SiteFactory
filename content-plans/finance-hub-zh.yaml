@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-07"
+last_generated: "2026-08-08"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -24,7 +24,7 @@ topics:
   - title: "如何制定月度预算并严格执行？从零开始的步骤"
     keywords: "月度预算, 预算制定, 预算执行, 记账方法"
     slug: "how-to-create-and-follow-monthly-budget"
-    status: pending
+    status: published
   - title: "应急基金应存多少钱？2025年实用计算法"
     keywords: "应急基金, 紧急备用金, 存钱金额, 应急资金计算"
     slug: "how-much-in-emergency-fund-2025"
