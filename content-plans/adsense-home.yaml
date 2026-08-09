@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-08"
+last_generated: "2026-08-09"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -100,7 +100,7 @@ topics:
   - title: "How to Use Google Image Search for Fact-Checking Visual Content"
     keywords: "image search fact checking, verify photos, visual content truth"
     slug: "google-image-search-fact-checking-visual"
-    status: pending
+    status: published
   - title: "How to Search for Legal Documents and Court Records Online"
     keywords: "legal document search, court records online, public records search"
     slug: "search-legal-documents-court-records-online"
