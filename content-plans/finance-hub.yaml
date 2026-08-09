@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-08"
+last_generated: "2026-08-09"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -68,7 +68,7 @@ topics:
   - title: "Compound Interest Explained: Why It's the Most Powerful Investing Force"
     keywords: "compound interest explained, power of compound interest, investing basics"
     slug: "compound-interest-powerful-investing-force"
-    status: pending
+    status: published
   - title: "1Best Robo-Advisors for Beginners in 2025: An Honest Comparison"
     keywords: "best robo advisors, robo advisor comparison, beginner investment apps 2025"
     slug: "best-robo-advisors-beginners-2025"
