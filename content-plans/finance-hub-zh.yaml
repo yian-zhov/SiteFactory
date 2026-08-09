@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-08"
+last_generated: "2026-08-09"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -28,7 +28,7 @@ topics:
   - title: "应急基金应存多少钱？2025年实用计算法"
     keywords: "应急基金, 紧急备用金, 存钱金额, 应急资金计算"
     slug: "how-much-in-emergency-fund-2025"
-    status: pending
+    status: published
   - title: "信用卡免息期利用技巧，最高省下几十天利息"
     keywords: "信用卡免息期, 刷卡技巧, 免息期计算, 信用卡还款"
     slug: "credit-card-grace-period-tips"
