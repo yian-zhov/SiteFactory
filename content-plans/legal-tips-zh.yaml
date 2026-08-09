@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-08"
+last_generated: "2026-08-09"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -36,7 +36,7 @@ topics:
   - title: "交通事故赔偿标准：伤残等级怎么定？赔多少？"
     keywords: "交通事故赔偿, 伤残等级, 赔偿标准, 车祸赔偿, 人身损害赔偿"
     slug: "traffic-accident-compensation-standards"
-    status: pending
+    status: published
   - title: "网购七天无理由退货：这些商品不适用！"
     keywords: "七天无理由退货, 网购退货, 消费者权益, 网络购物, 退货规则"
     slug: "seven-day-no-reason-return-exceptions"
