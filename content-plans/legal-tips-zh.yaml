@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-09"
+last_generated: "2026-08-10"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -40,7 +40,7 @@ topics:
   - title: "网购七天无理由退货：这些商品不适用！"
     keywords: "七天无理由退货, 网购退货, 消费者权益, 网络购物, 退货规则"
     slug: "seven-day-no-reason-return-exceptions"
-    status: pending
+    status: published
   - title: "公司不交社保怎么办？三种维权途径全解析"
     keywords: "未交社保, 社保维权, 公司不给交社保, 劳动保障, 社保举报"
     slug: "company-not-paying-social-insurance-ways"
