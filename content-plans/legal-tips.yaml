@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-09"
+last_generated: "2026-08-10"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -64,7 +64,7 @@ topics:
   - title: "Do's and Don'ts When Signing a Home Repair Contract"
     keywords: "home repair contract, contractor agreement, lien waiver"
     slug: "home-repair-contract-dos-donts"
-    status: pending
+    status: published
   - title: "Understanding Prenuptial Agreements: Myths and Facts"
     keywords: "prenup myths, prenuptial agreement benefits, fair prenup"
     slug: "prenuptial-agreement-myths-facts"
