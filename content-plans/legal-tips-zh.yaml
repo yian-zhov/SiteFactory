@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-10"
+last_generated: "2026-08-11"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -44,7 +44,7 @@ topics:
   - title: "公司不交社保怎么办？三种维权途径全解析"
     keywords: "未交社保, 社保维权, 公司不给交社保, 劳动保障, 社保举报"
     slug: "company-not-paying-social-insurance-ways"
-    status: pending
+    status: published
   - title: "遗嘱怎么写才有效？别让遗产变成纠纷"
     keywords: "遗嘱, 遗嘱效力, 遗产继承, 遗嘱格式, 自书遗嘱"
     slug: "how-to-write-valid-will"
