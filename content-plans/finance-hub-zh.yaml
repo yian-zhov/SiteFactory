@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-10"
+last_generated: "2026-08-11"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -36,7 +36,7 @@ topics:
   - title: "定投指数基金和主动基金，哪个更适合普通人？"
     keywords: "指数基金定投, 主动基金, 基金比较, 定投选择"
     slug: "index-fund-vs-active-fund-drip-investing"
-    status: pending
+    status: published
   - title: "如何避免月光族？6个实用存钱习惯养成法"
     keywords: "月光族存钱, 存钱习惯, 省钱技巧, 储蓄方法"
     slug: "stop-living-paycheck-to-paycheck-saving-habits"
