@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-10"
+last_generated: "2026-08-11"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -68,7 +68,7 @@ topics:
   - title: "Understanding Prenuptial Agreements: Myths and Facts"
     keywords: "prenup myths, prenuptial agreement benefits, fair prenup"
     slug: "prenuptial-agreement-myths-facts"
-    status: pending
+    status: published
   - title: "What to Do If Your Identity Is Stolen"
     keywords: "identity theft steps, credit freeze, fraud report"
     slug: "identity-stolen-what-to-do"
