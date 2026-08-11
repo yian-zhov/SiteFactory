@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-10"
+last_generated: "2026-08-11"
 target_keywords:
   - academic research search
   - advanced facebook search
@@ -108,7 +108,7 @@ topics:
   - title: "How to Choose the Right Search Engine for Your Specific Task"
     keywords: "choose search engine, search engine use case, best search for task"
     slug: "choose-search-engine-specific-task"
-    status: pending
+    status: published
   - title: "How to Search for Hidden Content, Deleted Websites, and Cached Pages"
     keywords: "hidden content search, deleted websites, cached pages search"
     slug: "search-hidden-content-deleted-websites"
