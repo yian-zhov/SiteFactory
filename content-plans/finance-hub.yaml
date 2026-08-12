@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-11"
+last_generated: "2026-08-12"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -80,7 +80,7 @@ topics:
   - title: "Real Estate Investing for Beginners: How to Get Started with Little Money"
     keywords: "real estate investing beginners, start real estate little money, beginner property investing"
     slug: "real-estate-investing-beginners-little-money"
-    status: pending
+    status: published
   - title: "What Is Dollar Cost Averaging? A Smart Investing Strategy Explained"
     keywords: "dollar cost averaging explained, DCA strategy, investing strategy, market timing vs DCA"
     slug: "dollar-cost-averaging-strategy"
