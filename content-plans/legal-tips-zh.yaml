@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-11"
+last_generated: "2026-08-12"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -48,7 +48,7 @@ topics:
   - title: "遗嘱怎么写才有效？别让遗产变成纠纷"
     keywords: "遗嘱, 遗嘱效力, 遗产继承, 遗嘱格式, 自书遗嘱"
     slug: "how-to-write-valid-will"
-    status: pending
+    status: published
   - title: "被公司辞退赔偿金怎么算？N+1最全解释"
     keywords: "辞退赔偿, N+1赔偿, 经济补偿金, 非法辞退, 劳动合同解除"
     slug: "employee-termination-compensation-calculator"
