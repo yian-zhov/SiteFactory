@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-12"
+last_generated: "2026-08-13"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -84,7 +84,7 @@ topics:
   - title: "What Is Dollar Cost Averaging? A Smart Investing Strategy Explained"
     keywords: "dollar cost averaging explained, DCA strategy, investing strategy, market timing vs DCA"
     slug: "dollar-cost-averaging-strategy"
-    status: pending
+    status: published
   - title: "Top 10 Books to Improve Your Financial Literacy and Build Wealth"
     keywords: "best personal finance books, financial literacy books, wealth building books"
     slug: "top-financial-literacy-books-wealth"
