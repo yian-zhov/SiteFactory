@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-12"
+last_generated: "2026-08-13"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -44,7 +44,7 @@ topics:
   - title: "2025年国债利率分析，值得买的储蓄型国债有哪些？"
     keywords: "国债利率, 储蓄国债, 国债购买, 2025国债"
     slug: "savings-bond-rates-2025-analysis"
-    status: pending
+    status: published
   - title: "房贷提前还款划算吗？不同利率下的计算方法"
     keywords: "房贷提前还款, 提前还贷划算, 房贷计算, 利率比较"
     slug: "is-mortgage-early-payment-worth-it"
