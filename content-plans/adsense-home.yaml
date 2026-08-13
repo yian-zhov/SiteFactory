@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-12"
+last_generated: "2026-08-13"
 target_keywords:
   - academic database search
   - advanced google search
@@ -24,7 +24,7 @@ topics:
   - title: "Boolean Search Cheat Sheet for Job Hunting"
     keywords: "boolean search jobs, boolean search techniques, job search commands"
     slug: "boolean-search-cheat-sheet-job-hunting"
-    status: pending
+    status: published
   - title: "10 Privacy-Focused Search Engines That Aren't Google"
     keywords: "privacy search engines, secure search alternatives, duckduckgo vs startpage"
     slug: "privacy-focused-search-engines-alternatives"
