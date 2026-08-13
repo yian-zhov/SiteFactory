@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-12"
+last_generated: "2026-08-13"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -52,7 +52,7 @@ topics:
   - title: "被公司辞退赔偿金怎么算？N+1最全解释"
     keywords: "辞退赔偿, N+1赔偿, 经济补偿金, 非法辞退, 劳动合同解除"
     slug: "employee-termination-compensation-calculator"
-    status: pending
+    status: published
   - title: "宅基地继承政策：城里人能继承农村老宅吗？"
     keywords: "宅基地继承, 农村房产, 房屋继承, 宅基地政策, 城乡户口"
     slug: "homestead-inheritance-urban-heirs"
