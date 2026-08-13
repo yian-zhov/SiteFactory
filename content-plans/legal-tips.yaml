@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-12"
+last_generated: "2026-08-13"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -76,7 +76,7 @@ topics:
   - title: "Legal Rights of Gig Workers: Employee or Contractor"
     keywords: "gig worker rights, independent contractor vs employee, classification laws"
     slug: "gig-worker-rights-employee-contractor"
-    status: pending
+    status: published
   - title: "How to Create a Basic Last Will and Testament"
     keywords: "last will template, diy will, executing a will"
     slug: "create-basic-last-will-testament"
