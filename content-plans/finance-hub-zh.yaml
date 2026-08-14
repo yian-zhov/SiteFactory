@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-13"
+last_generated: "2026-08-14"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -48,7 +48,7 @@ topics:
   - title: "房贷提前还款划算吗？不同利率下的计算方法"
     keywords: "房贷提前还款, 提前还贷划算, 房贷计算, 利率比较"
     slug: "is-mortgage-early-payment-worth-it"
-    status: pending
+    status: published
   - title: "如何从零开始建立投资组合？资产配置基础教学"
     keywords: "投资组合, 资产配置, 新手投资, 投资组合建立"
     slug: "how-to-build-investment-portfolio-basics"
