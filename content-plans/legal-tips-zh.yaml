@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-13"
+last_generated: "2026-08-14"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -56,7 +56,7 @@ topics:
   - title: "宅基地继承政策：城里人能继承农村老宅吗？"
     keywords: "宅基地继承, 农村房产, 房屋继承, 宅基地政策, 城乡户口"
     slug: "homestead-inheritance-urban-heirs"
-    status: pending
+    status: published
   - title: "未成年人打赏主播，家长能全额追回吗？"
     keywords: "未成年人打赏, 直播打赏, 退款追回, 监护人责任, 网络消费"
     slug: "minor-live-streaming-tipping-refund"
