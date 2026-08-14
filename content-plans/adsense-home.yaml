@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-13"
+last_generated: "2026-08-14"
 target_keywords:
   - academic database search
   - advanced google search
@@ -28,7 +28,7 @@ topics:
   - title: "10 Privacy-Focused Search Engines That Aren't Google"
     keywords: "privacy search engines, secure search alternatives, duckduckgo vs startpage"
     slug: "privacy-focused-search-engines-alternatives"
-    status: pending
+    status: published
   - title: "How to Reverse Image Search for Fact-Checking"
     keywords: "reverse image search, fact check images, google lens search"
     slug: "reverse-image-search-fact-checking"
