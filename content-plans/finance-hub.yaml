@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-14"
+last_generated: "2026-08-15"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -92,7 +92,7 @@ topics:
   - title: "The Complete Guide to Tax-Loss Harvesting for Investors"
     keywords: "tax loss harvesting, tax efficient investing, capital gains tax savings strategy"
     slug: "complete-guide-tax-loss-harvesting"
-    status: pending
+    status: published
   - title: "How to Create a Passive Income Stream with Dividend Stocks"
     keywords: "passive income dividend stocks, dividend investing, dividend income stream guide"
     slug: "create-passive-income-dividend-stocks"
