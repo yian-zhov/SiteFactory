@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-14"
+last_generated: "2026-08-15"
 target_keywords:
   - academic database search
   - advanced google search
@@ -32,7 +32,7 @@ topics:
   - title: "How to Reverse Image Search for Fact-Checking"
     keywords: "reverse image search, fact check images, google lens search"
     slug: "reverse-image-search-fact-checking"
-    status: pending
+    status: published
   - title: "Advanced LinkedIn Search Filters for Recruiters"
     keywords: "linkedin search filters, linkedin boolean search, recruiter search tips"
     slug: "advanced-linkedin-search-filters-recruiters"
@@ -40,7 +40,7 @@ topics:
   - title: "Best Chrome Extensions to Boost Search Productivity"
     keywords: "chrome extensions search, search productivity tools, browser search addons"
     slug: "best-chrome-extensions-search-productivity"
-    status: pending
+    status: published
   - title: "How to Search Reddit Like a Pro: Tips and Tricks"
     keywords: "search reddit effectively, reddit search tips, find reddit threads"
     slug: "search-reddit-like-a-pro"
