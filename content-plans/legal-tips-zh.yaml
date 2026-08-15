@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-14"
+last_generated: "2026-08-15"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -60,7 +60,7 @@ topics:
   - title: "未成年人打赏主播，家长能全额追回吗？"
     keywords: "未成年人打赏, 直播打赏, 退款追回, 监护人责任, 网络消费"
     slug: "minor-live-streaming-tipping-refund"
-    status: pending
+    status: published
   - title: "民间借贷利息合法上限：借了高利贷怎么办？"
     keywords: "民间借贷利息, 高利贷, 利息上限, 借款利率, 法律保护"
     slug: "legal-interest-rate-ceiling-private-loans"
