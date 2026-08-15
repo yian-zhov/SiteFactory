@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-14"
+last_generated: "2026-08-15"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -84,7 +84,7 @@ topics:
   - title: "Neighbor Fence Laws: Who Pays for Repairs"
     keywords: "fence laws, property line disputes, fence cost sharing"
     slug: "neighbor-fence-law-repair-costs"
-    status: pending
+    status: published
   - title: "Suing for Personal Injury After a Slip and Fall"
     keywords: "slip and fall settlement, personal injury claim, premises liability"
     slug: "suing-slip-fall-personal-injury"
