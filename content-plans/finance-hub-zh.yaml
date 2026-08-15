@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-14"
+last_generated: "2026-08-15"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -52,7 +52,7 @@ topics:
   - title: "如何从零开始建立投资组合？资产配置基础教学"
     keywords: "投资组合, 资产配置, 新手投资, 投资组合建立"
     slug: "how-to-build-investment-portfolio-basics"
-    status: pending
+    status: published
   - title: "保险配置攻略：重疾险、医疗险和意外险该如何选择？"
     keywords: "保险配置, 重疾险选择, 医疗险, 意外险, 保险组合"
     slug: "insurance-bundle-choosing-critical-illness-medical-accident"
