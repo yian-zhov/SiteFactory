@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-15"
+last_generated: "2026-08-16"
 target_keywords:
   - academic database search
   - advanced google search
@@ -36,7 +36,7 @@ topics:
   - title: "Advanced LinkedIn Search Filters for Recruiters"
     keywords: "linkedin search filters, linkedin boolean search, recruiter search tips"
     slug: "advanced-linkedin-search-filters-recruiters"
-    status: pending
+    status: published
   - title: "Best Chrome Extensions to Boost Search Productivity"
     keywords: "chrome extensions search, search productivity tools, browser search addons"
     slug: "best-chrome-extensions-search-productivity"
