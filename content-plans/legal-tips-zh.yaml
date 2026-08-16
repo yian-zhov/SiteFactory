@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-15"
+last_generated: "2026-08-16"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -64,7 +64,7 @@ topics:
   - title: "民间借贷利息合法上限：借了高利贷怎么办？"
     keywords: "民间借贷利息, 高利贷, 利息上限, 借款利率, 法律保护"
     slug: "legal-interest-rate-ceiling-private-loans"
-    status: pending
+    status: published
   - title: "劳动合同到期不续签，公司要不要给赔偿？"
     keywords: "劳动合同到期, 不续签赔偿, 合同终止, 经济补偿金, 劳动者权益"
     slug: "contract-expiry-non-renewal-compensation"
