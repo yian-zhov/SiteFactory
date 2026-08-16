@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-15"
+last_generated: "2026-08-16"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -88,7 +88,7 @@ topics:
   - title: "Suing for Personal Injury After a Slip and Fall"
     keywords: "slip and fall settlement, personal injury claim, premises liability"
     slug: "suing-slip-fall-personal-injury"
-    status: pending
+    status: published
   - title: "How to Avoid a Landlord-Tenant Dispute Over Security Deposit"
     keywords: "security deposit return, damage deduction, move out inspection"
     slug: "avoid-landlord-tenant-security-deposit-dispute"
