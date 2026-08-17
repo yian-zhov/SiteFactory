@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-16"
+last_generated: "2026-08-17"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -60,7 +60,7 @@ topics:
   - title: "股票开户前必须了解的5个费用项目"
     keywords: "股票开户费用, 佣金, 印花税, 炒股成本, 股票手续费"
     slug: "stock-account-fees-before-opening"
-    status: pending
+    status: published
   - title: "如何计算每月可投资金额？收入分配比例公式"
     keywords: "可投资金额, 收入分配, 理财比例, 储蓄投资公式"
     slug: "how-to-calculate-monthly-investment-amount"
