@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-16"
+last_generated: "2026-08-17"
 target_keywords:
   - academic database search
   - advanced google search
@@ -44,7 +44,7 @@ topics:
   - title: "How to Search Reddit Like a Pro: Tips and Tricks"
     keywords: "search reddit effectively, reddit search tips, find reddit threads"
     slug: "search-reddit-like-a-pro"
-    status: pending
+    status: published
   - title: "Google vs Bing vs Brave: Which Search Engine Is Best in 2025?"
     keywords: "google vs bing vs brave, best search engine comparison, search engine ranking"
     slug: "google-vs-bing-vs-brave-comparison"
