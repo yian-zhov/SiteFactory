@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-17"
+last_generated: "2026-08-18"
 target_keywords:
   - 401k roth ira differences
   - 401k vs roth ira
@@ -104,7 +104,7 @@ topics:
   - title: "Buying vs Leasing a Car: Which Option Saves You More Money?"
     keywords: "buy vs lease car, car buying financial decision, leasing advantages disadvantages"
     slug: "buying-vs-leasing-car-save-money"
-    status: pending
+    status: published
   - title: "How to Set SMART Financial Goals and Actually Achieve Them"
     keywords: "SMART financial goals, set financial goals, achieve money goals, goal planning"
     slug: "smart-financial-goals-achievement"
