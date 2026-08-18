@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-17"
+last_generated: "2026-08-18"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -64,7 +64,7 @@ topics:
   - title: "如何计算每月可投资金额？收入分配比例公式"
     keywords: "可投资金额, 收入分配, 理财比例, 储蓄投资公式"
     slug: "how-to-calculate-monthly-investment-amount"
-    status: pending
+    status: published
   - title: "智能存款与定期存款对比，利息和灵活性谁更胜一筹？"
     keywords: "智能存款, 定期存款, 存款利率对比, 灵活性, 银行理财"
     slug: "smart-deposit-vs-fixed-deposit-comparison"
