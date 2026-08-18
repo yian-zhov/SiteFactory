@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-17"
+last_generated: "2026-08-18"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -96,7 +96,7 @@ topics:
   - title: "Legal Guide to Starting a Small Business"
     keywords: "small business legal structure, llc vs sole proprietorship, business license"
     slug: "legal-guide-starting-small-business"
-    status: pending
+    status: published
   - title: "What to Include in a Child Custody Agreement"
     keywords: "child custody terms, parenting plan, visitation schedule"
     slug: "child-custody-agreement-inclusions"
