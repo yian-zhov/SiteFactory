@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-17"
+last_generated: "2026-08-18"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -72,7 +72,7 @@ topics:
   - title: "人身损害误工费赔偿标准：月薪3万能赔多少？"
     keywords: "误工费, 人身损害赔偿, 误工费计算, 收入证明, 赔偿标准"
     slug: "lost-wages-personal-injury-compensation"
-    status: pending
+    status: published
   - title: "购房定金可以退吗？法律规定的三种情况"
     keywords: "购房定金, 定金退还, 定金纠纷, 商品房买卖, 订约定金"
     slug: "house-purchase-deposit-refund-rules"
