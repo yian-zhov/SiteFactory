@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-18"
+last_generated: "2026-08-19"
 target_keywords:
   - academic database search
   - advanced google search
@@ -34,11 +34,13 @@ topics:
     slug: "reverse-image-search-fact-checking"
     status: published
   - title: "Advanced LinkedIn Search Filters for Recruiters"
-    keywords: "linkedin search filters, linkedin boolean search, recruiter search tips"
+    keywords: "linkedin search filters, linkedin boolean search, recruiter search
+      tips"
     slug: "advanced-linkedin-search-filters-recruiters"
     status: published
   - title: "Best Chrome Extensions to Boost Search Productivity"
-    keywords: "chrome extensions search, search productivity tools, browser search addons"
+    keywords: "chrome extensions search, search productivity tools, browser search
+      addons"
     slug: "best-chrome-extensions-search-productivity"
     status: published
   - title: "How to Search Reddit Like a Pro: Tips and Tricks"
@@ -46,13 +48,14 @@ topics:
     slug: "search-reddit-like-a-pro"
     status: published
   - title: "Google vs Bing vs Brave: Which Search Engine Is Best in 2025?"
-    keywords: "google vs bing vs brave, best search engine comparison, search engine ranking"
+    keywords: "google vs bing vs brave, best search engine comparison, search engine
+      ranking"
     slug: "google-vs-bing-vs-brave-comparison"
     status: published
   - title: "X (Twitter) Advanced Search: Find Any Tweet Fast"
     keywords: "twitter advanced search, x search operators, find tweets by date"
     slug: "twitter-x-advanced-search-find-tweets"
-    status: pending
+    status: published
   - title: "How to Search Academic Papers and Research Databases"
     keywords: "google scholar search, academic database search, research paper lookup"
     slug: "search-academic-papers-research-databases"
@@ -110,7 +113,8 @@ topics:
     slug: "local-search-hacks-hidden-gems"
     status: pending
   - title: "Search on Mobile vs Desktop: Why Results Differ"
-    keywords: "mobile vs desktop search, search results differences, responsive search behavior"
+    keywords: "mobile vs desktop search, search results differences, responsive search
+      behavior"
     slug: "mobile-vs-desktop-search-results"
     status: pending
   - title: "Privacy Checks: See What Search Engines Know About You"
