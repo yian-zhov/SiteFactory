@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-18"
+last_generated: "2026-08-19"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -76,7 +76,7 @@ topics:
   - title: "购房定金可以退吗？法律规定的三种情况"
     keywords: "购房定金, 定金退还, 定金纠纷, 商品房买卖, 订约定金"
     slug: "house-purchase-deposit-refund-rules"
-    status: pending
+    status: published
   - title: "职场性骚扰如何取证？一份证据清单请收好"
     keywords: "职场性骚扰, 取证方法, 证据收集, 骚扰举报, 妇女权益"
     slug: "workplace-harassment-evidence-checklist"
