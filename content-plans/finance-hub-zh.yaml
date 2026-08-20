@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-19"
+last_generated: "2026-08-20"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -72,7 +72,7 @@ topics:
   - title: "记账App推荐：2025年最好用的5款个人理财工具"
     keywords: "记账App, 理财工具推荐, 记账软件, 2025记账App"
     slug: "best-personal-finance-apps-2025"
-    status: pending
+    status: published
   - title: "如何利用税收优惠政策最大化储蓄？专项附加扣除详解"
     keywords: "税收优惠, 专项附加扣除, 个税, 储蓄规划, 税务优化"
     slug: "tax-deduction-maximize-savings-guide"
