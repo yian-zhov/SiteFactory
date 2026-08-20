@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-19"
+last_generated: "2026-08-20"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -106,7 +106,7 @@ topics:
   - title: "When Do You Need a Real Estate Attorney"
     keywords: "real estate attorney, home buying lawyer, closing costs"
     slug: "when-need-real-estate-attorney"
-    status: pending
+    status: published
   - title: "How to Read a Contract Before Signing"
     keywords: "contract review tips, hidden clauses, fine print mistakes"
     slug: "read-contract-before-signing"
