@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-19"
+last_generated: "2026-08-20"
 target_keywords:
   - academic database search
   - advanced google search
@@ -59,7 +59,7 @@ topics:
   - title: "How to Search Academic Papers and Research Databases"
     keywords: "google scholar search, academic database search, research paper lookup"
     slug: "search-academic-papers-research-databases"
-    status: pending
+    status: published
   - title: "Save 30 Minutes Daily with Keyboard Shortcuts for Web Search"
     keywords: "search keyboard shortcuts, chrome shortcuts, productivity tips search"
     slug: "keyboard-shortcuts-web-search"
