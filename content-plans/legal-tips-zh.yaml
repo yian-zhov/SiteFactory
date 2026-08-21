@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-20"
+last_generated: "2026-08-21"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -84,7 +84,7 @@ topics:
   - title: "抚养费一个月给多少？法院这样算标准"
     keywords: "抚养费, 抚养费标准, 离婚抚养费, 子女抚养, 抚养费计算"
     slug: "child-support-amount-court-standards"
-    status: pending
+    status: published
   - title: "买到过期食品索赔1000元：法律依据一文看懂"
     keywords: "过期食品, 食品安全, 赔偿十倍, 消费者索赔, 食品安全法"
     slug: "expired-food-claim-legal-basis"
