@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-20"
+last_generated: "2026-08-21"
 target_keywords:
   - accident documentation
   - advance directive comparison
@@ -74,8 +74,7 @@ topics:
     slug: "identity-stolen-what-to-do"
     status: published
   - title: "Legal Rights of Gig Workers: Employee or Contractor"
-    keywords: "gig worker rights, independent contractor vs employee, classification
-      laws"
+    keywords: "gig worker rights, independent contractor vs employee, classification laws"
     slug: "gig-worker-rights-employee-contractor"
     status: published
   - title: "How to Create a Basic Last Will and Testament"
@@ -95,8 +94,7 @@ topics:
     slug: "avoid-landlord-tenant-security-deposit-dispute"
     status: published
   - title: "Legal Guide to Starting a Small Business"
-    keywords: "small business legal structure, llc vs sole proprietorship, business
-      license"
+    keywords: "small business legal structure, llc vs sole proprietorship, business license"
     slug: "legal-guide-starting-small-business"
     status: published
   - title: "What to Include in a Child Custody Agreement"
@@ -110,7 +108,7 @@ topics:
   - title: "How to Read a Contract Before Signing"
     keywords: "contract review tips, hidden clauses, fine print mistakes"
     slug: "read-contract-before-signing"
-    status: pending
+    status: published
   - title: "Consumer Rights: Returning Faulty Electronics"
     keywords: "faulty electronic return, warranty claim, consumer protection"
     slug: "consumer-rights-returning-faulty-electronics"
