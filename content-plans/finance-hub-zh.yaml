@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-20"
+last_generated: "2026-08-21"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -76,7 +76,7 @@ topics:
   - title: "如何利用税收优惠政策最大化储蓄？专项附加扣除详解"
     keywords: "税收优惠, 专项附加扣除, 个税, 储蓄规划, 税务优化"
     slug: "tax-deduction-maximize-savings-guide"
-    status: pending
+    status: published
   - title: "信用卡积分最大化利用攻略，兑换里程还是现金？"
     keywords: "信用卡积分, 积分兑换, 里程兑换, 现金回馈, 积分攻略"
     slug: "credit-card-points-maximization-strategy"
