@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-20"
+last_generated: "2026-08-21"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -24,7 +24,7 @@ topics:
   - title: "Emergency Fund vs Sinking Fund: Key Differences Explained"
     keywords: "emergency fund vs sinking fund, savings strategies, financial planning"
     slug: "emergency-fund-vs-sinking-fund"
-    status: pending
+    status: published
   - title: "Step-by-Step Guide to Building a Diversified Stock Portfolio"
     keywords: "diversified portfolio, stock market investing, portfolio construction"
     slug: "building-diversified-stock-portfolio"
@@ -94,8 +94,7 @@ topics:
     slug: "dollar-cost-averaging-vs-lump-sum"
     status: pending
   - title: "Retiring Early: Steps to Achieve Financial Independence (FIRE)"
-    keywords: "financial independence retire early, FIRE movement, early retirement
-      planning"
+    keywords: "financial independence retire early, FIRE movement, early retirement planning"
     slug: "early-retirement-fire-steps"
     status: pending
   - title: "How to Read an Income Statement: Simplified for Investors"
@@ -115,7 +114,6 @@ topics:
     slug: "choose-right-financial-advisor"
     status: pending
   - title: "Financial Pitfalls of Buying a Home: Hidden Costs to Prepare For"
-    keywords: "home buying hidden costs, mortgage expenses, homeownership financial
-      planning"
+    keywords: "home buying hidden costs, mortgage expenses, homeownership financial planning"
     slug: "home-buying-hidden-costs"
     status: pending
