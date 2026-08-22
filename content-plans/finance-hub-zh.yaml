@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-21"
+last_generated: "2026-08-22"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -80,7 +80,7 @@ topics:
   - title: "信用卡积分最大化利用攻略，兑换里程还是现金？"
     keywords: "信用卡积分, 积分兑换, 里程兑换, 现金回馈, 积分攻略"
     slug: "credit-card-points-maximization-strategy"
-    status: pending
+    status: published
   - title: "与理财专家问答：常见理财误区有哪些？"
     keywords: "理财误区, 理财常见错误, 理财谣言, 专家建议"
     slug: "common-personal-finance-mistakes-qa"
