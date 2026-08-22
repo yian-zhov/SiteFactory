@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-21"
+last_generated: "2026-08-22"
 target_keywords:
   - academic database search
   - advanced google search
@@ -64,7 +64,7 @@ topics:
   - title: "How to Find Hidden Files and Content with Search Dorks"
     keywords: "google dorks, search dork examples, exposed files search"
     slug: "find-hidden-content-search-dorks"
-    status: pending
+    status: published
   - title: "Secure Search Practices: Protect Yourself from Malicious Results"
     keywords: "safe search online, avoid malicious websites, secure browsing search"
     slug: "secure-search-practices-protect-online"
