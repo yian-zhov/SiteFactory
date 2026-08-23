@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-22"
+last_generated: "2026-08-23"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -84,7 +84,7 @@ topics:
   - title: "与理财专家问答：常见理财误区有哪些？"
     keywords: "理财误区, 理财常见错误, 理财谣言, 专家建议"
     slug: "common-personal-finance-mistakes-qa"
-    status: pending
+    status: published
   - title: "如何阅读基金定投收益曲线？理解净值波动与复利效应"
     keywords: "基金定投收益, 净值波动, 复利效应, 收益曲线解读"
     slug: "reading-fund-drip-return-curves-guide"
