@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-22"
+last_generated: "2026-08-23"
 target_keywords:
   - DIY will
   - DMCA
@@ -24,7 +24,7 @@ topics:
   - title: "How to Write a Valid Will Without a Lawyer"
     keywords: "DIY will, legal will requirements, holographic will, will validity"
     slug: "how-to-write-valid-will-without-lawyer"
-    status: pending
+    status: published
   - title: "Small Claims Court Guide: Step-by-Step Process"
     keywords: "small claims court, filing lawsuit, small claims process, self-representation"
     slug: "small-claims-court-step-by-step-guide"
