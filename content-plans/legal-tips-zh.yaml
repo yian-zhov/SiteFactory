@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-22"
+last_generated: "2026-08-23"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -92,7 +92,7 @@ topics:
   - title: "产假工资谁发？公司不批产假违法吗？"
     keywords: "产假工资, 产假政策, 生育津贴, 女职工权益, 孕期保障"
     slug: "maternity-leave-pay-employer-obligations"
-    status: pending
+    status: published
   - title: "合同违约怎么赔偿？违约金过高可以降低吗？"
     keywords: "合同违约, 违约金, 违约赔偿, 合同纠纷, 损失赔偿"
     slug: "contract-breach-damages-and-penalties"
