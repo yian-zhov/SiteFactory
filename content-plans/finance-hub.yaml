@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-24"
+last_generated: "2026-08-25"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -40,7 +40,7 @@ topics:
   - title: "Index Funds vs ETFs: Comprehensive Comparison for Investors"
     keywords: "index funds vs etfs, passive investing, fund comparison"
     slug: "index-funds-vs-etfs-comparison"
-    status: pending
+    status: published
   - title: "Top 10 Side Hustles to Generate Extra Monthly Income"
     keywords: "side hustles, extra income ideas, passive income streams"
     slug: "top-side-hustles-extra-income"
