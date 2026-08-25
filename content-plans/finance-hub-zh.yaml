@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-24"
+last_generated: "2026-08-25"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -92,7 +92,7 @@ topics:
   - title: "保险理赔注意事项：避免被拒赔的10个关键细节"
     keywords: "理赔注意事项, 保险理赔, 拒赔原因, 保险细节"
     slug: "insurance-claim-tips-avoid-rejection"
-    status: pending
+    status: published
   - title: "家庭理财规划：该如何分配收入、投资与保障？"
     keywords: "家庭理财, 收入分配, 家庭投资, 保障规划, 家庭预算"
     slug: "family-financial-planning-income-allocation"
