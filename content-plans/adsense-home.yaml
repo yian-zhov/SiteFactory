@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-24"
+last_generated: "2026-08-25"
 target_keywords:
   - academic database search
   - advanced google search
@@ -76,7 +76,7 @@ topics:
   - title: "How to Search Email Inbox Like a Detective (Gmail and Outlook)"
     keywords: "gmail search operators, outlook search tips, find old emails fast"
     slug: "search-email-inbox-like-detective"
-    status: pending
+    status: published
   - title: "The Ultimate Guide to Searching YouTube for Tutorials and Clips"
     keywords: "youtube search tips, find videos by transcript, youtube filters"
     slug: "ultimate-guide-searching-youtube"
