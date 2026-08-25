@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-24"
+last_generated: "2026-08-25"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -100,7 +100,7 @@ topics:
   - title: "邻里漏水纠纷：楼上漏水楼下索赔全流程"
     keywords: "漏水纠纷, 邻里纠纷, 漏水和赔偿, 物业责任, 房屋维修"
     slug: "neighbor-water-leak-dispute-process"
-    status: pending
+    status: published
   - title: "网店差评被威胁删评？这可能是敲诈勒索"
     keywords: "网店差评, 删评威胁, 敲诈勒索, 消费者评价权, 网络维权"
     slug: "negative-review-threats-extortion"
