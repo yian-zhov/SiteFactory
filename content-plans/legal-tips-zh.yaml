@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-25"
+last_generated: "2026-08-26"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -104,7 +104,7 @@ topics:
   - title: "网店差评被威胁删评？这可能是敲诈勒索"
     keywords: "网店差评, 删评威胁, 敲诈勒索, 消费者评价权, 网络维权"
     slug: "negative-review-threats-extortion"
-    status: pending
+    status: published
   - title: "劳动调解和劳动仲裁的区别：选对才能快解决"
     keywords: "劳动调解, 劳动仲裁, 劳动纠纷区别, 争议解决, 协商调解"
     slug: "labor-mediation-vs-arbitration"
