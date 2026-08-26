@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-25"
+last_generated: "2026-08-26"
 target_keywords:
   - DIY will
   - DMCA
@@ -36,7 +36,7 @@ topics:
   - title: "What Is a Power of Attorney and When Do You Need One?"
     keywords: "power of attorney, legal document, medical POA, financial POA"
     slug: "what-is-power-of-attorney-and-when-needed"
-    status: pending
+    status: published
   - title: "Car Accident Checklist: What to Do at the Scene Legally"
     keywords: "car accident steps, legal obligations, accident documentation, insurance claims"
     slug: "car-accident-checklist-legal-steps-scene"
