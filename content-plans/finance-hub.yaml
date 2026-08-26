@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-25"
+last_generated: "2026-08-26"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -44,7 +44,7 @@ topics:
   - title: "Top 10 Side Hustles to Generate Extra Monthly Income"
     keywords: "side hustles, extra income ideas, passive income streams"
     slug: "top-side-hustles-extra-income"
-    status: pending
+    status: published
   - title: "How to Automate Your Finances for Stress-Free Savings"
     keywords: "automate finances, automatic savings, financial automation"
     slug: "automate-your-finances-savings"
