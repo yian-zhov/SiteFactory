@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-25"
+last_generated: "2026-08-26"
 target_keywords:
   - academic database search
   - advanced google search
@@ -80,7 +80,7 @@ topics:
   - title: "The Ultimate Guide to Searching YouTube for Tutorials and Clips"
     keywords: "youtube search tips, find videos by transcript, youtube filters"
     slug: "ultimate-guide-searching-youtube"
-    status: pending
+    status: published
   - title: "Track Down Old Web Pages with Wayback Machine and Archive Tools"
     keywords: "wayback machine search, internet archive, historical web pages"
     slug: "find-old-web-pages-wayback-machine"
