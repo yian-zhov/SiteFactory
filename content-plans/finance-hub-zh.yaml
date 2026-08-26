@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-25"
+last_generated: "2026-08-26"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -96,7 +96,7 @@ topics:
   - title: "家庭理财规划：该如何分配收入、投资与保障？"
     keywords: "家庭理财, 收入分配, 家庭投资, 保障规划, 家庭预算"
     slug: "family-financial-planning-income-allocation"
-    status: pending
+    status: published
   - title: "如何选择适合自己的银行理财？风险和收益平衡指南"
     keywords: "银行理财, 理财产品选择, 风险收益平衡, 理财风险"
     slug: "choosing-bank-financial-products-risk-reward"
