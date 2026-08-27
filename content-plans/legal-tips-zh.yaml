@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-26"
+last_generated: "2026-08-27"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -108,7 +108,7 @@ topics:
   - title: "劳动调解和劳动仲裁的区别：选对才能快解决"
     keywords: "劳动调解, 劳动仲裁, 劳动纠纷区别, 争议解决, 协商调解"
     slug: "labor-mediation-vs-arbitration"
-    status: pending
+    status: published
   - title: "遗产继承顺序：被继承人债务要不要还？"
     keywords: "遗产继承顺序, 继承人债务, 债务清偿, 法定继承, 遗产继承法"
     slug: "inheritance-order-debt-responsibility"
