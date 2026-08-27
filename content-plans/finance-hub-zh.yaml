@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-26"
+last_generated: "2026-08-27"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -100,7 +100,7 @@ topics:
   - title: "如何选择适合自己的银行理财？风险和收益平衡指南"
     keywords: "银行理财, 理财产品选择, 风险收益平衡, 理财风险"
     slug: "choosing-bank-financial-products-risk-reward"
-    status: pending
+    status: published
   - title: "2025年退休规划：普通人该如何准备养老金？"
     keywords: "退休规划, 养老金准备, 退休储蓄, 养老投资"
     slug: "retirement-planning-pension-guide-2025"
