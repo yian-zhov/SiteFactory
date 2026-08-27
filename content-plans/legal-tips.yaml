@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-26"
+last_generated: "2026-08-27"
 target_keywords:
   - DIY will
   - DMCA
@@ -40,7 +40,7 @@ topics:
   - title: "Car Accident Checklist: What to Do at the Scene Legally"
     keywords: "car accident steps, legal obligations, accident documentation, insurance claims"
     slug: "car-accident-checklist-legal-steps-scene"
-    status: pending
+    status: published
   - title: "Child Custody Basics: Legal Terms Every Parent Should Know"
     keywords: "child custody law, custody legal terms, visitation rights, parental rights"
     slug: "child-custody-basics-legal-terms-parents"
