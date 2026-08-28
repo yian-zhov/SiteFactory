@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-27"
+last_generated: "2026-08-28"
 target_keywords:
   - 2025国债
   - 2025理财指南
@@ -104,7 +104,7 @@ topics:
   - title: "2025年退休规划：普通人该如何准备养老金？"
     keywords: "退休规划, 养老金准备, 退休储蓄, 养老投资"
     slug: "retirement-planning-pension-guide-2025"
-    status: pending
+    status: published
   - title: "如何应对通货膨胀？长期投资策略与保值技巧"
     keywords: "通货膨胀对策, 保值技巧, 长期投资策略, 抗通胀投资"
     slug: "how-to-beat-inflation-investment-strategies"
