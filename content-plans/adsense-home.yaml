@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-27"
+last_generated: "2026-08-28"
 target_keywords:
   - academic database search
   - advanced google search
@@ -88,7 +88,7 @@ topics:
   - title: "How to Seach Legal Documents and Court Records Online"
     keywords: "search court records, legal document search, pacify case lookup"
     slug: "search-legal-court-records-online"
-    status: pending
+    status: published
   - title: "ChatGPT vs Perplexity vs Claude for Search Research"
     keywords: "ai search tools comparison, perplexity vs chatgpt, ai research assistant"
     slug: "chatgpt-vs-perplexity-vs-claude-search"
