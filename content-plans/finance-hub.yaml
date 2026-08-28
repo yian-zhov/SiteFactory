@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-27"
+last_generated: "2026-08-28"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -52,7 +52,7 @@ topics:
   - title: "Debt Snowball vs Debt Avalanche: Which Repayment Strategy Suits You?"
     keywords: "debt snowball vs debt avalanche, debt repayment methods, pay off debt"
     slug: "debt-snowball-vs-avalanche"
-    status: pending
+    status: published
   - title: "Beginner's Guide to Understanding Dividend Stocks"
     keywords: "dividend stocks, dividend investing, income investing for beginners"
     slug: "beginners-guide-dividend-stocks"
