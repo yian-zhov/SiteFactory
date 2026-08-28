@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-27"
+last_generated: "2026-08-28"
 target_keywords:
   - DIY will
   - DMCA
@@ -44,7 +44,7 @@ topics:
   - title: "Child Custody Basics: Legal Terms Every Parent Should Know"
     keywords: "child custody law, custody legal terms, visitation rights, parental rights"
     slug: "child-custody-basics-legal-terms-parents"
-    status: pending
+    status: published
   - title: "Privacy Rights at Work: Can Your Employer Monitor You?"
     keywords: "employee privacy, workplace monitoring, employer surveillance laws"
     slug: "privacy-rights-workplace-employer-monitoring"
