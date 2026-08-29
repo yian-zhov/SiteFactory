@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-28"
+last_generated: "2026-08-29"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -56,7 +56,7 @@ topics:
   - title: "Beginner's Guide to Understanding Dividend Stocks"
     keywords: "dividend stocks, dividend investing, income investing for beginners"
     slug: "beginners-guide-dividend-stocks"
-    status: pending
+    status: published
   - title: "How to Set SMART Financial Goals You Can Actually Achieve"
     keywords: "smart financial goals, goal setting, financial milestones"
     slug: "smart-financial-goals-guide"
