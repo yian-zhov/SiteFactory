@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-28"
+last_generated: "2026-08-29"
 target_keywords:
   - DIY will
   - DMCA
@@ -48,7 +48,7 @@ topics:
   - title: "Privacy Rights at Work: Can Your Employer Monitor You?"
     keywords: "employee privacy, workplace monitoring, employer surveillance laws"
     slug: "privacy-rights-workplace-employer-monitoring"
-    status: pending
+    status: published
   - title: "How to Handle Debt Collectors Legally"
     keywords: "debt collector rights, FDCPA, dealing with collectors, fair debt collection"
     slug: "how-to-handle-debt-collectors-legally"
