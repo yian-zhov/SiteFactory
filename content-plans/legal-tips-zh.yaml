@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-28"
+last_generated: "2026-08-29"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -24,7 +24,7 @@ topics:
   - title: "租房押金不退怎么办？法律维权指南"
     keywords: "租房押金, 押金不退, 维权方法"
     slug: "rental-deposit-refund-guide"
-    status: pending
+    status: published
   - title: "网购七天无理由退货的法律限制与例外"
     keywords: "七天无理由退货, 网购退货, 消费者权益"
     slug: "online-shopping-return-policy-law"
