@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-29"
+last_generated: "2026-08-30"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -28,7 +28,7 @@ topics:
   - title: "网购七天无理由退货的法律限制与例外"
     keywords: "七天无理由退货, 网购退货, 消费者权益"
     slug: "online-shopping-return-policy-law"
-    status: pending
+    status: published
   - title: "被公司辞退，赔偿金是N还是2N？"
     keywords: "辞退赔偿, 经济补偿金, N+1"
     slug: "wrongful-termination-compensation-n-2n"
