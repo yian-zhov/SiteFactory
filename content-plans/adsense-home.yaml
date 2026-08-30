@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-29"
+last_generated: "2026-08-30"
 target_keywords:
   - academic database search
   - advanced google search
@@ -96,7 +96,7 @@ topics:
   - title: "Find Similar Websites and Competitor Analysis Tools"
     keywords: "find similar sites, competitor websites search, website analysis tools"
     slug: "find-similar-websites-competitor-tools"
-    status: pending
+    status: published
   - title: "Monetize Your Search Skills: Freelance Research Gigs"
     keywords: "freelance research jobs, paid search work, research gig platforms"
     slug: "monetize-search-skills-freelance-research"
