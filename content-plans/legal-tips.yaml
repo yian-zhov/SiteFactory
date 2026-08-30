@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-29"
+last_generated: "2026-08-30"
 target_keywords:
   - DIY will
   - DMCA
@@ -52,7 +52,7 @@ topics:
   - title: "How to Handle Debt Collectors Legally"
     keywords: "debt collector rights, FDCPA, dealing with collectors, fair debt collection"
     slug: "how-to-handle-debt-collectors-legally"
-    status: pending
+    status: published
   - title: "Legal Steps to Start a Home Business"
     keywords: "home business legal requirements, business licenses, sole proprietorship"
     slug: "legal-steps-to-start-home-business"
