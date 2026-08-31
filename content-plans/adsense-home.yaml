@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-30"
+last_generated: "2026-08-31"
 target_keywords:
   - academic database search
   - advanced google search
@@ -100,7 +100,7 @@ topics:
   - title: "Monetize Your Search Skills: Freelance Research Gigs"
     keywords: "freelance research jobs, paid search work, research gig platforms"
     slug: "monetize-search-skills-freelance-research"
-    status: pending
+    status: published
   - title: "Parental Controls: Setting Up Kid-Safe Search at Home"
     keywords: "kid safe search, parental search controls, child friendly search engines"
     slug: "parental-controls-kid-safe-search"
