@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-30"
+last_generated: "2026-08-31"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -24,7 +24,7 @@ topics:
   - title: "如何选择适合自己的基金定投策略"
     keywords: "基金定投, 基金定投策略, 定投选择, 基金投资方法"
     slug: "how-to-choose-fund-drip-investment-strategy"
-    status: pending
+    status: published
   - title: "股票投资入门：基本面分析核心指标详解"
     keywords: "股票基本面分析, 核心财务指标, 股票入门, 市盈率, 市净率"
     slug: "stock-fundamental-analysis-key-metrics"
