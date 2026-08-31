@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-30"
+last_generated: "2026-08-31"
 target_keywords:
   - DIY will
   - DMCA
@@ -56,7 +56,7 @@ topics:
   - title: "Legal Steps to Start a Home Business"
     keywords: "home business legal requirements, business licenses, sole proprietorship"
     slug: "legal-steps-to-start-home-business"
-    status: pending
+    status: published
   - title: "Understanding Probate: A Simple Explanation"
     keywords: "probate process, estate administration, probate court, executor duties"
     slug: "understanding-probate-simple-explanation"
