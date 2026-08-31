@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-30"
+last_generated: "2026-08-31"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -32,7 +32,7 @@ topics:
   - title: "被公司辞退，赔偿金是N还是2N？"
     keywords: "辞退赔偿, 经济补偿金, N+1"
     slug: "wrongful-termination-compensation-n-2n"
-    status: pending
+    status: published
   - title: "借条怎么写才有法律效力？附模板"
     keywords: "借条模板, 借条法律效力, 民间借贷"
     slug: "legal-ious-template-validity"
