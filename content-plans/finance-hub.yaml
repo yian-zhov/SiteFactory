@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-30"
+last_generated: "2026-08-31"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -64,7 +64,7 @@ topics:
   - title: "High-Yield Savings Accounts vs CDs: Where to Park Your Cash"
     keywords: "high yield savings vs cd, savings accounts comparison, cash management"
     slug: "high-yield-savings-vs-cds"
-    status: pending
+    status: published
   - title: "Common Investment Mistakes Beginners Make and How to Avoid Them"
     keywords: "investment mistakes, beginner investing errors, avoid investing pitfalls"
     slug: "common-investment-mistakes-beginners"
@@ -72,7 +72,7 @@ topics:
   - title: "How to Negotiate a Higher Salary: Proven Tips and Scripts"
     keywords: "salary negotiation, raise negotiation tips, increase income"
     slug: "negotiate-higher-salary-tips"
-    status: pending
+    status: published
   - title: "Understanding Asset Allocation by Age: A Practical Guide"
     keywords: "asset allocation by age, portfolio allocation, risk tolerance investing"
     slug: "asset-allocation-by-age-guide"
