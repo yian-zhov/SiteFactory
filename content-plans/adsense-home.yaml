@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-08-31"
+last_generated: "2026-09-01"
 target_keywords:
   - academic database search
   - advanced google search
@@ -104,7 +104,7 @@ topics:
   - title: "Parental Controls: Setting Up Kid-Safe Search at Home"
     keywords: "kid safe search, parental search controls, child friendly search engines"
     slug: "parental-controls-kid-safe-search"
-    status: pending
+    status: published
   - title: "Local Search Hacks: Find Hidden Gems and Deals Near You"
     keywords: "local search tips, google maps search hacks, local business discovery"
     slug: "local-search-hacks-hidden-gems"
