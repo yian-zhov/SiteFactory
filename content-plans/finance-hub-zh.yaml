@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-08-31"
+last_generated: "2026-09-01"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -28,7 +28,7 @@ topics:
   - title: "股票投资入门：基本面分析核心指标详解"
     keywords: "股票基本面分析, 核心财务指标, 股票入门, 市盈率, 市净率"
     slug: "stock-fundamental-analysis-key-metrics"
-    status: pending
+    status: published
   - title: "存款利率持续下调背景下，现金管理最佳方式"
     keywords: "存款利率下调, 现金管理, 短期理财, 货币基金, 国债逆回购"
     slug: "cash-management-best-practices-low-interest"
