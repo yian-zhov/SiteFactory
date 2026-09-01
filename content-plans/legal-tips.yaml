@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-08-31"
+last_generated: "2026-09-01"
 target_keywords:
   - DIY will
   - DMCA
@@ -60,7 +60,7 @@ topics:
   - title: "Understanding Probate: A Simple Explanation"
     keywords: "probate process, estate administration, probate court, executor duties"
     slug: "understanding-probate-simple-explanation"
-    status: pending
+    status: published
   - title: "Buying a House: Legal Documents You Must Read"
     keywords: "real estate legal documents, house purchase contracts, closing documents"
     slug: "buying-house-legal-documents-must-read"
