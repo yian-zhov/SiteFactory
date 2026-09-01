@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-08-31"
+last_generated: "2026-09-01"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -68,7 +68,7 @@ topics:
   - title: "Common Investment Mistakes Beginners Make and How to Avoid Them"
     keywords: "investment mistakes, beginner investing errors, avoid investing pitfalls"
     slug: "common-investment-mistakes-beginners"
-    status: pending
+    status: published
   - title: "How to Negotiate a Higher Salary: Proven Tips and Scripts"
     keywords: "salary negotiation, raise negotiation tips, increase income"
     slug: "negotiate-higher-salary-tips"
