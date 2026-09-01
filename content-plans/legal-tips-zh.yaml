@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-08-31"
+last_generated: "2026-09-01"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -36,7 +36,7 @@ topics:
   - title: "借条怎么写才有法律效力？附模板"
     keywords: "借条模板, 借条法律效力, 民间借贷"
     slug: "legal-ious-template-validity"
-    status: pending
+    status: published
   - title: "交通事故私了协议签了还能反悔吗？"
     keywords: "交通事故私了, 私了协议, 反悔"
     slug: "traffic-accident-private-settlement-agreement"
