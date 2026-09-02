@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-01"
+last_generated: "2026-09-02"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -32,7 +32,7 @@ topics:
   - title: "存款利率持续下调背景下，现金管理最佳方式"
     keywords: "存款利率下调, 现金管理, 短期理财, 货币基金, 国债逆回购"
     slug: "cash-management-best-practices-low-interest"
-    status: pending
+    status: published
   - title: "住房贷款提前还款与理财收益：如何做出最优决策"
     keywords: "提前还款, 房贷理财, 提前还贷划算吗, 房贷与投资收益比较"
     slug: "mortgage-prepayment-vs-investment-decisions"
