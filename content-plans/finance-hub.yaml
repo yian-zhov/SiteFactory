@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-01"
+last_generated: "2026-09-02"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -76,7 +76,7 @@ topics:
   - title: "Understanding Asset Allocation by Age: A Practical Guide"
     keywords: "asset allocation by age, portfolio allocation, risk tolerance investing"
     slug: "asset-allocation-by-age-guide"
-    status: pending
+    status: published
   - title: "Cutting Monthly Bills: 15 Ways to Reduce Recurring Expenses"
     keywords: "reduce monthly bills, cut expenses, save money monthly"
     slug: "cut-monthly-bills-ways"
