@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-02"
+last_generated: "2026-09-03"
 target_keywords:
   - DIY will
   - DMCA
@@ -68,7 +68,7 @@ topics:
   - title: "Legal Differences Between Misdemeanor and Felony"
     keywords: "misdemeanor vs felony, criminal law classes, criminal charges consequences"
     slug: "misdemeanor-vs-felony-legal-differences"
-    status: pending
+    status: published
   - title: "Can You Get Out of a Lease Early? Legal Options"
     keywords: "break lease legally, early lease termination, landlord tenant law"
     slug: "get-out-of-lease-early-legal-options"
