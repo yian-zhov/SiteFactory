@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-02"
+last_generated: "2026-09-03"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -44,7 +44,7 @@ topics:
   - title: "试用期辞退员工，公司需要给赔偿吗？"
     keywords: "试用期辞退, 试用期赔偿, 劳动法"
     slug: "probation-period-termination-compensation"
-    status: pending
+    status: published
   - title: "遗产继承顺序与比例：法定继承人如何分配？"
     keywords: "遗产继承顺序, 法定继承人, 继承比例"
     slug: "legal-inheritance-order-and-shares"
