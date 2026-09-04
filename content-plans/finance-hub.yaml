@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-03"
+last_generated: "2026-09-04"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -84,7 +84,7 @@ topics:
   - title: "Health Savings Account (HSA) Triple Tax Advantage Explained"
     keywords: "hsa tax benefits, health savings account, medical expense saving"
     slug: "hsa-triple-tax-advantage"
-    status: pending
+    status: published
   - title: "How to Track Your Net Worth and Why It Matters"
     keywords: "track net worth, net worth calculation, financial health metrics"
     slug: "track-net-worth-importance"
