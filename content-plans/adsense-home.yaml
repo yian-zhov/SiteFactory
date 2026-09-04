@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-03"
+last_generated: "2026-09-04"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -24,7 +24,7 @@ topics:
   - title: "How to Reverse Image Search on Your Phone in 3 Easy Ways"
     keywords: "reverse image search mobile, image search iphone android"
     slug: "reverse-image-search-phone-methods"
-    status: pending
+    status: published
   - title: "DuckDuckGo vs Google vs Bing: Privacy and Results Compared"
     keywords: "duckduckgo vs google, bing vs google, search engine comparison, privacy search"
     slug: "search-engine-privacy-comparison"
