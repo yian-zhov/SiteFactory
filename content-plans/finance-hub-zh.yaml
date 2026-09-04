@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-03"
+last_generated: "2026-09-04"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -40,7 +40,7 @@ topics:
   - title: "指数基金定投与主动管理基金：业绩对比与选择指南"
     keywords: "指数基金定投, 主动管理基金, 基金类型对比, 基金选择"
     slug: "index-fund-vs-active-fund-comparison"
-    status: pending
+    status: published
   - title: "年轻人如何建立应急基金：金额设定与投资渠道"
     keywords: "应急基金, 紧急备用金, 应急资金金额, 流动性理财"
     slug: "how-young-people-build-emergency-fund"
