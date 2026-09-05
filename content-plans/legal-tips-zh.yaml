@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-04"
+last_generated: "2026-09-05"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -52,7 +52,7 @@ topics:
   - title: "离婚时房产怎么分？婚前婚后购买区别大"
     keywords: "离婚房产分割, 婚前财产, 婚后购房"
     slug: "divorce-property-division-rules"
-    status: pending
+    status: published
   - title: "遇到职场性骚扰，如何收集证据并维权？"
     keywords: "职场性骚扰, 证据收集, 法律维权"
     slug: "workplace-sexual-harassment-evidence-guide"
