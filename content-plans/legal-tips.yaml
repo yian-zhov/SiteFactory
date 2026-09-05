@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-04"
+last_generated: "2026-09-05"
 target_keywords:
   - DIY will
   - DMCA
@@ -76,7 +76,7 @@ topics:
   - title: "Identity Theft: Immediate Legal Steps to Take"
     keywords: "identity theft legal steps, credit freeze, fraud report, identity theft protection"
     slug: "identity-theft-immediate-legal-steps"
-    status: pending
+    status: published
   - title: "Marriage vs Common-Law Marriage: Legal Differences"
     keywords: "common law marriage, marriage legal rights, cohabitation law"
     slug: "marriage-vs-common-law-legal-differences"
