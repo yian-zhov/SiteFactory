@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-05"
+last_generated: "2026-09-06"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -92,7 +92,7 @@ topics:
   - title: "Dollar-Cost Averaging vs Lump Sum Investing: Which Is Better?"
     keywords: "dollar cost averaging vs lump sum, investment strategies, market timing"
     slug: "dollar-cost-averaging-vs-lump-sum"
-    status: pending
+    status: published
   - title: "Retiring Early: Steps to Achieve Financial Independence (FIRE)"
     keywords: "financial independence retire early, FIRE movement, early retirement planning"
     slug: "early-retirement-fire-steps"
