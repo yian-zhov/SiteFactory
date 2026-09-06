@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-05"
+last_generated: "2026-09-06"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -32,7 +32,7 @@ topics:
   - title: "The Complete Guide to Searching Within a Single Website"
     keywords: "site search, search inside website, site: operator"
     slug: "guide-search-within-single-website"
-    status: pending
+    status: published
   - title: "How to Find Free and Legal Streaming Movies Online"
     keywords: "free legal streaming, watch movies online free, public domain films"
     slug: "find-legal-free-streaming-movies"
