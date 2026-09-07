@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-06"
+last_generated: "2026-09-07"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -60,7 +60,7 @@ topics:
   - title: "合同违约金过高怎么办？可以请求法院调低"
     keywords: "违约金过高, 合同违约, 法院调整"
     slug: "excessive-contract-penalty-reduction"
-    status: pending
+    status: published
   - title: "校园欺凌的法律责任：学校、家长、施暴者"
     keywords: "校园欺凌, 法律责任, 学校责任"
     slug: "school-bullying-legal-responsibility"
