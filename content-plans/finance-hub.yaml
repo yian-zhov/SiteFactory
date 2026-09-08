@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-07"
+last_generated: "2026-09-08"
 target_keywords:
   - FIRE movement
   - asset allocation by age
@@ -100,7 +100,7 @@ topics:
   - title: "How to Read an Income Statement: Simplified for Investors"
     keywords: "read income statement, financial statements, investing fundamentals"
     slug: "read-income-statement-investors"
-    status: pending
+    status: published
   - title: "Tax-Loss Harvesting: Strategies to Minimize Your Capital Gains Tax"
     keywords: "tax loss harvesting, capital gains tax reduction, tax efficient investing"
     slug: "tax-loss-harvesting-strategies"
