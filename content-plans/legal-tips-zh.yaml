@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-07"
+last_generated: "2026-09-08"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -64,7 +64,7 @@ topics:
   - title: "校园欺凌的法律责任：学校、家长、施暴者"
     keywords: "校园欺凌, 法律责任, 学校责任"
     slug: "school-bullying-legal-responsibility"
-    status: pending
+    status: published
   - title: "公司拖欠工资，除了仲裁还能怎么办？"
     keywords: "拖欠工资, 劳动仲裁, 讨薪方法"
     slug: "wage-arrears-legal-remedies"
