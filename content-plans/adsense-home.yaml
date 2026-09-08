@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-07"
+last_generated: "2026-09-08"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -40,7 +40,7 @@ topics:
   - title: "Mastering Boolean Search: Tips for Job Hunting and Research"
     keywords: "boolean search tips, job search boolean, recruiters boolean"
     slug: "mastering-boolean-search-job-hunting"
-    status: pending
+    status: published
   - title: "10 Quick Ways to Speed Up Your Web Research Process"
     keywords: "faster web research, research productivity, online research hacks"
     slug: "speed-up-web-research-process"
