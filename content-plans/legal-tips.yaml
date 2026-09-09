@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-08"
+last_generated: "2026-09-09"
 target_keywords:
   - DIY will
   - DMCA
@@ -92,7 +92,7 @@ topics:
   - title: "How to Draft a Non-Disclosure Agreement (NDA) Yourself"
     keywords: "non-disclosure agreement template, NDA legal requirements, confidentiality contract"
     slug: "how-to-draft-non-disclosure-agreement-yourself"
-    status: pending
+    status: published
   - title: "Navigating No-Fault Divorce: A Legal Roadmap"
     keywords: "no-fault divorce, divorce process steps, uncontested divorce"
     slug: "navigating-no-fault-divorce-legal-roadmap"
