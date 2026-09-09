@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-08"
+last_generated: "2026-09-09"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -68,7 +68,7 @@ topics:
   - title: "公司拖欠工资，除了仲裁还能怎么办？"
     keywords: "拖欠工资, 劳动仲裁, 讨薪方法"
     slug: "wage-arrears-legal-remedies"
-    status: pending
+    status: published
   - title: "买房定金和订金的区别，哪个能退？"
     keywords: "购房定金, 订金, 退款规则"
     slug: "deposit-vs-down-payment-real-estate"
