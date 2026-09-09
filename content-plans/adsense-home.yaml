@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-08"
+last_generated: "2026-09-09"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -44,7 +44,7 @@ topics:
   - title: "10 Quick Ways to Speed Up Your Web Research Process"
     keywords: "faster web research, research productivity, online research hacks"
     slug: "speed-up-web-research-process"
-    status: pending
+    status: published
   - title: "How to Spot Fake News and Misinformation in Search Results"
     keywords: "verify news online, fake news detection, misinformation search results"
     slug: "spot-fake-news-search-results"
