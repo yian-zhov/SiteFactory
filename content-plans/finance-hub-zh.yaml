@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-09"
+last_generated: "2026-09-10"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -64,7 +64,7 @@ topics:
   - title: "不同风险承受能力的资产配置方案：保守型与激进型"
     keywords: "资产配置方案, 风险承受能力, 保守型投资, 激进型投资, 股债配置"
     slug: "asset-allocation-strategies-by-risk-tolerance"
-    status: pending
+    status: published
   - title: "信用卡理财七种玩法：如何利用免息期最大化收益"
     keywords: "信用卡理财, 免息期利用, 信用卡积分, 信用卡还款技巧"
     slug: "credit-card-financial-tricks-maximize-benefits"
