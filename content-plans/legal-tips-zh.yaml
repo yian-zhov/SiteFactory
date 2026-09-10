@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-09"
+last_generated: "2026-09-10"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -72,7 +72,7 @@ topics:
   - title: "买房定金和订金的区别，哪个能退？"
     keywords: "购房定金, 订金, 退款规则"
     slug: "deposit-vs-down-payment-real-estate"
-    status: pending
+    status: published
   - title: "被冒名注册公司或贷款，如何证明清白？"
     keywords: "冒名注册, 身份盗用, 法律救济"
     slug: "identity-theft-company-registration-remedy"
