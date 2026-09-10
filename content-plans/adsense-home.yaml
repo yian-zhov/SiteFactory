@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-09"
+last_generated: "2026-09-10"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -48,7 +48,7 @@ topics:
   - title: "How to Spot Fake News and Misinformation in Search Results"
     keywords: "verify news online, fake news detection, misinformation search results"
     slug: "spot-fake-news-search-results"
-    status: pending
+    status: published
   - title: "Best Browser Extensions for SEO Professionals in 2025"
     keywords: "seo chrome extensions, seo firefox addons, browser tools seo"
     slug: "best-browser-extensions-seo-professionals"
