@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-10"
+last_generated: "2026-09-11"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -52,7 +52,7 @@ topics:
   - title: "Best Browser Extensions for SEO Professionals in 2025"
     keywords: "seo chrome extensions, seo firefox addons, browser tools seo"
     slug: "best-browser-extensions-seo-professionals"
-    status: pending
+    status: published
   - title: "How to Use Google Scholar for Academic Research Like a Pro"
     keywords: "google scholar tips, academic research guide, scholarly articles search"
     slug: "google-scholar-academic-research-guide"
