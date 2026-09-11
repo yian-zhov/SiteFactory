@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-10"
+last_generated: "2026-09-11"
 target_keywords:
   - DIY will
   - DMCA
@@ -100,7 +100,7 @@ topics:
   - title: "Legal Ways to Protect Your Intellectual Property Online"
     keywords: "online copyright, trademark protection, intellectual property rights, DMCA"
     slug: "legal-ways-protect-intellectual-property-online"
-    status: pending
+    status: published
   - title: "What Counts as Self-Defense? Legal Boundaries"
     keywords: "self-defense laws, legal self-defense, stand your ground, use of force"
     slug: "what-counts-as-self-defense-legal-boundaries"
