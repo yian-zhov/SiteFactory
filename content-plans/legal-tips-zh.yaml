@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-10"
+last_generated: "2026-09-11"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -76,7 +76,7 @@ topics:
   - title: "被冒名注册公司或贷款，如何证明清白？"
     keywords: "冒名注册, 身份盗用, 法律救济"
     slug: "identity-theft-company-registration-remedy"
-    status: pending
+    status: published
   - title: "外卖吃出异物，索赔流程与赔偿标准"
     keywords: "外卖异物, 食品安全, 赔偿标准"
     slug: "foreign-object-food-delivery-claim"
