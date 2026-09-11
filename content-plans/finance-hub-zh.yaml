@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-10"
+last_generated: "2026-09-11"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -68,7 +68,7 @@ topics:
   - title: "信用卡理财七种玩法：如何利用免息期最大化收益"
     keywords: "信用卡理财, 免息期利用, 信用卡积分, 信用卡还款技巧"
     slug: "credit-card-financial-tricks-maximize-benefits"
-    status: pending
+    status: published
   - title: "基金定投常见误区排行：你是否也踩了这些雷"
     keywords: "定投误区, 基金定投错误, 定投失败原因, 定投纪律"
     slug: "common-mistakes-in-fund-drip-investing"
