@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-11"
+last_generated: "2026-09-12"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -80,7 +80,7 @@ topics:
   - title: "外卖吃出异物，索赔流程与赔偿标准"
     keywords: "外卖异物, 食品安全, 赔偿标准"
     slug: "foreign-object-food-delivery-claim"
-    status: pending
+    status: published
   - title: "夫妻共同债务如何认定？不一定一起还"
     keywords: "夫妻共同债务, 离婚债务, 认定标准"
     slug: "marital-debt-recognition-rules"
