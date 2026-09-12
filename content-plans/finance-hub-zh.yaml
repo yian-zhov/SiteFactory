@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-11"
+last_generated: "2026-09-12"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -72,7 +72,7 @@ topics:
   - title: "基金定投常见误区排行：你是否也踩了这些雷"
     keywords: "定投误区, 基金定投错误, 定投失败原因, 定投纪律"
     slug: "common-mistakes-in-fund-drip-investing"
-    status: pending
+    status: published
   - title: "黄金投资适合普通人吗？金条、黄金ETF与纸黄金对比"
     keywords: "黄金投资, 金条购买, 黄金ETF, 纸黄金, 普通人买黄金"
     slug: "is-gold-investment-suitable-for-ordinary-people"
