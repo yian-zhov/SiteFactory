@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-11"
+last_generated: "2026-09-12"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -56,7 +56,7 @@ topics:
   - title: "How to Use Google Scholar for Academic Research Like a Pro"
     keywords: "google scholar tips, academic research guide, scholarly articles search"
     slug: "google-scholar-academic-research-guide"
-    status: pending
+    status: published
   - title: "The Ultimate Guide to Searching for Public Records Online"
     keywords: "find public records online, court records search, property records free"
     slug: "ultimate-guide-public-records-search"
