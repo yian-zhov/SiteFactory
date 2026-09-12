@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-11"
+last_generated: "2026-09-12"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -24,7 +24,7 @@ topics:
   - title: "50/30/20 Budget Rule Explained with Examples"
     keywords: "50/30/20 budget rule, budgeting methods, how to budget income"
     slug: "50-30-20-budget-rule-explained"
-    status: pending
+    status: published
   - title: "How to Pay Off Credit Card Debt Fast: 7 Proven Methods"
     keywords: "pay off credit card debt, credit card debt strategies, debt payoff methods"
     slug: "pay-off-credit-card-debt-fast"
