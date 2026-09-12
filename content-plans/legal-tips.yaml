@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-11"
+last_generated: "2026-09-12"
 target_keywords:
   - DIY will
   - DMCA
@@ -104,7 +104,7 @@ topics:
   - title: "What Counts as Self-Defense? Legal Boundaries"
     keywords: "self-defense laws, legal self-defense, stand your ground, use of force"
     slug: "what-counts-as-self-defense-legal-boundaries"
-    status: pending
+    status: published
   - title: "Final Days of Employment: Legal Rights and Severance"
     keywords: "severance agreement, final paycheck laws, employee termination rights"
     slug: "final-days-employment-legal-rights-severance"
