@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-12"
+last_generated: "2026-09-13"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -84,7 +84,7 @@ topics:
   - title: "夫妻共同债务如何认定？不一定一起还"
     keywords: "夫妻共同债务, 离婚债务, 认定标准"
     slug: "marital-debt-recognition-rules"
-    status: pending
+    status: published
   - title: "房屋租赁合同未到期，房东能赶人吗？"
     keywords: "租赁合同未到期, 房东赶人, 租客权利"
     slug: "landlord-eviction-before-lease-expiry"
