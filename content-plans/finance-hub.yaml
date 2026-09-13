@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-12"
+last_generated: "2026-09-13"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -28,7 +28,7 @@ topics:
   - title: "How to Pay Off Credit Card Debt Fast: 7 Proven Methods"
     keywords: "pay off credit card debt, credit card debt strategies, debt payoff methods"
     slug: "pay-off-credit-card-debt-fast"
-    status: pending
+    status: published
   - title: "Debt Snowball vs Debt Avalanche: Which Is Better?"
     keywords: "debt snowball vs avalanche, debt payoff methods, fastest way to pay debt"
     slug: "debt-snowball-vs-debt-avalanche"
