@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-12"
+last_generated: "2026-09-13"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -76,7 +76,7 @@ topics:
   - title: "黄金投资适合普通人吗？金条、黄金ETF与纸黄金对比"
     keywords: "黄金投资, 金条购买, 黄金ETF, 纸黄金, 普通人买黄金"
     slug: "is-gold-investment-suitable-for-ordinary-people"
-    status: pending
+    status: published
   - title: "如何解读个人征信报告：保护信用记录的关键要点"
     keywords: "个人征信, 征信报告解读, 信用记录维护, 征信查询影响"
     slug: "how-to-read-personal-credit-report"
