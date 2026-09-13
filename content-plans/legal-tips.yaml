@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-12"
+last_generated: "2026-09-13"
 target_keywords:
   - DIY will
   - DMCA
@@ -108,7 +108,7 @@ topics:
   - title: "Final Days of Employment: Legal Rights and Severance"
     keywords: "severance agreement, final paycheck laws, employee termination rights"
     slug: "final-days-employment-legal-rights-severance"
-    status: pending
+    status: published
   - title: "Homeowners Association Rules: What's Legally Enforceable"
     keywords: "HOA legal authority, HOA rules enforcement, homeowners rights vs HOA"
     slug: "homeowners-association-rules-legally-enforceable"
