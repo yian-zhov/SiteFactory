@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-13"
+last_generated: "2026-09-14"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -32,7 +32,7 @@ topics:
   - title: "Debt Snowball vs Debt Avalanche: Which Is Better?"
     keywords: "debt snowball vs avalanche, debt payoff methods, fastest way to pay debt"
     slug: "debt-snowball-vs-debt-avalanche"
-    status: pending
+    status: published
   - title: "How to Improve Your Credit Score in 90 Days"
     keywords: "improve credit score fast, credit score tips, raise credit score"
     slug: "improve-credit-score-in-90-days"
