@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-13"
+last_generated: "2026-09-14"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -64,7 +64,7 @@ topics:
   - title: "5 Safe Ways to Search for Medical Symptoms Without Panicking"
     keywords: "medical symptom search, health information online, doctor google trustworthy"
     slug: "safe-medical-symptom-search-guide"
-    status: pending
+    status: published
   - title: "Search Smarter on LinkedIn: Reveal Hidden Job Opportunities"
     keywords: "linkedin search tips, find hidden jobs linkedin, advanced linkedin search"
     slug: "linkedin-advanced-search-job-hacks"
