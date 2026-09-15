@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-14"
+last_generated: "2026-09-15"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -24,7 +24,7 @@ topics:
   - title: "How to Write a Demand Letter That Gets Results"
     keywords: "how to write a demand letter, demand letter template, demand letter for payment"
     slug: "how-to-write-demand-letter"
-    status: pending
+    status: published
   - title: "How Long Do You Have to File a Personal Injury Lawsuit?"
     keywords: "personal injury statute of limitations, how long to file injury lawsuit, injury claim deadline"
     slug: "personal-injury-statute-of-limitations"
