@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-14"
+last_generated: "2026-09-15"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -68,7 +68,7 @@ topics:
   - title: "Search Smarter on LinkedIn: Reveal Hidden Job Opportunities"
     keywords: "linkedin search tips, find hidden jobs linkedin, advanced linkedin search"
     slug: "linkedin-advanced-search-job-hacks"
-    status: pending
+    status: published
   - title: "How to Set a Custom Search Engine in Chrome and Firefox"
     keywords: "custom search engine chrome, add site search firefox, keyword shortcuts"
     slug: "setup-custom-search-engine-browsers"
