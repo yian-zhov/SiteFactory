@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-14"
+last_generated: "2026-09-15"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -84,7 +84,7 @@ topics:
   - title: "美股投资渠道与税务问题：国内投资者完全指南"
     keywords: "美股投资, 美股开户, 美股报税, 海外投资渠道"
     slug: "us-stock-investing-for-chinese-investors"
-    status: pending
+    status: published
   - title: "自我保险与商业保险：如何科学配置家庭保障体系"
     keywords: "家庭保险配置, 商业保险选择, 自我保险, 保障体系规划"
     slug: "home-insurance-allocation-scientific-guide"
