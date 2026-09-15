@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-14"
+last_generated: "2026-09-15"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -92,7 +92,7 @@ topics:
   - title: "微信聊天记录能当证据吗？如何合法取证"
     keywords: "微信证据, 聊天记录, 电子证据"
     slug: "wechat-chat-records-legal-evidence"
-    status: pending
+    status: published
   - title: "买到翻新机或假货，如何要求退一赔三？"
     keywords: "假货赔偿, 退一赔三, 消费者权益法"
     slug: "fake-product-compensation-triple"
