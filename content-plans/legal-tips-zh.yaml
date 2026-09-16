@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-15"
+last_generated: "2026-09-16"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -96,7 +96,7 @@ topics:
   - title: "买到翻新机或假货，如何要求退一赔三？"
     keywords: "假货赔偿, 退一赔三, 消费者权益法"
     slug: "fake-product-compensation-triple"
-    status: pending
+    status: published
   - title: "员工主动辞职，还能拿赔偿或失业金吗？"
     keywords: "主动辞职, 经济补偿, 失业金"
     slug: "voluntary-resignation-benefits-eligibility"
