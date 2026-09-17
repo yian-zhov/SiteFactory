@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-16"
+last_generated: "2026-09-17"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -76,7 +76,7 @@ topics:
   - title: "Finding Deals and Coupons Online: Search Strategies That Actually Work"
     keywords: "find discounts online, online coupon search, shopping deal hacks"
     slug: "effective-online-deals-coupon-search"
-    status: pending
+    status: published
   - title: "X (Twitter) Search Secrets: Find Posts, Threads, and People Instantly"
     keywords: "twitter advanced search, x search operators, find tweets people"
     slug: "twitter-x-advanced-search-guide"
