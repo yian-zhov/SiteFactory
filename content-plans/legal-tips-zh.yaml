@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-16"
+last_generated: "2026-09-17"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -100,7 +100,7 @@ topics:
   - title: "员工主动辞职，还能拿赔偿或失业金吗？"
     keywords: "主动辞职, 经济补偿, 失业金"
     slug: "voluntary-resignation-benefits-eligibility"
-    status: pending
+    status: published
   - title: "高铁霸座、地铁骚扰，法律怎么处罚？"
     keywords: "高铁霸座, 公共场所骚扰, 治安处罚"
     slug: "seat-hogging-harassment-penalties-law"
