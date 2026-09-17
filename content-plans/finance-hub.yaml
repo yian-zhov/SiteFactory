@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-16"
+last_generated: "2026-09-17"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -44,7 +44,7 @@ topics:
   - title: "How to Start Investing with $100"
     keywords: "start investing with 100 dollars, small amount investing, beginner investing"
     slug: "how-to-start-investing-with-100"
-    status: pending
+    status: published
   - title: "Dollar-Cost Averaging: How It Works and When to Use It"
     keywords: "dollar cost averaging, dca investing, investing strategy"
     slug: "dollar-cost-averaging-explained"
