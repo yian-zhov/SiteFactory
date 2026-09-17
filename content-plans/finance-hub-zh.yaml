@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-16"
+last_generated: "2026-09-17"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -92,7 +92,7 @@ topics:
   - title: "国债逆回购实操教程：节假日锁定高收益技巧"
     keywords: "国债逆回购, 国债逆回购操作, 节假日理财, 高收益技巧"
     slug: "treasury-reverse-repurchase-practical-tutorial"
-    status: pending
+    status: published
   - title: "如何用资产负债表和收支表评估自己财务状况"
     keywords: "个人资产负债表, 财务健康评估, 收支表制作, 财务诊断"
     slug: "evaluate-personal-financial-health-statements"
