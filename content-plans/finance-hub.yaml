@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-17"
+last_generated: "2026-09-18"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -48,7 +48,7 @@ topics:
   - title: "Dollar-Cost Averaging: How It Works and When to Use It"
     keywords: "dollar cost averaging, dca investing, investing strategy"
     slug: "dollar-cost-averaging-explained"
-    status: pending
+    status: published
   - title: "Roth IRA vs Traditional IRA: Which Should You Choose?"
     keywords: "roth ira vs traditional ira, ira comparison, retirement account"
     slug: "roth-ira-vs-traditional-ira"
