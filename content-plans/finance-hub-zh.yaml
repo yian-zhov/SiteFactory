@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-17"
+last_generated: "2026-09-18"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -96,7 +96,7 @@ topics:
   - title: "如何用资产负债表和收支表评估自己财务状况"
     keywords: "个人资产负债表, 财务健康评估, 收支表制作, 财务诊断"
     slug: "evaluate-personal-financial-health-statements"
-    status: pending
+    status: published
   - title: "互联网理财产品安全性分析：如何辨别正规平台"
     keywords: "互联网理财, 理财平台安全, 正规平台辨别, 网贷风险"
     slug: "internet-financial-product-safety-analysis"
