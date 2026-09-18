@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-17"
+last_generated: "2026-09-18"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -36,7 +36,7 @@ topics:
   - title: "How to File a Small Claims Court Case Without a Lawyer"
     keywords: "small claims court process, how to file small claims, small claims without lawyer"
     slug: "how-to-file-small-claims-court"
-    status: pending
+    status: published
   - title: "At-Will Employment: What Your Employer Can and Cannot Do"
     keywords: "at-will employment meaning, at-will employment rights, can i be fired without cause"
     slug: "at-will-employment-rights-explained"
