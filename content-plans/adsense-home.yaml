@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-17"
+last_generated: "2026-09-18"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -80,7 +80,7 @@ topics:
   - title: "X (Twitter) Search Secrets: Find Posts, Threads, and People Instantly"
     keywords: "twitter advanced search, x search operators, find tweets people"
     slug: "twitter-x-advanced-search-guide"
-    status: pending
+    status: published
   - title: "What Does 'Indexed' Mean in Search? A Beginner's Explanation"
     keywords: "search index meaning, how search engines index, blocked from index"
     slug: "search-indexing-beginners-explained"
