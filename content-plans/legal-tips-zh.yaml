@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-18"
+last_generated: "2026-09-19"
 target_keywords:
   - N+1
   - 七天无理由退货
@@ -108,7 +108,7 @@ topics:
   - title: "代购跑路或买到假货，谁该负责？"
     keywords: "代购跑路, 代购假货, 法律责任"
     slug: "daigou-shopping-fraud-legal-liability"
-    status: pending
+    status: published
   - title: "老人被保健品骗局坑钱，如何追回？"
     keywords: "保健品骗局, 老年人维权, 追回损失"
     slug: "elderly-health-product-scam-recovery"
