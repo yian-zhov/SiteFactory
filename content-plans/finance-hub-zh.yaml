@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-18"
+last_generated: "2026-09-19"
 target_keywords:
   - 个人征信
   - 个人资产负债表
@@ -100,7 +100,7 @@ topics:
   - title: "互联网理财产品安全性分析：如何辨别正规平台"
     keywords: "互联网理财, 理财平台安全, 正规平台辨别, 网贷风险"
     slug: "internet-financial-product-safety-analysis"
-    status: pending
+    status: published
   - title: "工资每月只够开销，如何逐步培养储蓄习惯"
     keywords: "储蓄习惯养成, 月光族理财, 强制储蓄, 工资分配方法"
     slug: "how-to-build-saving-habits-low-income"
