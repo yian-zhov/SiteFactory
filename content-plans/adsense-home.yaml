@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-18"
+last_generated: "2026-09-19"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -84,7 +84,7 @@ topics:
   - title: "What Does 'Indexed' Mean in Search? A Beginner's Explanation"
     keywords: "search index meaning, how search engines index, blocked from index"
     slug: "search-indexing-beginners-explained"
-    status: pending
+    status: published
   - title: "10 Quick Search Shortcuts to Save Hours Each Week"
     keywords: "search keyboard shortcuts, browser search tips, time-saving search, ctrl+f tricks"
     slug: "time-saving-search-shortcuts-week"
