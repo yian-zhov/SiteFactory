@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-19"
+last_generated: "2026-09-20"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -88,7 +88,7 @@ topics:
   - title: "10 Quick Search Shortcuts to Save Hours Each Week"
     keywords: "search keyboard shortcuts, browser search tips, time-saving search, ctrl+f tricks"
     slug: "time-saving-search-shortcuts-week"
-    status: pending
+    status: published
   - title: "How to Search Old News Articles and Archive Material Effectively"
     keywords: "news archive search, historical articles online, newspaper archive lookup"
     slug: "search-archived-news-articles-guide"
