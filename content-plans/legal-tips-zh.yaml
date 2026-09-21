@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-20"
+last_generated: "2026-09-21"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -24,7 +24,7 @@ topics:
   - title: "借条和欠条有什么区别？写错可能输官司"
     keywords: "借条和欠条的区别, 借条怎么写, 欠条的法律效力"
     slug: "iou-vs-debt-note-difference"
-    status: pending
+    status: published
   - title: "离婚财产怎么分割？2025新婚姻法完整指南"
     keywords: "离婚财产分割, 新婚姻法离婚财产, 离婚房产怎么分"
     slug: "divorce-property-division-guide"
