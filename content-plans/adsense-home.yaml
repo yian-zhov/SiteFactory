@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-20"
+last_generated: "2026-09-21"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -92,7 +92,7 @@ topics:
   - title: "How to Search Old News Articles and Archive Material Effectively"
     keywords: "news archive search, historical articles online, newspaper archive lookup"
     slug: "search-archived-news-articles-guide"
-    status: pending
+    status: published
   - title: "Google Maps Search Tricks for Finding Exactly What You Need Nearby"
     keywords: "google maps search tips, find business nearby, google maps hacks"
     slug: "google-maps-advanced-search-tricks"
