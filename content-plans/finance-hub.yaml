@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-21"
+last_generated: "2026-09-22"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -68,7 +68,7 @@ topics:
   - title: "10 Simple Ways to Save Money on Groceries"
     keywords: "save money on groceries, grocery budget tips, reduce grocery bill"
     slug: "ways-to-save-money-on-groceries"
-    status: pending
+    status: published
   - title: "How to Create a Monthly Budget That Works"
     keywords: "how to create a budget, monthly budget guide, budgeting for beginners"
     slug: "create-monthly-budget-that-works"
