@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-21"
+last_generated: "2026-09-22"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -32,7 +32,7 @@ topics:
   - title: "被公司辞退怎么赔偿？N+1和2N补偿全解析"
     keywords: "被辞退赔偿标准, N+1赔偿, 违法辞退2N赔偿"
     slug: "illegal-dismissal-compensation-n-plus-1"
-    status: pending
+    status: published
   - title: "交通事故责任认定后赔偿流程怎么走？"
     keywords: "交通事故赔偿流程, 交通事故责任认定, 车祸赔偿标准"
     slug: "traffic-accident-compensation-process"
