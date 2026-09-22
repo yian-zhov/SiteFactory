@@ -4,116 +4,116 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-21"
+last_generated: "2026-09-22"
 target_keywords:
-  - 个人征信
-  - 个人资产负债表
-  - 个税筹划
-  - 主动管理基金
-  - 互联网理财
-  - 保守型投资
-  - 保障体系规划
-  - 信用卡理财
-  - 信用卡积分
-  - 信用卡还款技巧
+  - 4321法则
+  - ETF和场外基金区别
+  - ETF怎么买
+  - ETF费率
+  - 个人账户养老金
+  - 个人资产配置
+  - 个税专项附加扣除
+  - 个税申报
+  - 中证500对比
+  - 估值止盈法
 topics:
-  - title: "新手理财入门：从零开始建立财务规划的完整指南"
-    keywords: "新手理财, 财务规划, 理财入门, 理财第一步"
-    slug: "beginner-financial-planning-guide"
+  - title: "新手如何开始基金定投：每月500元也能稳健理财"
+    keywords: "基金定投, 新手定投, 每月500元理财, 定投入门"
+    slug: "beginner-fund-investment-plan-500-monthly"
     status: published
-  - title: "如何选择适合自己的基金定投策略"
-    keywords: "基金定投, 基金定投策略, 定投选择, 基金投资方法"
-    slug: "how-to-choose-fund-drip-investment-strategy"
-    status: published
-  - title: "股票投资入门：基本面分析核心指标详解"
-    keywords: "股票基本面分析, 核心财务指标, 股票入门, 市盈率, 市净率"
-    slug: "stock-fundamental-analysis-key-metrics"
-    status: published
-  - title: "存款利率持续下调背景下，现金管理最佳方式"
-    keywords: "存款利率下调, 现金管理, 短期理财, 货币基金, 国债逆回购"
-    slug: "cash-management-best-practices-low-interest"
-    status: published
-  - title: "住房贷款提前还款与理财收益：如何做出最优决策"
-    keywords: "提前还款, 房贷理财, 提前还贷划算吗, 房贷与投资收益比较"
-    slug: "mortgage-prepayment-vs-investment-decisions"
-    status: published
-  - title: "指数基金定投与主动管理基金：业绩对比与选择指南"
-    keywords: "指数基金定投, 主动管理基金, 基金类型对比, 基金选择"
-    slug: "index-fund-vs-active-fund-comparison"
-    status: published
-  - title: "年轻人如何建立应急基金：金额设定与投资渠道"
-    keywords: "应急基金, 紧急备用金, 应急资金金额, 流动性理财"
-    slug: "how-young-people-build-emergency-fund"
-    status: published
-  - title: "退休养老理财：如何估算所需养老金并制定储蓄计划"
-    keywords: "养老理财, 退休储蓄规划, 养老金估算, 养老投资计划"
-    slug: "retirement-saving-plan-calculation-guide"
-    status: published
-  - title: "可转债投资完全指南：从基础知识到实战技巧"
-    keywords: "可转债投资, 可转债入门, 可转债打新, 可转债套利"
-    slug: "convertible-bond-investing-complete-guide"
-    status: published
-  - title: "如何避开常见理财陷阱：投资者需警惕的十大骗局"
-    keywords: "理财骗局, 投资陷阱, 防骗指南, 非法集资识别"
-    slug: "avoid-common-financial-scams-list"
-    status: published
-  - title: "定投计划如何调整：止盈与止损策略实操详解"
-    keywords: "基金定投止盈, 定投止损, 定投调整策略, 分批止盈"
-    slug: "dca-profit-taking-and-stop-loss-strategies"
-    status: published
-  - title: "不同风险承受能力的资产配置方案：保守型与激进型"
-    keywords: "资产配置方案, 风险承受能力, 保守型投资, 激进型投资, 股债配置"
-    slug: "asset-allocation-strategies-by-risk-tolerance"
-    status: published
-  - title: "信用卡理财七种玩法：如何利用免息期最大化收益"
-    keywords: "信用卡理财, 免息期利用, 信用卡积分, 信用卡还款技巧"
-    slug: "credit-card-financial-tricks-maximize-benefits"
-    status: published
-  - title: "基金定投常见误区排行：你是否也踩了这些雷"
-    keywords: "定投误区, 基金定投错误, 定投失败原因, 定投纪律"
-    slug: "common-mistakes-in-fund-drip-investing"
-    status: published
-  - title: "黄金投资适合普通人吗？金条、黄金ETF与纸黄金对比"
-    keywords: "黄金投资, 金条购买, 黄金ETF, 纸黄金, 普通人买黄金"
-    slug: "is-gold-investment-suitable-for-ordinary-people"
-    status: published
-  - title: "如何解读个人征信报告：保护信用记录的关键要点"
-    keywords: "个人征信, 征信报告解读, 信用记录维护, 征信查询影响"
-    slug: "how-to-read-personal-credit-report"
-    status: published
-  - title: "美股投资渠道与税务问题：国内投资者完全指南"
-    keywords: "美股投资, 美股开户, 美股报税, 海外投资渠道"
-    slug: "us-stock-investing-for-chinese-investors"
-    status: published
-  - title: "自我保险与商业保险：如何科学配置家庭保障体系"
-    keywords: "家庭保险配置, 商业保险选择, 自我保险, 保障体系规划"
-    slug: "home-insurance-allocation-scientific-guide"
-    status: published
-  - title: "国债逆回购实操教程：节假日锁定高收益技巧"
-    keywords: "国债逆回购, 国债逆回购操作, 节假日理财, 高收益技巧"
-    slug: "treasury-reverse-repurchase-practical-tutorial"
-    status: published
-  - title: "如何用资产负债表和收支表评估自己财务状况"
-    keywords: "个人资产负债表, 财务健康评估, 收支表制作, 财务诊断"
-    slug: "evaluate-personal-financial-health-statements"
-    status: published
-  - title: "互联网理财产品安全性分析：如何辨别正规平台"
-    keywords: "互联网理财, 理财平台安全, 正规平台辨别, 网贷风险"
-    slug: "internet-financial-product-safety-analysis"
-    status: published
-  - title: "工资每月只够开销，如何逐步培养储蓄习惯"
-    keywords: "储蓄习惯养成, 月光族理财, 强制储蓄, 工资分配方法"
-    slug: "how-to-build-saving-habits-low-income"
-    status: published
-  - title: "教育资源储蓄规划：从孕期到大学的理财路径"
-    keywords: "教育金储备, 子女教育储蓄, 教育基金规划, 学费理财"
-    slug: "education-fund-saving-plan-from-pregnancy-to-college"
-    status: published
-  - title: "熊市中的防御性投资策略：如何保护资产价值"
-    keywords: "熊市投资策略, 防御性投资, 资产保值, 避险资产配置"
-    slug: "defensive-investing-strategies-bear-market"
+  - title: "货币基金和债券基金哪个好：低风险投资者选择指南"
+    keywords: "货币基金和债券基金区别, 低风险基金选择, 货币基金收益, 债券基金风险"
+    slug: "money-market-vs-bond-fund-comparison"
     status: pending
-  - title: "家庭理财中的税务优化：合法节税的七个实用方法"
-    keywords: "税务优化, 合法节税, 家庭理财税务, 个税筹划, 节税方法"
-    slug: "tax-optimization-family-finance-methods"
+  - title: "指数基金定投怎么选：沪深300、中证500、纳斯达克对比"
+    keywords: "指数基金怎么选, 沪深300定投, 中证500对比, 纳斯达克指数基金"
+    slug: "how-to-choose-index-funds-comparison"
+    status: pending
+  - title: "基金定投止盈策略：目标收益率法、估值法、回撤法怎么用"
+    keywords: "基金定投止盈, 止盈策略, 目标收益率止盈, 估值止盈法"
+    slug: "fund-investment-profit-taking-strategies"
+    status: pending
+  - title: "个人资产配置入门：4321法则和标准普尔象限图怎么用"
+    keywords: "个人资产配置, 4321法则, 标准普尔家庭资产象限图, 资产配置方案"
+    slug: "personal-asset-allocation-4321-rule"
+    status: pending
+  - title: "应急资金应该存多少：3-6个月生活费怎么算和放哪里"
+    keywords: "应急资金, 应急基金存多少, 应急资金放哪里, 家庭备用金"
+    slug: "how-much-emergency-fund-needed"
+    status: pending
+  - title: "信用卡免息期怎么算：最长50天免息和还款日避坑指南"
+    keywords: "信用卡免息期, 信用卡还款日, 信用卡免息期怎么算, 信用卡避坑"
+    slug: "credit-card-interest-free-period-guide"
+    status: pending
+  - title: "可转债打新怎么操作：中签率、缴款和上市卖出策略"
+    keywords: "可转债打新, 可转债申购, 可转债中签, 可转债上市卖出"
+    slug: "convertible-bond-ipo-subscription-guide"
+    status: pending
+  - title: "国债逆回购怎么买：节假日和月末高收益操作技巧"
+    keywords: "国债逆回购, 国债逆回购怎么买, 逆回购收益, 短期理财"
+    slug: "treasury-reverse-repo-investment-guide"
+    status: pending
+  - title: "银行大额存单和大额存款区别：利率、门槛、流动性对比"
+    keywords: "大额存单, 大额存款, 大额存单和定期存款区别, 大额存单利率"
+    slug: "large-deposit-vs-large-certificate-comparison"
+    status: pending
+  - title: "年金险和增额终身寿险怎么选：收益、灵活性、适用人群对比"
+    keywords: "年金险, 增额终身寿险, 年金险和增额终身寿区别, 储蓄险怎么选"
+    slug: "annuity-vs-increasing-whole-life-insurance"
+    status: pending
+  - title: "重疾险怎么买最划算：保额、保障期限、缴费年限选择"
+    keywords: "重疾险怎么买, 重疾险保额, 重疾险缴费年限, 重疾险选购"
+    slug: "how-to-buy-critical-illness-insurance"
+    status: pending
+  - title: "百万医疗险和重疾险区别：能不能只买一个"
+    keywords: "百万医疗险, 重疾险区别, 百万医疗险和重疾险, 医疗险怎么选"
+    slug: "million-medical-vs-critical-illness-insurance"
+    status: pending
+  - title: "个人所得税专项附加扣除怎么申报：住房租金、房贷、赡养老人"
+    keywords: "个税专项附加扣除, 个税申报, 住房租金扣除, 赡养老人扣除"
+    slug: "individual-income-tax-special-deductions"
+    status: pending
+  - title: "年终奖怎么计税更划算：单独计税和并入综合所得对比"
+    keywords: "年终奖计税, 年终奖单独计税, 年终奖并入综合所得, 年终奖个税"
+    slug: "year-end-bonus-tax-calculation-guide"
+    status: pending
+  - title: "养老金个人账户怎么查：缴费年限、余额和退休金测算"
+    keywords: "养老金查询, 个人账户养老金, 社保缴费年限, 退休金测算"
+    slug: "how-to-check-pension-account-guide"
+    status: pending
+  - title: "股票开户流程详解：佣金、券商选择和开户注意事项"
+    keywords: "股票开户, 股票开户流程, 券商佣金, 股票开户注意事项"
+    slug: "stock-account-opening-process-guide"
+    status: pending
+  - title: "ETF和场外基金区别：费率、交易方式、适合谁买"
+    keywords: "ETF和场外基金区别, ETF怎么买, 场内基金, ETF费率"
+    slug: "etf-vs-otc-fund-comparison"
+    status: pending
+  - title: "港股通怎么开通和交易：门槛、交易规则、汇率风险"
+    keywords: "港股通, 港股通开通条件, 港股通交易规则, 港股通汇率"
+    slug: "hong-kong-stock-connect-guide"
+    status: pending
+  - title: "美股怎么买：开户渠道、交易时间、汇率和税费详解"
+    keywords: "美股怎么买, 美股开户, 美股交易时间, 美股税费"
+    slug: "how-to-buy-us-stocks-guide"
+    status: pending
+  - title: "基金亏损了要不要赎回：补仓、止损、持有判断标准"
+    keywords: "基金亏损怎么办, 基金要不要赎回, 基金补仓, 基金止损"
+    slug: "fund-loss-redeem-or-hold-strategy"
+    status: pending
+  - title: "家庭记账怎么做才有用：记账方法、分类和月度复盘"
+    keywords: "家庭记账, 记账方法, 记账分类, 月度复盘"
+    slug: "family-bookkeeping-method-guide"
+    status: pending
+  - title: "月薪5000怎么理财：先存钱、再保障、后投资的顺序"
+    keywords: "月薪5000理财, 低收入理财, 存钱方法, 工薪族理财"
+    slug: "how-to-manage-money-5000-salary"
+    status: pending
+  - title: "提前还房贷划算吗：等额本息、等额本金和违约金分析"
+    keywords: "提前还房贷, 提前还贷划算吗, 等额本息, 等额本金"
+    slug: "is-early-mortgage-repayment-worth-it"
+    status: pending
+  - title: "黄金投资方式对比：实物金、金条、黄金ETF、纸黄金怎么选"
+    keywords: "黄金投资, 黄金ETF, 纸黄金, 实物黄金投资"
+    slug: "gold-investment-options-comparison"
     status: pending
