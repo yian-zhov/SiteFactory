@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-21"
+last_generated: "2026-09-22"
 target_keywords:
   - academic research guide
   - add site search firefox
@@ -96,7 +96,7 @@ topics:
   - title: "Google Maps Search Tricks for Finding Exactly What You Need Nearby"
     keywords: "google maps search tips, find business nearby, google maps hacks"
     slug: "google-maps-advanced-search-tricks"
-    status: pending
+    status: published
   - title: "Searching the Dark Web Safely: What You Should and Shouldn't Do"
     keywords: "dark web search safe, tor search tips, onion links safety"
     slug: "safe-dark-web-search-tips"
