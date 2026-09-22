@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-21"
+last_generated: "2026-09-22"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -52,7 +52,7 @@ topics:
   - title: "What Is Considered Wrongful Termination? Key Signs to Know"
     keywords: "wrongful termination examples, wrongful termination signs, illegal firing"
     slug: "what-is-wrongful-termination"
-    status: pending
+    status: published
   - title: "Child Custody Basics: Physical vs Legal Custody Explained"
     keywords: "physical vs legal custody, child custody types, custody agreement basics"
     slug: "physical-vs-legal-custody-explained"
