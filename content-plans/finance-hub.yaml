@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-22"
+last_generated: "2026-09-23"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -72,7 +72,7 @@ topics:
   - title: "How to Create a Monthly Budget That Works"
     keywords: "how to create a budget, monthly budget guide, budgeting for beginners"
     slug: "create-monthly-budget-that-works"
-    status: pending
+    status: published
   - title: "Sinking Funds Explained: What They Are and How to Use Them"
     keywords: "sinking funds explained, sinking fund examples, budgeting savings categories"
     slug: "sinking-funds-explained"
