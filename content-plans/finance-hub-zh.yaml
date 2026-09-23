@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-22"
+last_generated: "2026-09-23"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -24,7 +24,7 @@ topics:
   - title: "货币基金和债券基金哪个好：低风险投资者选择指南"
     keywords: "货币基金和债券基金区别, 低风险基金选择, 货币基金收益, 债券基金风险"
     slug: "money-market-vs-bond-fund-comparison"
-    status: pending
+    status: published
   - title: "指数基金定投怎么选：沪深300、中证500、纳斯达克对比"
     keywords: "指数基金怎么选, 沪深300定投, 中证500对比, 纳斯达克指数基金"
     slug: "how-to-choose-index-funds-comparison"
