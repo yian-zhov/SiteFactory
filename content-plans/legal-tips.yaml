@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-22"
+last_generated: "2026-09-23"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -56,7 +56,7 @@ topics:
   - title: "Child Custody Basics: Physical vs Legal Custody Explained"
     keywords: "physical vs legal custody, child custody types, custody agreement basics"
     slug: "physical-vs-legal-custody-explained"
-    status: pending
+    status: published
   - title: "How to Legally Break a Lease Early Without Losing Money"
     keywords: "how to break a lease early, breaking a lease legally, early lease termination"
     slug: "how-to-break-lease-early-legally"
