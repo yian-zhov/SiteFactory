@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-22"
+last_generated: "2026-09-23"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -36,7 +36,7 @@ topics:
   - title: "交通事故责任认定后赔偿流程怎么走？"
     keywords: "交通事故赔偿流程, 交通事故责任认定, 车祸赔偿标准"
     slug: "traffic-accident-compensation-process"
-    status: pending
+    status: published
   - title: "欠钱不还怎么起诉？民间借贷立案全流程"
     keywords: "欠钱不还怎么起诉, 民间借贷起诉流程, 债务纠纷立案"
     slug: "how-to-sue-for-unpaid-debt"
