@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-23"
+last_generated: "2026-09-24"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -28,7 +28,7 @@ topics:
   - title: "指数基金定投怎么选：沪深300、中证500、纳斯达克对比"
     keywords: "指数基金怎么选, 沪深300定投, 中证500对比, 纳斯达克指数基金"
     slug: "how-to-choose-index-funds-comparison"
-    status: pending
+    status: published
   - title: "基金定投止盈策略：目标收益率法、估值法、回撤法怎么用"
     keywords: "基金定投止盈, 止盈策略, 目标收益率止盈, 估值止盈法"
     slug: "fund-investment-profit-taking-strategies"
