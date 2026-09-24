@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-23"
+last_generated: "2026-09-24"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -60,7 +60,7 @@ topics:
   - title: "How to Legally Break a Lease Early Without Losing Money"
     keywords: "how to break a lease early, breaking a lease legally, early lease termination"
     slug: "how-to-break-lease-early-legally"
-    status: pending
+    status: published
   - title: "Power of Attorney: Types, Uses, and How to Set One Up"
     keywords: "power of attorney explained, types of power of attorney, how to get power of attorney"
     slug: "power-of-attorney-types-and-setup"
