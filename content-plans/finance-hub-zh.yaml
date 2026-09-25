@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-24"
+last_generated: "2026-09-25"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -32,7 +32,7 @@ topics:
   - title: "基金定投止盈策略：目标收益率法、估值法、回撤法怎么用"
     keywords: "基金定投止盈, 止盈策略, 目标收益率止盈, 估值止盈法"
     slug: "fund-investment-profit-taking-strategies"
-    status: pending
+    status: published
   - title: "个人资产配置入门：4321法则和标准普尔象限图怎么用"
     keywords: "个人资产配置, 4321法则, 标准普尔家庭资产象限图, 资产配置方案"
     slug: "personal-asset-allocation-4321-rule"
