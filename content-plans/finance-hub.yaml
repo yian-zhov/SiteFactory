@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-24"
+last_generated: "2026-09-25"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -80,7 +80,7 @@ topics:
   - title: "How to Save Money for a House Down Payment"
     keywords: "house down payment, saving for a home, down payment tips"
     slug: "save-money-for-house-down-payment"
-    status: pending
+    status: published
   - title: "Frugal Living Tips That Actually Save You Money"
     keywords: "frugal living tips, frugal lifestyle, save money living frugally"
     slug: "frugal-living-tips-save-money"
