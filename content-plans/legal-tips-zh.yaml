@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-25"
+last_generated: "2026-09-26"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -48,7 +48,7 @@ topics:
   - title: "遗嘱怎么写才有效？自书遗嘱格式与常见无效情形"
     keywords: "遗嘱怎么写, 自书遗嘱格式, 遗嘱无效情形"
     slug: "how-to-write-valid-will"
-    status: pending
+    status: published
   - title: "诉讼时效是几年？超过时效欠款还能要回来吗"
     keywords: "诉讼时效几年, 诉讼时效过期, 欠款诉讼时效"
     slug: "statute-of-limitations-debt"
@@ -56,7 +56,7 @@ topics:
   - title: "工伤认定标准与赔偿计算：2025最新流程"
     keywords: "工伤认定标准, 工伤赔偿计算, 工伤认定流程"
     slug: "work-injury-recognition-compensation"
-    status: pending
+    status: published
   - title: "消费者买到假货怎么索赔？退一赔三实操指南"
     keywords: "买到假货怎么赔偿, 退一赔三, 消费者维权索赔"
     slug: "fake-goods-refund-triple-compensation"
