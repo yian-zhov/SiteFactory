@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-25"
+last_generated: "2026-09-26"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -36,7 +36,7 @@ topics:
   - title: "个人资产配置入门：4321法则和标准普尔象限图怎么用"
     keywords: "个人资产配置, 4321法则, 标准普尔家庭资产象限图, 资产配置方案"
     slug: "personal-asset-allocation-4321-rule"
-    status: pending
+    status: published
   - title: "应急资金应该存多少：3-6个月生活费怎么算和放哪里"
     keywords: "应急资金, 应急基金存多少, 应急资金放哪里, 家庭备用金"
     slug: "how-much-emergency-fund-needed"
