@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-25"
+last_generated: "2026-09-26"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -68,7 +68,7 @@ topics:
   - title: "Can You Sue for Emotional Distress? What You Need to Prove"
     keywords: "suing for emotional distress, emotional distress claim, emotional distress lawsuit"
     slug: "can-you-sue-for-emotional-distress"
-    status: pending
+    status: published
   - title: "Non-Disclosure Agreement (NDA): When You Actually Need One"
     keywords: "what is an nda, do i need an nda, non-disclosure agreement basics"
     slug: "when-do-you-need-nda"
