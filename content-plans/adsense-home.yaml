@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-26"
+last_generated: "2026-09-27"
 target_keywords:
   - academic research
   - advanced search operators
@@ -24,7 +24,7 @@ topics:
   - title: "How to Search Google Like a Pro: 15 Hidden Tricks Most People Miss"
     keywords: "google search tricks, search like a pro, hidden google features"
     slug: "google-search-tricks-pro-users-miss"
-    status: pending
+    status: published
   - title: "How to Find Old Web Pages with the Wayback Machine"
     keywords: "wayback machine, find old web pages, internet archive search"
     slug: "find-old-web-pages-wayback-machine"
