@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-27"
+last_generated: "2026-09-28"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -60,7 +60,7 @@ topics:
   - title: "消费者买到假货怎么索赔？退一赔三实操指南"
     keywords: "买到假货怎么赔偿, 退一赔三, 消费者维权索赔"
     slug: "fake-goods-refund-triple-compensation"
-    status: pending
+    status: published
   - title: "婚前买房婚后加名，离婚时房产怎么分？"
     keywords: "婚前买房婚后加名, 离婚房产分割, 婚前财产婚后加名"
     slug: "premarital-property-divorce-division"
