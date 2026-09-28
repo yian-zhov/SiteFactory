@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-27"
+last_generated: "2026-09-28"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -76,7 +76,7 @@ topics:
   - title: "How to Handle a Bad Contractor: Legal Options and Steps"
     keywords: "bad contractor legal options, contractor didn't finish work, sue contractor"
     slug: "legal-options-against-bad-contractor"
-    status: pending
+    status: published
   - title: "Traffic Ticket Defense: When to Fight and When to Pay"
     keywords: "how to fight a traffic ticket, contesting traffic ticket, traffic ticket defense"
     slug: "fight-or-pay-traffic-ticket"
