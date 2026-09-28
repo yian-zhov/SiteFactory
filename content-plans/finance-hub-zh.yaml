@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-27"
+last_generated: "2026-09-28"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -44,7 +44,7 @@ topics:
   - title: "信用卡免息期怎么算：最长50天免息和还款日避坑指南"
     keywords: "信用卡免息期, 信用卡还款日, 信用卡免息期怎么算, 信用卡避坑"
     slug: "credit-card-interest-free-period-guide"
-    status: pending
+    status: published
   - title: "可转债打新怎么操作：中签率、缴款和上市卖出策略"
     keywords: "可转债打新, 可转债申购, 可转债中签, 可转债上市卖出"
     slug: "convertible-bond-ipo-subscription-guide"
