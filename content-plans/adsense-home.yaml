@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-27"
+last_generated: "2026-09-28"
 target_keywords:
   - academic research
   - advanced search operators
@@ -28,7 +28,7 @@ topics:
   - title: "How to Find Old Web Pages with the Wayback Machine"
     keywords: "wayback machine, find old web pages, internet archive search"
     slug: "find-old-web-pages-wayback-machine"
-    status: pending
+    status: published
   - title: "How to Fact-Check Anything Online in 5 Simple Steps"
     keywords: "fact check online, verify information, how to fact check"
     slug: "how-to-fact-check-online-5-steps"
@@ -36,7 +36,7 @@ topics:
   - title: "How to Spot Fake News and Misinformation Online"
     keywords: "spot fake news, identify misinformation, fake news detection"
     slug: "spot-fake-news-misinformation-online"
-    status: pending
+    status: published
   - title: "How to Use Reverse Image Search to Find Any Picture's Source"
     keywords: "reverse image search, find image source, image search tools"
     slug: "reverse-image-search-find-image-source"
