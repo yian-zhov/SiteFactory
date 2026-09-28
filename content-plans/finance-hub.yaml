@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-27"
+last_generated: "2026-09-28"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -92,7 +92,7 @@ topics:
   - title: "Side Hustle Ideas to Earn Extra Income in 2025"
     keywords: "side hustle ideas, extra income, best side jobs"
     slug: "side-hustle-ideas-extra-income"
-    status: pending
+    status: published
   - title: "How to File Taxes for Beginners: A Complete Guide"
     keywords: "how to file taxes, tax filing beginners, tax guide"
     slug: "how-to-file-taxes-for-beginners"
