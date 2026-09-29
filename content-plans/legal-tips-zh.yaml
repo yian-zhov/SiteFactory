@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-28"
+last_generated: "2026-09-29"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -64,7 +64,7 @@ topics:
   - title: "婚前买房婚后加名，离婚时房产怎么分？"
     keywords: "婚前买房婚后加名, 离婚房产分割, 婚前财产婚后加名"
     slug: "premarital-property-divorce-division"
-    status: pending
+    status: published
   - title: "公司不交社保可以被迫离职要补偿吗？"
     keywords: "公司不交社保, 被迫离职补偿, 未缴社保劳动仲裁"
     slug: "forced-resignation-no-social-insurance"
