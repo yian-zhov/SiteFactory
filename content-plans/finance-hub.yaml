@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-28"
+last_generated: "2026-09-29"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -96,7 +96,7 @@ topics:
   - title: "How to File Taxes for Beginners: A Complete Guide"
     keywords: "how to file taxes, tax filing beginners, tax guide"
     slug: "how-to-file-taxes-for-beginners"
-    status: pending
+    status: published
   - title: "Tax Deductions vs Tax Credits: What's the Difference?"
     keywords: "tax deductions vs credits, tax deductions explained, tax credits guide"
     slug: "tax-deductions-vs-tax-credits"
