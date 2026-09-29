@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-28"
+last_generated: "2026-09-29"
 target_keywords:
   - academic research
   - advanced search operators
@@ -32,7 +32,7 @@ topics:
   - title: "How to Fact-Check Anything Online in 5 Simple Steps"
     keywords: "fact check online, verify information, how to fact check"
     slug: "how-to-fact-check-online-5-steps"
-    status: pending
+    status: published
   - title: "How to Spot Fake News and Misinformation Online"
     keywords: "spot fake news, identify misinformation, fake news detection"
     slug: "spot-fake-news-misinformation-online"
