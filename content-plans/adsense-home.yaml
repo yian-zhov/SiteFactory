@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-09-29"
+last_generated: "2026-09-30"
 target_keywords:
   - academic research
   - advanced search operators
@@ -40,7 +40,7 @@ topics:
   - title: "How to Use Reverse Image Search to Find Any Picture's Source"
     keywords: "reverse image search, find image source, image search tools"
     slug: "reverse-image-search-find-image-source"
-    status: pending
+    status: published
   - title: "How to Use Google Scholar for Academic Research"
     keywords: "google scholar, academic research, scholarly articles search"
     slug: "google-scholar-academic-research-guide"
