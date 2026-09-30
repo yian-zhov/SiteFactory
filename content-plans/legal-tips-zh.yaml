@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-09-29"
+last_generated: "2026-09-30"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -68,7 +68,7 @@ topics:
   - title: "公司不交社保可以被迫离职要补偿吗？"
     keywords: "公司不交社保, 被迫离职补偿, 未缴社保劳动仲裁"
     slug: "forced-resignation-no-social-insurance"
-    status: pending
+    status: published
   - title: "交通事故私了协议有法律效力吗？签了还能反悔吗"
     keywords: "交通事故私了, 私了协议效力, 交通事故和解反悔"
     slug: "traffic-accident-private-settlement"
