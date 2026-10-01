@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-09-30"
+last_generated: "2026-10-01"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -60,7 +60,7 @@ topics:
   - title: "年金险和增额终身寿险怎么选：收益、灵活性、适用人群对比"
     keywords: "年金险, 增额终身寿险, 年金险和增额终身寿区别, 储蓄险怎么选"
     slug: "annuity-vs-increasing-whole-life-insurance"
-    status: pending
+    status: published
   - title: "重疾险怎么买最划算：保额、保障期限、缴费年限选择"
     keywords: "重疾险怎么买, 重疾险保额, 重疾险缴费年限, 重疾险选购"
     slug: "how-to-buy-critical-illness-insurance"
