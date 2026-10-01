@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-09-30"
+last_generated: "2026-10-01"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -88,7 +88,7 @@ topics:
   - title: "How to Dispute an Incorrect Item on Your Credit Report"
     keywords: "dispute credit report error, fix credit report mistakes, credit report dispute process"
     slug: "how-to-dispute-credit-report-error"
-    status: pending
+    status: published
   - title: "Dog Bite Laws: Who Is Liable for Your Injuries?"
     keywords: "dog bite liability, who pays for dog bite, dog bite laws"
     slug: "dog-bite-liability-laws"
