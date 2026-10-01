@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-09-30"
+last_generated: "2026-10-01"
 target_keywords:
   - 50/30/20 budget rule
   - avoid money scams
@@ -104,7 +104,7 @@ topics:
   - title: "Life Insurance Explained: Term vs Whole Life"
     keywords: "term vs whole life insurance, life insurance types, life insurance guide"
     slug: "term-vs-whole-life-insurance"
-    status: pending
+    status: published
   - title: "Should You Rent or Buy a Home? Key Factors to Consider"
     keywords: "rent vs buy home, renting vs buying, first time home buyer"
     slug: "rent-vs-buy-a-home"
