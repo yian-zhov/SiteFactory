@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-01"
+last_generated: "2026-10-02"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -76,7 +76,7 @@ topics:
   - title: "借钱不还怎么申请强制执行？执行流程详解"
     keywords: "申请强制执行流程, 强制执行申请书, 老赖不还钱怎么办"
     slug: "how-to-apply-compulsory-execution"
-    status: pending
+    status: published
   - title: "试用期被辞退有补偿吗？试用期法律权益全解读"
     keywords: "试用期被辞退, 试用期补偿, 试用期法律规定"
     slug: "probation-period-dismissal-rights"
