@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-01"
+last_generated: "2026-10-02"
 target_keywords:
   - academic research
   - advanced search operators
@@ -48,7 +48,7 @@ topics:
   - title: "How to Ask the Right Questions to Get Better Search Results"
     keywords: "better search queries, search strategy, effective google searches"
     slug: "ask-right-questions-better-search-results"
-    status: pending
+    status: published
   - title: "How to Search Reddit Effectively for Real User Experiences"
     keywords: "reddit search tips, search reddit, reddit google search"
     slug: "how-to-search-reddit-effectively"
