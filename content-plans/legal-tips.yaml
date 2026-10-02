@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-01"
+last_generated: "2026-10-02"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -92,7 +92,7 @@ topics:
   - title: "Dog Bite Laws: Who Is Liable for Your Injuries?"
     keywords: "dog bite liability, who pays for dog bite, dog bite laws"
     slug: "dog-bite-liability-laws"
-    status: pending
+    status: published
   - title: "How to Get a Restraining Order: Eligibility and Process"
     keywords: "how to get restraining order, restraining order process, order of protection"
     slug: "how-to-get-restraining-order"
