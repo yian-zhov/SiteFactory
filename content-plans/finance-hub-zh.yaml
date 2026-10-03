@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-02"
+last_generated: "2026-10-03"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -68,7 +68,7 @@ topics:
   - title: "百万医疗险和重疾险区别：能不能只买一个"
     keywords: "百万医疗险, 重疾险区别, 百万医疗险和重疾险, 医疗险怎么选"
     slug: "million-medical-vs-critical-illness-insurance"
-    status: pending
+    status: published
   - title: "个人所得税专项附加扣除怎么申报：住房租金、房贷、赡养老人"
     keywords: "个税专项附加扣除, 个税申报, 住房租金扣除, 赡养老人扣除"
     slug: "individual-income-tax-special-deductions"
