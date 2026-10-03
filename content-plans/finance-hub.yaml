@@ -4,116 +4,116 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-02"
+last_generated: "2026-10-03"
 target_keywords:
   - 50/30/20 budget rule
-  - avoid money scams
-  - beginner investing
-  - best side jobs
-  - budgeting for beginners
+  - best side hustles
   - budgeting methods
-  - budgeting savings categories
-  - build emergency fund
-  - compound interest examples
+  - build emergency savings
+  - build wealth middle class
+  - capital gains tax explained
+  - card comparison
   - compound interest explained
+  - compound interest investing
+  - credit card debt payoff
 topics:
   - title: "How to Build an Emergency Fund on a Low Income"
-    keywords: "emergency fund low income, build emergency fund, emergency savings tips"
+    keywords: "emergency fund low income, build emergency savings, emergency fund guide"
     slug: "build-emergency-fund-low-income"
     status: published
-  - title: "50/30/20 Budget Rule Explained with Examples"
+  - title: "50/30/20 Budget Rule Explained With Real Examples"
     keywords: "50/30/20 budget rule, budgeting methods, how to budget income"
     slug: "50-30-20-budget-rule-explained"
-    status: published
+    status: pending
   - title: "How to Pay Off Credit Card Debt Fast: 7 Proven Methods"
-    keywords: "pay off credit card debt, credit card debt strategies, debt payoff methods"
+    keywords: "pay off credit card debt, credit card debt payoff, debt snowball vs avalanche"
     slug: "pay-off-credit-card-debt-fast"
     status: published
-  - title: "Debt Snowball vs Debt Avalanche: Which Is Better?"
-    keywords: "debt snowball vs avalanche, debt payoff methods, fastest way to pay debt"
-    slug: "debt-snowball-vs-debt-avalanche"
+  - title: "Index Funds vs ETFs: Which Should Beginners Choose?"
+    keywords: "index funds vs etfs, index fund investing, etf investing for beginners"
+    slug: "index-funds-vs-etfs-beginners"
+    status: pending
+  - title: "How to Start Investing With Only $100"
+    keywords: "how to start investing with 100 dollars, small amount investing, micro investing apps"
+    slug: "start-investing-with-100-dollars"
+    status: published
+  - title: "Roth IRA vs Traditional IRA: Tax Differences Explained"
+    keywords: "roth ira vs traditional ira, ira tax differences, retirement account comparison"
+    slug: "roth-ira-vs-traditional-ira"
+    status: pending
+  - title: "What Is Compound Interest and Why It Matters"
+    keywords: "compound interest explained, how compound interest works, compound interest investing"
+    slug: "compound-interest-explained"
     status: published
   - title: "How to Improve Your Credit Score in 90 Days"
-    keywords: "improve credit score fast, credit score tips, raise credit score"
+    keywords: "improve credit score fast, raise credit score, credit score tips"
     slug: "improve-credit-score-in-90-days"
-    status: published
-  - title: "Index Funds vs ETFs: Key Differences for Beginners"
-    keywords: "index funds vs etfs, etf investing, index fund investing"
-    slug: "index-funds-vs-etfs-beginners"
-    status: published
-  - title: "How to Start Investing with $100"
-    keywords: "start investing with 100 dollars, small amount investing, beginner investing"
-    slug: "how-to-start-investing-with-100"
-    status: published
-  - title: "Dollar-Cost Averaging: How It Works and When to Use It"
-    keywords: "dollar cost averaging, dca investing, investing strategy"
-    slug: "dollar-cost-averaging-explained"
-    status: published
-  - title: "Roth IRA vs Traditional IRA: Which Should You Choose?"
-    keywords: "roth ira vs traditional ira, ira comparison, retirement account"
-    slug: "roth-ira-vs-traditional-ira"
-    status: published
-  - title: "How Much Should You Save for Retirement by Age"
-    keywords: "retirement savings by age, how much to save retirement, retirement planning"
-    slug: "retirement-savings-by-age"
-    status: published
-  - title: "Dividend Investing for Beginners: A Complete Guide"
-    keywords: "dividend investing, dividend stocks beginners, passive income investing"
-    slug: "dividend-investing-for-beginners"
-    status: published
-  - title: "How Compound Interest Works and Why It Matters"
-    keywords: "compound interest explained, compound interest examples, investing growth"
-    slug: "how-compound-interest-works"
-    status: published
-  - title: "10 Simple Ways to Save Money on Groceries"
-    keywords: "save money on groceries, grocery budget tips, reduce grocery bill"
-    slug: "ways-to-save-money-on-groceries"
-    status: published
-  - title: "How to Create a Monthly Budget That Works"
-    keywords: "how to create a budget, monthly budget guide, budgeting for beginners"
-    slug: "create-monthly-budget-that-works"
-    status: published
-  - title: "Sinking Funds Explained: What They Are and How to Use Them"
-    keywords: "sinking funds explained, sinking fund examples, budgeting savings categories"
-    slug: "sinking-funds-explained"
-    status: published
-  - title: "How to Save Money for a House Down Payment"
-    keywords: "house down payment, saving for a home, down payment tips"
-    slug: "save-money-for-house-down-payment"
-    status: published
-  - title: "Frugal Living Tips That Actually Save You Money"
-    keywords: "frugal living tips, frugal lifestyle, save money living frugally"
-    slug: "frugal-living-tips-save-money"
-    status: published
-  - title: "How to Negotiate a Higher Salary: Step-by-Step Guide"
-    keywords: "negotiate salary, salary negotiation tips, get a raise"
-    slug: "how-to-negotiate-higher-salary"
-    status: published
-  - title: "Side Hustle Ideas to Earn Extra Income in 2025"
-    keywords: "side hustle ideas, extra income, best side jobs"
-    slug: "side-hustle-ideas-extra-income"
-    status: published
-  - title: "How to File Taxes for Beginners: A Complete Guide"
-    keywords: "how to file taxes, tax filing beginners, tax guide"
-    slug: "how-to-file-taxes-for-beginners"
-    status: published
-  - title: "Tax Deductions vs Tax Credits: What's the Difference?"
-    keywords: "tax deductions vs credits, tax deductions explained, tax credits guide"
-    slug: "tax-deductions-vs-tax-credits"
-    status: published
-  - title: "Life Insurance Explained: Term vs Whole Life"
-    keywords: "term vs whole life insurance, life insurance types, life insurance guide"
-    slug: "term-vs-whole-life-insurance"
-    status: published
-  - title: "Should You Rent or Buy a Home? Key Factors to Consider"
-    keywords: "rent vs buy home, renting vs buying, first time home buyer"
-    slug: "rent-vs-buy-a-home"
-    status: published
-  - title: "How to Protect Yourself from Financial Scams"
-    keywords: "financial scams, avoid money scams, financial fraud protection"
-    slug: "protect-yourself-from-financial-scams"
     status: pending
-  - title: "Passive Income Ideas That Actually Work"
-    keywords: "passive income ideas, passive income streams, make money passively"
-    slug: "passive-income-ideas-that-work"
+  - title: "Beginner's Guide to Understanding Your Credit Report"
+    keywords: "how to read credit report, credit report explained, credit report basics"
+    slug: "understand-your-credit-report"
+    status: pending
+  - title: "How Much Should You Save for Retirement by Age"
+    keywords: "retirement savings by age, how much to save for retirement, retirement savings benchmarks"
+    slug: "retirement-savings-by-age"
+    status: pending
+  - title: "Dividend Investing for Beginners: Complete Guide"
+    keywords: "dividend investing for beginners, dividend stocks guide, how to invest in dividends"
+    slug: "dividend-investing-for-beginners"
+    status: pending
+  - title: "How to Create a Monthly Budget That Actually Works"
+    keywords: "how to create a monthly budget, monthly budget guide, personal budgeting tips"
+    slug: "create-monthly-budget-that-works"
+    status: pending
+  - title: "Sinking Funds Explained: Save Without Stress"
+    keywords: "what is a sinking fund, sinking fund examples, sinking fund budgeting"
+    slug: "sinking-funds-explained"
+    status: pending
+  - title: "How to Save Money on Groceries Every Month"
+    keywords: "save money on groceries, grocery budget tips, reduce grocery spending"
+    slug: "save-money-on-groceries"
+    status: pending
+  - title: "Renting vs Buying a Home: Financial Pros and Cons"
+    keywords: "renting vs buying a home, rent vs buy comparison, home buying financial advice"
+    slug: "renting-vs-buying-home-financially"
+    status: pending
+  - title: "How to Calculate Your Net Worth and Track It"
+    keywords: "how to calculate net worth, net worth tracking, personal net worth guide"
+    slug: "calculate-and-track-net-worth"
+    status: pending
+  - title: "Side Hustle Ideas to Earn Extra Income in 2024"
+    keywords: "side hustle ideas, extra income ideas, best side hustles"
+    slug: "side-hustle-ideas-extra-income"
+    status: pending
+  - title: "How Taxes on Investment Gains Work for Beginners"
+    keywords: "capital gains tax explained, investment taxes for beginners, how investment taxes work"
+    slug: "investment-gains-taxes-explained"
+    status: pending
+  - title: "Should You Invest in a Target Date Fund?"
+    keywords: "target date fund pros and cons, target date funds explained, retirement fund options"
+    slug: "target-date-fund-pros-cons"
+    status: pending
+  - title: "Dollar-Cost Averaging: How It Works and When to Use It"
+    keywords: "dollar cost averaging, dca investing strategy, dollar cost averaging explained"
+    slug: "dollar-cost-averaging-explained"
+    status: pending
+  - title: "Best Ways to Build Wealth on an Average Salary"
+    keywords: "how to build wealth on average salary, wealth building strategies, build wealth middle class"
+    slug: "build-wealth-on-average-salary"
+    status: pending
+  - title: "How to Set Financial Goals You Will Actually Achieve"
+    keywords: "how to set financial goals, smart financial goals, personal finance goal setting"
+    slug: "set-financial-goals-you-achieve"
+    status: pending
+  - title: "Debit vs Credit: Which Card Should You Use Daily?"
+    keywords: "debit vs credit card, debit or credit daily spending, card comparison"
+    slug: "debit-vs-credit-card-daily-use"
+    status: pending
+  - title: "Understanding Expense Ratios in Mutual Funds and ETFs"
+    keywords: "expense ratio explained, mutual fund fees, etf expense ratios"
+    slug: "expense-ratios-mutual-funds-etfs"
+    status: pending
+  - title: "Beginner's Guide to Filing Taxes for the First Time"
+    keywords: "first time filing taxes, how to file taxes for beginners, tax filing guide"
+    slug: "first-time-tax-filing-guide"
     status: pending
