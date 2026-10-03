@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-02"
+last_generated: "2026-10-03"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -80,7 +80,7 @@ topics:
   - title: "试用期被辞退有补偿吗？试用期法律权益全解读"
     keywords: "试用期被辞退, 试用期补偿, 试用期法律规定"
     slug: "probation-period-dismissal-rights"
-    status: pending
+    status: published
   - title: "定金和订金有什么区别？一字之差钱能退吗"
     keywords: "定金和订金的区别, 定金能退吗, 订金退还"
     slug: "deposit-vs-earnest-money-difference"
