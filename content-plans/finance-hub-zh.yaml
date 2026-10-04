@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-03"
+last_generated: "2026-10-04"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -72,7 +72,7 @@ topics:
   - title: "个人所得税专项附加扣除怎么申报：住房租金、房贷、赡养老人"
     keywords: "个税专项附加扣除, 个税申报, 住房租金扣除, 赡养老人扣除"
     slug: "individual-income-tax-special-deductions"
-    status: pending
+    status: published
   - title: "年终奖怎么计税更划算：单独计税和并入综合所得对比"
     keywords: "年终奖计税, 年终奖单独计税, 年终奖并入综合所得, 年终奖个税"
     slug: "year-end-bonus-tax-calculation-guide"
