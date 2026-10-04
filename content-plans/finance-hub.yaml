@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-03"
+last_generated: "2026-10-04"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -24,7 +24,7 @@ topics:
   - title: "50/30/20 Budget Rule Explained With Real Examples"
     keywords: "50/30/20 budget rule, budgeting methods, how to budget income"
     slug: "50-30-20-budget-rule-explained"
-    status: pending
+    status: published
   - title: "How to Pay Off Credit Card Debt Fast: 7 Proven Methods"
     keywords: "pay off credit card debt, credit card debt payoff, debt snowball vs avalanche"
     slug: "pay-off-credit-card-debt-fast"
@@ -40,7 +40,7 @@ topics:
   - title: "Roth IRA vs Traditional IRA: Tax Differences Explained"
     keywords: "roth ira vs traditional ira, ira tax differences, retirement account comparison"
     slug: "roth-ira-vs-traditional-ira"
-    status: pending
+    status: published
   - title: "What Is Compound Interest and Why It Matters"
     keywords: "compound interest explained, how compound interest works, compound interest investing"
     slug: "compound-interest-explained"
@@ -52,7 +52,7 @@ topics:
   - title: "Beginner's Guide to Understanding Your Credit Report"
     keywords: "how to read credit report, credit report explained, credit report basics"
     slug: "understand-your-credit-report"
-    status: pending
+    status: published
   - title: "How Much Should You Save for Retirement by Age"
     keywords: "retirement savings by age, how much to save for retirement, retirement savings benchmarks"
     slug: "retirement-savings-by-age"
