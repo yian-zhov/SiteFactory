@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-03"
+last_generated: "2026-10-04"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -100,7 +100,7 @@ topics:
   - title: "Freelancer Contracts 101: Key Clauses Every Gig Worker Needs"
     keywords: "freelancer contract clauses, freelance contract basics, independent contractor agreement"
     slug: "freelancer-contract-key-clauses"
-    status: pending
+    status: published
   - title: "Slip and Fall Claims: How to Prove the Property Owner Was Negligent"
     keywords: "slip and fall claim, premises liability, prove slip and fall negligence"
     slug: "proving-slip-and-fall-negligence"
