@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-04"
+last_generated: "2026-10-05"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -32,7 +32,7 @@ topics:
   - title: "Index Funds vs ETFs: Which Should Beginners Choose?"
     keywords: "index funds vs etfs, index fund investing, etf investing for beginners"
     slug: "index-funds-vs-etfs-beginners"
-    status: pending
+    status: published
   - title: "How to Start Investing With Only $100"
     keywords: "how to start investing with 100 dollars, small amount investing, micro investing apps"
     slug: "start-investing-with-100-dollars"
@@ -56,7 +56,7 @@ topics:
   - title: "How Much Should You Save for Retirement by Age"
     keywords: "retirement savings by age, how much to save for retirement, retirement savings benchmarks"
     slug: "retirement-savings-by-age"
-    status: pending
+    status: published
   - title: "Dividend Investing for Beginners: Complete Guide"
     keywords: "dividend investing for beginners, dividend stocks guide, how to invest in dividends"
     slug: "dividend-investing-for-beginners"
@@ -64,7 +64,7 @@ topics:
   - title: "How to Create a Monthly Budget That Actually Works"
     keywords: "how to create a monthly budget, monthly budget guide, personal budgeting tips"
     slug: "create-monthly-budget-that-works"
-    status: pending
+    status: published
   - title: "Sinking Funds Explained: Save Without Stress"
     keywords: "what is a sinking fund, sinking fund examples, sinking fund budgeting"
     slug: "sinking-funds-explained"
@@ -72,7 +72,7 @@ topics:
   - title: "How to Save Money on Groceries Every Month"
     keywords: "save money on groceries, grocery budget tips, reduce grocery spending"
     slug: "save-money-on-groceries"
-    status: pending
+    status: published
   - title: "Renting vs Buying a Home: Financial Pros and Cons"
     keywords: "renting vs buying a home, rent vs buy comparison, home buying financial advice"
     slug: "renting-vs-buying-home-financially"
