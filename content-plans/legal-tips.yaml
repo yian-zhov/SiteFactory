@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-04"
+last_generated: "2026-10-05"
 target_keywords:
   - alimony vs spousal support
   - at-will employment meaning
@@ -108,7 +108,7 @@ topics:
   - title: "What to Do If Police Ask to Search Your Home or Car"
     keywords: "police search rights, can police search my car, refusing police search"
     slug: "police-search-rights-home-car"
-    status: pending
+    status: published
   - title: "Understanding Alimony: How Spousal Support Is Calculated"
     keywords: "how is alimony calculated, spousal support rules, alimony vs spousal support"
     slug: "how-alimony-spousal-support-works"
