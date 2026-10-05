@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-04"
+last_generated: "2026-10-05"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -76,7 +76,7 @@ topics:
   - title: "年终奖怎么计税更划算：单独计税和并入综合所得对比"
     keywords: "年终奖计税, 年终奖单独计税, 年终奖并入综合所得, 年终奖个税"
     slug: "year-end-bonus-tax-calculation-guide"
-    status: pending
+    status: published
   - title: "养老金个人账户怎么查：缴费年限、余额和退休金测算"
     keywords: "养老金查询, 个人账户养老金, 社保缴费年限, 退休金测算"
     slug: "how-to-check-pension-account-guide"
