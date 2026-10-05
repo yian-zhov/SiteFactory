@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-04"
+last_generated: "2026-10-05"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -88,7 +88,7 @@ topics:
   - title: "信用卡逾期被起诉怎么办？应对流程与协商技巧"
     keywords: "信用卡逾期被起诉, 信用卡逾期协商, 逾期还款法律后果"
     slug: "credit-card-overdue-lawsuit-response"
-    status: pending
+    status: published
   - title: "抚养费标准是多少？2025离婚子女抚养费计算"
     keywords: "抚养费标准, 子女抚养费计算, 离婚抚养费怎么算"
     slug: "child-support-fee-standard"
