@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-05"
+last_generated: "2026-10-06"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -48,7 +48,7 @@ topics:
   - title: "How to Improve Your Credit Score in 90 Days"
     keywords: "improve credit score fast, raise credit score, credit score tips"
     slug: "improve-credit-score-in-90-days"
-    status: pending
+    status: published
   - title: "Beginner's Guide to Understanding Your Credit Report"
     keywords: "how to read credit report, credit report explained, credit report basics"
     slug: "understand-your-credit-report"
@@ -68,7 +68,7 @@ topics:
   - title: "Sinking Funds Explained: Save Without Stress"
     keywords: "what is a sinking fund, sinking fund examples, sinking fund budgeting"
     slug: "sinking-funds-explained"
-    status: pending
+    status: published
   - title: "How to Save Money on Groceries Every Month"
     keywords: "save money on groceries, grocery budget tips, reduce grocery spending"
     slug: "save-money-on-groceries"
@@ -80,7 +80,7 @@ topics:
   - title: "How to Calculate Your Net Worth and Track It"
     keywords: "how to calculate net worth, net worth tracking, personal net worth guide"
     slug: "calculate-and-track-net-worth"
-    status: pending
+    status: published
   - title: "Side Hustle Ideas to Earn Extra Income in 2024"
     keywords: "side hustle ideas, extra income ideas, best side hustles"
     slug: "side-hustle-ideas-extra-income"
