@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-05"
+last_generated: "2026-10-06"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -92,7 +92,7 @@ topics:
   - title: "抚养费标准是多少？2025离婚子女抚养费计算"
     keywords: "抚养费标准, 子女抚养费计算, 离婚抚养费怎么算"
     slug: "child-support-fee-standard"
-    status: pending
+    status: published
   - title: "网购七天无理由退货规则：哪些商品不适用"
     keywords: "七天无理由退货, 无理由退货规则, 网购退货法律规定"
     slug: "seven-day-no-reason-return-policy"
