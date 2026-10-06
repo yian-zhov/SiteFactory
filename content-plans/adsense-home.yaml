@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-05"
+last_generated: "2026-10-06"
 target_keywords:
   - academic research
   - advanced search operators
@@ -68,7 +68,7 @@ topics:
   - title: "How to Check if a Website Is Safe Before You Visit It"
     keywords: "check website safety, is website safe, website security check"
     slug: "check-website-safe-before-visiting"
-    status: pending
+    status: published
   - title: "How to Protect Yourself from Identity Theft Online"
     keywords: "identity theft protection, prevent identity theft, online identity safety"
     slug: "protect-yourself-from-identity-theft"
