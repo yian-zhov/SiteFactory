@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-06"
+last_generated: "2026-10-07"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -84,7 +84,7 @@ topics:
   - title: "股票开户流程详解：佣金、券商选择和开户注意事项"
     keywords: "股票开户, 股票开户流程, 券商佣金, 股票开户注意事项"
     slug: "stock-account-opening-process-guide"
-    status: pending
+    status: published
   - title: "ETF和场外基金区别：费率、交易方式、适合谁买"
     keywords: "ETF和场外基金区别, ETF怎么买, 场内基金, ETF费率"
     slug: "etf-vs-otc-fund-comparison"
