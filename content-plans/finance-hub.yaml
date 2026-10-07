@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-06"
+last_generated: "2026-10-07"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -60,7 +60,7 @@ topics:
   - title: "Dividend Investing for Beginners: Complete Guide"
     keywords: "dividend investing for beginners, dividend stocks guide, how to invest in dividends"
     slug: "dividend-investing-for-beginners"
-    status: pending
+    status: published
   - title: "How to Create a Monthly Budget That Actually Works"
     keywords: "how to create a monthly budget, monthly budget guide, personal budgeting tips"
     slug: "create-monthly-budget-that-works"
@@ -84,7 +84,7 @@ topics:
   - title: "Side Hustle Ideas to Earn Extra Income in 2024"
     keywords: "side hustle ideas, extra income ideas, best side hustles"
     slug: "side-hustle-ideas-extra-income"
-    status: pending
+    status: published
   - title: "How Taxes on Investment Gains Work for Beginners"
     keywords: "capital gains tax explained, investment taxes for beginners, how investment taxes work"
     slug: "investment-gains-taxes-explained"
@@ -92,7 +92,7 @@ topics:
   - title: "Should You Invest in a Target Date Fund?"
     keywords: "target date fund pros and cons, target date funds explained, retirement fund options"
     slug: "target-date-fund-pros-cons"
-    status: pending
+    status: published
   - title: "Dollar-Cost Averaging: How It Works and When to Use It"
     keywords: "dollar cost averaging, dca investing strategy, dollar cost averaging explained"
     slug: "dollar-cost-averaging-explained"
