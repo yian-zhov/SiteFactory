@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-06"
+last_generated: "2026-10-07"
 target_keywords:
   - academic research
   - advanced search operators
@@ -72,7 +72,7 @@ topics:
   - title: "How to Protect Yourself from Identity Theft Online"
     keywords: "identity theft protection, prevent identity theft, online identity safety"
     slug: "protect-yourself-from-identity-theft"
-    status: pending
+    status: published
   - title: "How to Recognize and Avoid Online Shopping Scams"
     keywords: "online shopping scams, avoid shopping fraud, fake online stores"
     slug: "recognize-avoid-online-shopping-scams"
