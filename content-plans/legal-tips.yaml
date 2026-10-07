@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-06"
+last_generated: "2026-10-07"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -24,7 +24,7 @@ topics:
   - title: "Small Claims Court: Step-by-Step Guide to Filing and Winning"
     keywords: "small claims court, how to file small claims, small claims process"
     slug: "small-claims-court-step-by-step-guide"
-    status: pending
+    status: published
   - title: "What to Do Immediately After a Car Accident: Legal Checklist"
     keywords: "what to do after car accident, car accident legal steps, car accident checklist"
     slug: "what-to-do-after-car-accident-legal-checklist"
@@ -36,7 +36,7 @@ topics:
   - title: "Security Deposit Not Returned? Here's How to Get It Back"
     keywords: "landlord won't return security deposit, security deposit laws, get security deposit back"
     slug: "get-security-deposit-back-from-landlord"
-    status: pending
+    status: published
   - title: "Fired From Your Job? Know Your Legal Rights"
     keywords: "wrongful termination, fired from job rights, illegal termination"
     slug: "fired-from-job-legal-rights"
@@ -44,7 +44,7 @@ topics:
   - title: "How to Create a Simple Will Without a Lawyer"
     keywords: "how to write a will, simple will template, DIY will"
     slug: "how-to-create-simple-will-without-lawyer"
-    status: pending
+    status: published
   - title: "Power of Attorney Explained: Types and When You Need One"
     keywords: "power of attorney, types of power of attorney, durable power of attorney"
     slug: "power-of-attorney-types-explained"
