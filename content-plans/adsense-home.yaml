@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-07"
+last_generated: "2026-10-08"
 target_keywords:
   - academic research
   - advanced search operators
@@ -76,7 +76,7 @@ topics:
   - title: "How to Recognize and Avoid Online Shopping Scams"
     keywords: "online shopping scams, avoid shopping fraud, fake online stores"
     slug: "recognize-avoid-online-shopping-scams"
-    status: pending
+    status: published
   - title: "How to Manage Email Overload and Reach Inbox Zero"
     keywords: "email overload, inbox zero, manage email efficiently"
     slug: "manage-email-overload-inbox-zero"
