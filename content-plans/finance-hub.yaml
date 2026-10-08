@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-07"
+last_generated: "2026-10-08"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -76,7 +76,7 @@ topics:
   - title: "Renting vs Buying a Home: Financial Pros and Cons"
     keywords: "renting vs buying a home, rent vs buy comparison, home buying financial advice"
     slug: "renting-vs-buying-home-financially"
-    status: pending
+    status: published
   - title: "How to Calculate Your Net Worth and Track It"
     keywords: "how to calculate net worth, net worth tracking, personal net worth guide"
     slug: "calculate-and-track-net-worth"
