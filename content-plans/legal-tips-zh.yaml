@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-07"
+last_generated: "2026-10-08"
 target_keywords:
   - N+1赔偿
   - 七天无理由退货
@@ -100,7 +100,7 @@ topics:
   - title: "房产证加名减名怎么办理？流程与法律后果"
     keywords: "房产证加名, 房产证减名, 房产证加名流程"
     slug: "property-certificate-name-change"
-    status: pending
+    status: published
   - title: "被人打了怎么索赔？轻伤赔偿标准与处理流程"
     keywords: "被打怎么索赔, 轻伤赔偿标准, 故意伤害赔偿"
     slug: "assault-compensation-claims"
