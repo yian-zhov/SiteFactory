@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-07"
+last_generated: "2026-10-08"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -32,7 +32,7 @@ topics:
   - title: "How to Read a Lease Agreement Before You Sign"
     keywords: "how to read a lease agreement, lease agreement clauses, tenant lease tips"
     slug: "how-to-read-lease-agreement-before-signing"
-    status: pending
+    status: published
   - title: "Security Deposit Not Returned? Here's How to Get It Back"
     keywords: "landlord won't return security deposit, security deposit laws, get security deposit back"
     slug: "get-security-deposit-back-from-landlord"
