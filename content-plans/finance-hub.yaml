@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-08"
+last_generated: "2026-10-09"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -88,7 +88,7 @@ topics:
   - title: "How Taxes on Investment Gains Work for Beginners"
     keywords: "capital gains tax explained, investment taxes for beginners, how investment taxes work"
     slug: "investment-gains-taxes-explained"
-    status: pending
+    status: published
   - title: "Should You Invest in a Target Date Fund?"
     keywords: "target date fund pros and cons, target date funds explained, retirement fund options"
     slug: "target-date-fund-pros-cons"
