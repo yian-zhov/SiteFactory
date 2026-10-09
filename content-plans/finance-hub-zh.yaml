@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-08"
+last_generated: "2026-10-09"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -92,7 +92,7 @@ topics:
   - title: "港股通怎么开通和交易：门槛、交易规则、汇率风险"
     keywords: "港股通, 港股通开通条件, 港股通交易规则, 港股通汇率"
     slug: "hong-kong-stock-connect-guide"
-    status: pending
+    status: published
   - title: "美股怎么买：开户渠道、交易时间、汇率和税费详解"
     keywords: "美股怎么买, 美股开户, 美股交易时间, 美股税费"
     slug: "how-to-buy-us-stocks-guide"
