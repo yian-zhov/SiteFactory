@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-08"
+last_generated: "2026-10-09"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -40,7 +40,7 @@ topics:
   - title: "Fired From Your Job? Know Your Legal Rights"
     keywords: "wrongful termination, fired from job rights, illegal termination"
     slug: "fired-from-job-legal-rights"
-    status: pending
+    status: published
   - title: "How to Create a Simple Will Without a Lawyer"
     keywords: "how to write a will, simple will template, DIY will"
     slug: "how-to-create-simple-will-without-lawyer"
