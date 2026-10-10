@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-09"
+last_generated: "2026-10-10"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -96,7 +96,7 @@ topics:
   - title: "Dollar-Cost Averaging: How It Works and When to Use It"
     keywords: "dollar cost averaging, dca investing strategy, dollar cost averaging explained"
     slug: "dollar-cost-averaging-explained"
-    status: pending
+    status: published
   - title: "Best Ways to Build Wealth on an Average Salary"
     keywords: "how to build wealth on average salary, wealth building strategies, build wealth middle class"
     slug: "build-wealth-on-average-salary"
@@ -104,7 +104,7 @@ topics:
   - title: "How to Set Financial Goals You Will Actually Achieve"
     keywords: "how to set financial goals, smart financial goals, personal finance goal setting"
     slug: "set-financial-goals-you-achieve"
-    status: pending
+    status: published
   - title: "Debit vs Credit: Which Card Should You Use Daily?"
     keywords: "debit vs credit card, debit or credit daily spending, card comparison"
     slug: "debit-vs-credit-card-daily-use"
