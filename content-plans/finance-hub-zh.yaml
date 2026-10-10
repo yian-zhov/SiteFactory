@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-09"
+last_generated: "2026-10-10"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -96,7 +96,7 @@ topics:
   - title: "美股怎么买：开户渠道、交易时间、汇率和税费详解"
     keywords: "美股怎么买, 美股开户, 美股交易时间, 美股税费"
     slug: "how-to-buy-us-stocks-guide"
-    status: pending
+    status: published
   - title: "基金亏损了要不要赎回：补仓、止损、持有判断标准"
     keywords: "基金亏损怎么办, 基金要不要赎回, 基金补仓, 基金止损"
     slug: "fund-loss-redeem-or-hold-strategy"
