@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-09"
+last_generated: "2026-10-10"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -48,7 +48,7 @@ topics:
   - title: "Power of Attorney Explained: Types and When You Need One"
     keywords: "power of attorney, types of power of attorney, durable power of attorney"
     slug: "power-of-attorney-types-explained"
-    status: pending
+    status: published
   - title: "What Happens If You Die Without a Will? Intestate Basics"
     keywords: "die without a will, intestate succession, intestate estate"
     slug: "what-happens-if-you-die-without-will"
