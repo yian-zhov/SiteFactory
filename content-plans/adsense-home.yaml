@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-09"
+last_generated: "2026-10-10"
 target_keywords:
   - academic research
   - advanced search operators
@@ -84,7 +84,7 @@ topics:
   - title: "The Best Browser Extensions for Productivity in 2024"
     keywords: "browser extensions productivity, best chrome extensions, work faster"
     slug: "best-browser-extensions-productivity"
-    status: pending
+    status: published
   - title: "How to Use Keyboard Shortcuts to Work Twice as Fast"
     keywords: "keyboard shortcuts, productivity shortcuts, work faster computer"
     slug: "keyboard-shortcuts-work-twice-as-fast"
