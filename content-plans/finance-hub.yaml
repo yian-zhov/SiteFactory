@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-10"
+last_generated: "2026-10-11"
 target_keywords:
   - 50/30/20 budget rule
   - best side hustles
@@ -100,7 +100,7 @@ topics:
   - title: "Best Ways to Build Wealth on an Average Salary"
     keywords: "how to build wealth on average salary, wealth building strategies, build wealth middle class"
     slug: "build-wealth-on-average-salary"
-    status: pending
+    status: published
   - title: "How to Set Financial Goals You Will Actually Achieve"
     keywords: "how to set financial goals, smart financial goals, personal finance goal setting"
     slug: "set-financial-goals-you-achieve"
