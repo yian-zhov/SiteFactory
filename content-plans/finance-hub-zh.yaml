@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-10"
+last_generated: "2026-10-11"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -100,7 +100,7 @@ topics:
   - title: "基金亏损了要不要赎回：补仓、止损、持有判断标准"
     keywords: "基金亏损怎么办, 基金要不要赎回, 基金补仓, 基金止损"
     slug: "fund-loss-redeem-or-hold-strategy"
-    status: pending
+    status: published
   - title: "家庭记账怎么做才有用：记账方法、分类和月度复盘"
     keywords: "家庭记账, 记账方法, 记账分类, 月度复盘"
     slug: "family-bookkeeping-method-guide"
