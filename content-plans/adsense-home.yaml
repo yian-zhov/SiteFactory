@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-11"
+last_generated: "2026-10-12"
 target_keywords:
   - academic research
   - advanced search operators
@@ -92,7 +92,7 @@ topics:
   - title: "How to Build an Effective Digital Note-Taking System"
     keywords: "digital note taking, note taking system, best note apps"
     slug: "effective-digital-note-taking-system"
-    status: pending
+    status: published
   - title: "How to Automate Repetitive Tasks and Save Hours Every Week"
     keywords: "automate repetitive tasks, task automation, productivity automation"
     slug: "automate-repetitive-tasks-save-hours"
