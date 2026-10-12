@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-11"
+last_generated: "2026-10-12"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -104,7 +104,7 @@ topics:
   - title: "家庭记账怎么做才有用：记账方法、分类和月度复盘"
     keywords: "家庭记账, 记账方法, 记账分类, 月度复盘"
     slug: "family-bookkeeping-method-guide"
-    status: pending
+    status: published
   - title: "月薪5000怎么理财：先存钱、再保障、后投资的顺序"
     keywords: "月薪5000理财, 低收入理财, 存钱方法, 工薪族理财"
     slug: "how-to-manage-money-5000-salary"
