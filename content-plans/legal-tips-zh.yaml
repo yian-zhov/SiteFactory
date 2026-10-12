@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-11"
+last_generated: "2026-10-12"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -24,7 +24,7 @@ topics:
   - title: "劳动合同到期不续签有补偿吗？经济补偿金计算标准"
     keywords: "劳动合同到期不续签, 经济补偿金计算, 合同到期补偿"
     slug: "contract-expiry-compensation-guide"
-    status: pending
+    status: published
   - title: "试用期被辞退有赔偿吗？劳动法试用期规定全解析"
     keywords: "试用期被辞退, 试用期赔偿, 试用期劳动法规定"
     slug: "probation-dismissal-compensation-rules"
