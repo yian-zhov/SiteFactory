@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-12"
+last_generated: "2026-10-13"
 target_keywords:
   - 4321法则
   - ETF和场外基金区别
@@ -108,7 +108,7 @@ topics:
   - title: "月薪5000怎么理财：先存钱、再保障、后投资的顺序"
     keywords: "月薪5000理财, 低收入理财, 存钱方法, 工薪族理财"
     slug: "how-to-manage-money-5000-salary"
-    status: pending
+    status: published
   - title: "提前还房贷划算吗：等额本息、等额本金和违约金分析"
     keywords: "提前还房贷, 提前还贷划算吗, 等额本息, 等额本金"
     slug: "is-early-mortgage-repayment-worth-it"
