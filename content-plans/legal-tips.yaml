@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-12"
+last_generated: "2026-10-13"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -60,7 +60,7 @@ topics:
   - title: "How to Legally Break a Contract You Signed"
     keywords: "how to break a contract, breach of contract, contract termination"
     slug: "how-to-legally-break-a-contract"
-    status: pending
+    status: published
   - title: "Non-Compete Agreements: Are They Enforceable?"
     keywords: "non-compete agreement, is my non-compete enforceable, non-compete laws"
     slug: "are-non-compete-agreements-enforceable"
