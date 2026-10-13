@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-12"
+last_generated: "2026-10-13"
 target_keywords:
   - academic research
   - advanced search operators
@@ -96,7 +96,7 @@ topics:
   - title: "How to Automate Repetitive Tasks and Save Hours Every Week"
     keywords: "automate repetitive tasks, task automation, productivity automation"
     slug: "automate-repetitive-tasks-save-hours"
-    status: pending
+    status: published
   - title: "How to Organize Your Browser Tabs and Stop Tab Overload"
     keywords: "organize browser tabs, tab overload, tab management tips"
     slug: "organize-browser-tabs-stop-overload"
