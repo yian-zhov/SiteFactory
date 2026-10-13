@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-12"
+last_generated: "2026-10-13"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -28,7 +28,7 @@ topics:
   - title: "试用期被辞退有赔偿吗？劳动法试用期规定全解析"
     keywords: "试用期被辞退, 试用期赔偿, 试用期劳动法规定"
     slug: "probation-dismissal-compensation-rules"
-    status: pending
+    status: published
   - title: "借条和欠条的区别是什么？哪个法律效力更强"
     keywords: "借条和欠条的区别, 借条法律效力, 欠条怎么写"
     slug: "iou-vs-debt-note-difference"
