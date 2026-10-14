@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-13"
+last_generated: "2026-10-14"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -24,7 +24,7 @@ topics:
   - title: "50/30/20 Budget Rule Explained with Real Examples"
     keywords: "50/30/20 budget rule, 50 30 20 budgeting method, budget rule examples"
     slug: "50-30-20-budget-rule-explained-examples"
-    status: pending
+    status: published
   - title: "Index Funds vs ETFs: Which Should You Invest In?"
     keywords: "index funds vs etfs, index fund or etf, etf vs index fund comparison"
     slug: "index-funds-vs-etfs-which-to-invest"
