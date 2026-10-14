@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-13"
+last_generated: "2026-10-14"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -64,7 +64,7 @@ topics:
   - title: "Non-Compete Agreements: Are They Enforceable?"
     keywords: "non-compete agreement, is my non-compete enforceable, non-compete laws"
     slug: "are-non-compete-agreements-enforceable"
-    status: pending
+    status: published
   - title: "Freelancer Contracts: Essential Clauses Every Freelancer Needs"
     keywords: "freelancer contract, freelance agreement clauses, contract for freelancers"
     slug: "essential-freelancer-contract-clauses"
