@@ -4,116 +4,116 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-13"
+last_generated: "2026-10-14"
 target_keywords:
-  - 4321法则
-  - ETF和场外基金区别
+  - A股交易规则
+  - ETF基金
   - ETF怎么买
-  - ETF费率
-  - 个人账户养老金
-  - 个人资产配置
-  - 个税专项附加扣除
-  - 个税申报
-  - 中证500对比
-  - 估值止盈法
+  - ETF投资入门
+  - ETF是什么
+  - PE PB 怎么看
+  - 七日年化收益率
+  - 个人养老金账户
+  - 个人记账技巧
+  - 买基金误区
 topics:
-  - title: "新手如何开始基金定投：每月500元也能稳健理财"
-    keywords: "基金定投, 新手定投, 每月500元理财, 定投入门"
-    slug: "beginner-fund-investment-plan-500-monthly"
+  - title: "基金定投入门：新手如何开始基金定投"
+    keywords: "基金定投入门, 新手基金定投, 如何开始基金定投, 基金定投技巧"
+    slug: "fund-recurring-investment-guide-beginners"
     status: published
-  - title: "货币基金和债券基金哪个好：低风险投资者选择指南"
-    keywords: "货币基金和债券基金区别, 低风险基金选择, 货币基金收益, 债券基金风险"
-    slug: "money-market-vs-bond-fund-comparison"
-    status: published
-  - title: "指数基金定投怎么选：沪深300、中证500、纳斯达克对比"
-    keywords: "指数基金怎么选, 沪深300定投, 中证500对比, 纳斯达克指数基金"
-    slug: "how-to-choose-index-funds-comparison"
-    status: published
-  - title: "基金定投止盈策略：目标收益率法、估值法、回撤法怎么用"
-    keywords: "基金定投止盈, 止盈策略, 目标收益率止盈, 估值止盈法"
-    slug: "fund-investment-profit-taking-strategies"
-    status: published
-  - title: "个人资产配置入门：4321法则和标准普尔象限图怎么用"
-    keywords: "个人资产配置, 4321法则, 标准普尔家庭资产象限图, 资产配置方案"
-    slug: "personal-asset-allocation-4321-rule"
-    status: published
-  - title: "应急资金应该存多少：3-6个月生活费怎么算和放哪里"
-    keywords: "应急资金, 应急基金存多少, 应急资金放哪里, 家庭备用金"
-    slug: "how-much-emergency-fund-needed"
-    status: published
-  - title: "信用卡免息期怎么算：最长50天免息和还款日避坑指南"
-    keywords: "信用卡免息期, 信用卡还款日, 信用卡免息期怎么算, 信用卡避坑"
-    slug: "credit-card-interest-free-period-guide"
-    status: published
-  - title: "可转债打新怎么操作：中签率、缴款和上市卖出策略"
-    keywords: "可转债打新, 可转债申购, 可转债中签, 可转债上市卖出"
-    slug: "convertible-bond-ipo-subscription-guide"
-    status: published
-  - title: "国债逆回购怎么买：节假日和月末高收益操作技巧"
-    keywords: "国债逆回购, 国债逆回购怎么买, 逆回购收益, 短期理财"
-    slug: "treasury-reverse-repo-investment-guide"
-    status: published
-  - title: "银行大额存单和大额存款区别：利率、门槛、流动性对比"
-    keywords: "大额存单, 大额存款, 大额存单和定期存款区别, 大额存单利率"
-    slug: "large-deposit-vs-large-certificate-comparison"
-    status: published
-  - title: "年金险和增额终身寿险怎么选：收益、灵活性、适用人群对比"
-    keywords: "年金险, 增额终身寿险, 年金险和增额终身寿区别, 储蓄险怎么选"
-    slug: "annuity-vs-increasing-whole-life-insurance"
-    status: published
-  - title: "重疾险怎么买最划算：保额、保障期限、缴费年限选择"
-    keywords: "重疾险怎么买, 重疾险保额, 重疾险缴费年限, 重疾险选购"
-    slug: "how-to-buy-critical-illness-insurance"
-    status: published
-  - title: "百万医疗险和重疾险区别：能不能只买一个"
-    keywords: "百万医疗险, 重疾险区别, 百万医疗险和重疾险, 医疗险怎么选"
-    slug: "million-medical-vs-critical-illness-insurance"
-    status: published
-  - title: "个人所得税专项附加扣除怎么申报：住房租金、房贷、赡养老人"
-    keywords: "个税专项附加扣除, 个税申报, 住房租金扣除, 赡养老人扣除"
-    slug: "individual-income-tax-special-deductions"
-    status: published
-  - title: "年终奖怎么计税更划算：单独计税和并入综合所得对比"
-    keywords: "年终奖计税, 年终奖单独计税, 年终奖并入综合所得, 年终奖个税"
-    slug: "year-end-bonus-tax-calculation-guide"
-    status: published
-  - title: "养老金个人账户怎么查：缴费年限、余额和退休金测算"
-    keywords: "养老金查询, 个人账户养老金, 社保缴费年限, 退休金测算"
-    slug: "how-to-check-pension-account-guide"
-    status: published
-  - title: "股票开户流程详解：佣金、券商选择和开户注意事项"
-    keywords: "股票开户, 股票开户流程, 券商佣金, 股票开户注意事项"
-    slug: "stock-account-opening-process-guide"
-    status: published
-  - title: "ETF和场外基金区别：费率、交易方式、适合谁买"
-    keywords: "ETF和场外基金区别, ETF怎么买, 场内基金, ETF费率"
-    slug: "etf-vs-otc-fund-comparison"
-    status: published
-  - title: "港股通怎么开通和交易：门槛、交易规则、汇率风险"
-    keywords: "港股通, 港股通开通条件, 港股通交易规则, 港股通汇率"
-    slug: "hong-kong-stock-connect-guide"
-    status: published
-  - title: "美股怎么买：开户渠道、交易时间、汇率和税费详解"
-    keywords: "美股怎么买, 美股开户, 美股交易时间, 美股税费"
-    slug: "how-to-buy-us-stocks-guide"
-    status: published
-  - title: "基金亏损了要不要赎回：补仓、止损、持有判断标准"
-    keywords: "基金亏损怎么办, 基金要不要赎回, 基金补仓, 基金止损"
-    slug: "fund-loss-redeem-or-hold-strategy"
-    status: published
-  - title: "家庭记账怎么做才有用：记账方法、分类和月度复盘"
-    keywords: "家庭记账, 记账方法, 记账分类, 月度复盘"
-    slug: "family-bookkeeping-method-guide"
-    status: published
-  - title: "月薪5000怎么理财：先存钱、再保障、后投资的顺序"
-    keywords: "月薪5000理财, 低收入理财, 存钱方法, 工薪族理财"
-    slug: "how-to-manage-money-5000-salary"
-    status: published
-  - title: "提前还房贷划算吗：等额本息、等额本金和违约金分析"
-    keywords: "提前还房贷, 提前还贷划算吗, 等额本息, 等额本金"
-    slug: "is-early-mortgage-repayment-worth-it"
+  - title: "指数基金与主动基金对比：普通投资者该怎么选"
+    keywords: "指数基金和主动基金区别, 指数基金 vs 主动基金, 基金选择技巧"
+    slug: "index-fund-vs-active-fund-comparison"
     status: pending
-  - title: "黄金投资方式对比：实物金、金条、黄金ETF、纸黄金怎么选"
-    keywords: "黄金投资, 黄金ETF, 纸黄金, 实物黄金投资"
-    slug: "gold-investment-options-comparison"
+  - title: "货币基金收益怎么看？七日年化收益率详解"
+    keywords: "货币基金收益, 七日年化收益率, 货币基金怎么选"
+    slug: "money-market-fund-yield-explained"
+    status: pending
+  - title: "债券基金投资指南：风险与收益全解析"
+    keywords: "债券基金投资, 债券基金风险, 债券基金收益, 债券基金怎么买"
+    slug: "bond-fund-investment-guide"
+    status: pending
+  - title: "如何看懂基金招募说明书：关键信息解读"
+    keywords: "基金招募说明书, 看懂基金说明书, 基金投资文件"
+    slug: "how-to-read-fund-prospectus"
+    status: pending
+  - title: "基金定投还是一次性买入？哪种方式更适合你"
+    keywords: "定投还是一次性买入, 基金定投对比, 基金买入策略"
+    slug: "recurring-vs-lump-sum-investing"
+    status: pending
+  - title: "基金止盈策略：什么时候该卖出基金"
+    keywords: "基金止盈, 基金什么时候卖出, 基金止盈策略, 基金赎回时机"
+    slug: "fund-profit-taking-strategies"
+    status: pending
+  - title: "新手买基金常见误区：这10个错误要避免"
+    keywords: "买基金误区, 新手买基金错误, 基金投资误区"
+    slug: "common-fund-investing-mistakes"
+    status: pending
+  - title: "股票开户流程2024：新手炒股开户全攻略"
+    keywords: "股票开户流程, 新手炒股开户, 股票开户指南, 证券开户"
+    slug: "how-to-open-stock-account-guide"
+    status: pending
+  - title: "股票基本面分析入门：如何读懂财务报表"
+    keywords: "基本面分析, 读懂财务报表, 股票财务分析, 基本面选股"
+    slug: "stock-fundamental-analysis-basics"
+    status: pending
+  - title: "市盈率与市净率详解：估值指标怎么用"
+    keywords: "市盈率, 市净率, 股票估值指标, PE PB 怎么看"
+    slug: "pe-pb-valuation-metrics-guide"
+    status: pending
+  - title: "A股交易规则详解：交易时间、涨跌幅与手续费"
+    keywords: "A股交易规则, 股票交易时间, 股票手续费, 涨跌幅限制"
+    slug: "a-share-trading-rules-guide"
+    status: pending
+  - title: "短线交易与长线投资对比：哪种适合你"
+    keywords: "短线交易, 长线投资, 短线vs长线, 股票投资策略"
+    slug: "short-term-vs-long-term-investing"
+    status: pending
+  - title: "股票止损技巧：如何设置合理止损点"
+    keywords: "股票止损, 止损技巧, 止损点设置, 股票风险管理"
+    slug: "stock-stop-loss-strategies"
+    status: pending
+  - title: "什么是ETF？ETF投资入门完整指南"
+    keywords: "ETF是什么, ETF投资入门, ETF怎么买, ETF基金"
+    slug: "what-is-etf-investment-guide"
+    status: pending
+  - title: "可转债投资入门：打新与交易全流程"
+    keywords: "可转债投资, 可转债打新, 可转债交易, 可转债怎么买"
+    slug: "convertible-bond-investment-guide"
+    status: pending
+  - title: "家庭资产配置指南：标准普尔四象限解析"
+    keywords: "家庭资产配置, 标准普尔四象限, 资产配置方案, 家庭理财规划"
+    slug: "family-asset-allocation-guide"
+    status: pending
+  - title: "应急基金怎么存？金额、存放方式与注意事项"
+    keywords: "应急基金, 应急资金怎么存, 应急基金存多少, 备用金规划"
+    slug: "emergency-fund-planning-guide"
+    status: pending
+  - title: "保险怎么买才划算？四大险种配置顺序"
+    keywords: "保险怎么买, 保险配置顺序, 四大险种, 家庭保险规划"
+    slug: "how-to-buy-insurance-guide"
+    status: pending
+  - title: "重疾险与医疗险区别：买哪个更合适"
+    keywords: "重疾险和医疗险区别, 重疾险vs医疗险, 重疾险怎么选, 医疗险怎么选"
+    slug: "critical-illness-vs-medical-insurance"
+    status: pending
+  - title: "养老规划从多少岁开始？个人养老金账户详解"
+    keywords: "养老规划, 个人养老金账户, 养老金怎么规划, 退休理财"
+    slug: "retirement-planning-personal-pension"
+    status: pending
+  - title: "记账方法推荐：如何通过记账控制支出"
+    keywords: "记账方法, 如何记账, 记账控制支出, 个人记账技巧"
+    slug: "personal-budgeting-tracking-methods"
+    status: pending
+  - title: "信用卡使用技巧：如何避免利息与逾期"
+    keywords: "信用卡使用技巧, 信用卡免息期, 信用卡逾期, 信用卡还款"
+    slug: "credit-card-usage-tips"
+    status: pending
+  - title: "房贷提前还款划算吗？计算与决策指南"
+    keywords: "房贷提前还款, 提前还款划算吗, 房贷提前还款计算"
+    slug: "should-you-prepay-mortgage-guide"
+    status: pending
+  - title: "黄金投资方式对比：实物金、纸黄金与黄金ETF"
+    keywords: "黄金投资, 黄金ETF, 纸黄金, 实物黄金投资, 黄金投资方式"
+    slug: "gold-investment-methods-comparison"
     status: pending
