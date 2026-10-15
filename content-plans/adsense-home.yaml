@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-14"
+last_generated: "2026-10-15"
 target_keywords:
   - academic research
   - advanced search operators
@@ -104,7 +104,7 @@ topics:
   - title: "How to Use Google Drive to Organize and Find Files Quickly"
     keywords: "google drive organization, find files google drive, drive search tips"
     slug: "google-drive-organize-find-files"
-    status: pending
+    status: published
   - title: "How to Verify Health Information You Find Online"
     keywords: "verify health information, reliable health websites, health search advice"
     slug: "verify-health-information-found-online"
