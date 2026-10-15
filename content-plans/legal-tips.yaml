@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-14"
+last_generated: "2026-10-15"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -68,7 +68,7 @@ topics:
   - title: "Freelancer Contracts: Essential Clauses Every Freelancer Needs"
     keywords: "freelancer contract, freelance agreement clauses, contract for freelancers"
     slug: "essential-freelancer-contract-clauses"
-    status: pending
+    status: published
   - title: "What Is Copyright Infringement? Practical Guide for Creators"
     keywords: "copyright infringement, copyright basics, protect my content"
     slug: "copyright-infringement-guide-creators"
