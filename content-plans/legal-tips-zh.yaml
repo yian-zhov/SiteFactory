@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-14"
+last_generated: "2026-10-15"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -36,7 +36,7 @@ topics:
   - title: "没有借条怎么追讨欠款？微信转账记录能作为证据吗"
     keywords: "没有借条怎么追讨欠款, 微信转账记录证据, 债务追讨方法"
     slug: "debt-recovery-without-iou"
-    status: pending
+    status: published
   - title: "离婚财产分割原则：婚前房产和婚后共同财产怎么分"
     keywords: "离婚财产分割, 婚前房产分割, 婚后共同财产"
     slug: "divorce-property-division-rules"
