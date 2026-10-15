@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-14"
+last_generated: "2026-10-15"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -24,7 +24,7 @@ topics:
   - title: "指数基金与主动基金对比：普通投资者该怎么选"
     keywords: "指数基金和主动基金区别, 指数基金 vs 主动基金, 基金选择技巧"
     slug: "index-fund-vs-active-fund-comparison"
-    status: pending
+    status: published
   - title: "货币基金收益怎么看？七日年化收益率详解"
     keywords: "货币基金收益, 七日年化收益率, 货币基金怎么选"
     slug: "money-market-fund-yield-explained"
@@ -32,7 +32,7 @@ topics:
   - title: "债券基金投资指南：风险与收益全解析"
     keywords: "债券基金投资, 债券基金风险, 债券基金收益, 债券基金怎么买"
     slug: "bond-fund-investment-guide"
-    status: pending
+    status: published
   - title: "如何看懂基金招募说明书：关键信息解读"
     keywords: "基金招募说明书, 看懂基金说明书, 基金投资文件"
     slug: "how-to-read-fund-prospectus"
