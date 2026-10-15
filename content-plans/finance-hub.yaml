@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-14"
+last_generated: "2026-10-15"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -28,7 +28,7 @@ topics:
   - title: "Index Funds vs ETFs: Which Should You Invest In?"
     keywords: "index funds vs etfs, index fund or etf, etf vs index fund comparison"
     slug: "index-funds-vs-etfs-which-to-invest"
-    status: pending
+    status: published
   - title: "How Compound Interest Works and Why It Matters"
     keywords: "how compound interest works, compound interest explained, power of compound interest"
     slug: "how-compound-interest-works"
