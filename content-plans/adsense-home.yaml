@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-15"
+last_generated: "2026-10-16"
 target_keywords:
   - academic research
   - advanced search operators
@@ -108,7 +108,7 @@ topics:
   - title: "How to Verify Health Information You Find Online"
     keywords: "verify health information, reliable health websites, health search advice"
     slug: "verify-health-information-found-online"
-    status: pending
+    status: published
   - title: "How to Search for Jobs Online More Effectively"
     keywords: "job search online, find jobs faster, job hunting tips"
     slug: "search-for-jobs-online-effectively"
