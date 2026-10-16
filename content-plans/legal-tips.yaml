@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-15"
+last_generated: "2026-10-16"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -72,7 +72,7 @@ topics:
   - title: "What Is Copyright Infringement? Practical Guide for Creators"
     keywords: "copyright infringement, copyright basics, protect my content"
     slug: "copyright-infringement-guide-creators"
-    status: pending
+    status: published
   - title: "Dealing With Debt Collectors: Your Legal Rights and Limits"
     keywords: "debt collector rights, fair debt collection act, harassment by debt collectors"
     slug: "debt-collector-legal-rights"
