@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-16"
+last_generated: "2026-10-17"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -76,7 +76,7 @@ topics:
   - title: "Dealing With Debt Collectors: Your Legal Rights and Limits"
     keywords: "debt collector rights, fair debt collection act, harassment by debt collectors"
     slug: "debt-collector-legal-rights"
-    status: pending
+    status: published
   - title: "How to File for Divorce Without a Lawyer"
     keywords: "divorce without a lawyer, DIY divorce, pro se divorce"
     slug: "how-to-file-divorce-without-lawyer"
