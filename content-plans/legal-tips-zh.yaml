@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-16"
+last_generated: "2026-10-17"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -52,7 +52,7 @@ topics:
   - title: "交通事故赔偿项目清单：医疗费、误工费怎么算"
     keywords: "交通事故赔偿项目, 误工费计算, 交通事故赔偿标准"
     slug: "traffic-accident-compensation-items"
-    status: pending
+    status: published
   - title: "网购商品质量问题怎么维权？退换货法律规定"
     keywords: "网购质量问题维权, 网购退换货, 消费者权益保护"
     slug: "online-shopping-rights-protection"
