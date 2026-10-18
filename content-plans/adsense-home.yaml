@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-17"
+last_generated: "2026-10-18"
 target_keywords:
   - 2fa security
   - account locked out
@@ -24,7 +24,7 @@ topics:
   - title: "How to Use Google Reverse Image Search Effectively"
     keywords: "google reverse image search, reverse image lookup, find image source"
     slug: "how-to-use-google-reverse-image-search"
-    status: pending
+    status: published
   - title: "How to Block Distracting Websites and Stay Focused at Work"
     keywords: "block distracting websites, website blocker, stay focused at work"
     slug: "block-distracting-websites-stay-focused"
