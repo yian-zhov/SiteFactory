@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-17"
+last_generated: "2026-10-18"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -40,7 +40,7 @@ topics:
   - title: "基金定投还是一次性买入？哪种方式更适合你"
     keywords: "定投还是一次性买入, 基金定投对比, 基金买入策略"
     slug: "recurring-vs-lump-sum-investing"
-    status: pending
+    status: published
   - title: "基金止盈策略：什么时候该卖出基金"
     keywords: "基金止盈, 基金什么时候卖出, 基金止盈策略, 基金赎回时机"
     slug: "fund-profit-taking-strategies"
