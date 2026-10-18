@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-17"
+last_generated: "2026-10-18"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -56,7 +56,7 @@ topics:
   - title: "网购商品质量问题怎么维权？退换货法律规定"
     keywords: "网购质量问题维权, 网购退换货, 消费者权益保护"
     slug: "online-shopping-rights-protection"
-    status: pending
+    status: published
   - title: "消费者投诉举报渠道有哪些？12315投诉流程详解"
     keywords: "12315投诉流程, 消费者投诉渠道, 消费维权方法"
     slug: "consumer-complaint-12315-guide"
