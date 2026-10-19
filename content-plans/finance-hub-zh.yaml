@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-18"
+last_generated: "2026-10-19"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -44,7 +44,7 @@ topics:
   - title: "基金止盈策略：什么时候该卖出基金"
     keywords: "基金止盈, 基金什么时候卖出, 基金止盈策略, 基金赎回时机"
     slug: "fund-profit-taking-strategies"
-    status: pending
+    status: published
   - title: "新手买基金常见误区：这10个错误要避免"
     keywords: "买基金误区, 新手买基金错误, 基金投资误区"
     slug: "common-fund-investing-mistakes"
