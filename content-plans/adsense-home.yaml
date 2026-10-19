@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-18"
+last_generated: "2026-10-19"
 target_keywords:
   - 2fa security
   - account locked out
@@ -28,7 +28,7 @@ topics:
   - title: "How to Block Distracting Websites and Stay Focused at Work"
     keywords: "block distracting websites, website blocker, stay focused at work"
     slug: "block-distracting-websites-stay-focused"
-    status: pending
+    status: published
   - title: "What Is Phishing and How to Spot a Phishing Email"
     keywords: "what is phishing, spot phishing email, phishing warning signs"
     slug: "what-is-phishing-spot-phishing-email"
