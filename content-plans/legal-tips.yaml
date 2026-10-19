@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-18"
+last_generated: "2026-10-19"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -84,7 +84,7 @@ topics:
   - title: "Child Custody Basics Every Parent Should Know"
     keywords: "child custody, types of child custody, custody agreement"
     slug: "child-custody-basics-for-parents"
-    status: pending
+    status: published
   - title: "Traffic Ticket: Should You Fight It or Pay It?"
     keywords: "fight traffic ticket, contest a ticket, traffic ticket options"
     slug: "fight-traffic-ticket-or-pay"
