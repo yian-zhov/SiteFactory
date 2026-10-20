@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-19"
+last_generated: "2026-10-20"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -48,7 +48,7 @@ topics:
   - title: "新手买基金常见误区：这10个错误要避免"
     keywords: "买基金误区, 新手买基金错误, 基金投资误区"
     slug: "common-fund-investing-mistakes"
-    status: pending
+    status: published
   - title: "股票开户流程2024：新手炒股开户全攻略"
     keywords: "股票开户流程, 新手炒股开户, 股票开户指南, 证券开户"
     slug: "how-to-open-stock-account-guide"
