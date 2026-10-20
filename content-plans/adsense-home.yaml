@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-19"
+last_generated: "2026-10-20"
 target_keywords:
   - 2fa security
   - account locked out
@@ -32,7 +32,7 @@ topics:
   - title: "What Is Phishing and How to Spot a Phishing Email"
     keywords: "what is phishing, spot phishing email, phishing warning signs"
     slug: "what-is-phishing-spot-phishing-email"
-    status: pending
+    status: published
   - title: "How to Create Strong Passwords You Can Actually Remember"
     keywords: "how to create strong passwords, memorable strong password, password tips"
     slug: "how-to-create-strong-passwords"
