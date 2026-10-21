@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-20"
+last_generated: "2026-10-21"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -68,7 +68,7 @@ topics:
   - title: "房屋租赁合同必看条款：签订前要注意哪些坑"
     keywords: "房屋租赁合同, 租房合同条款, 签租房合同注意事项"
     slug: "rental-contract-key-clauses"
-    status: pending
+    status: published
   - title: "二手房买卖合同注意事项：过户流程与风险防范"
     keywords: "二手房买卖合同, 二手房过户流程, 二手房交易风险"
     slug: "second-hand-home-purchase-guide"
