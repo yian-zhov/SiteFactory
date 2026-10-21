@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-20"
+last_generated: "2026-10-21"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -52,7 +52,7 @@ topics:
   - title: "股票开户流程2024：新手炒股开户全攻略"
     keywords: "股票开户流程, 新手炒股开户, 股票开户指南, 证券开户"
     slug: "how-to-open-stock-account-guide"
-    status: pending
+    status: published
   - title: "股票基本面分析入门：如何读懂财务报表"
     keywords: "基本面分析, 读懂财务报表, 股票财务分析, 基本面选股"
     slug: "stock-fundamental-analysis-basics"
