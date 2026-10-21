@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-20"
+last_generated: "2026-10-21"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -92,7 +92,7 @@ topics:
   - title: "Understanding Your Miranda Rights: What Police Must Tell You"
     keywords: "miranda rights, what are miranda rights, police arrest rights"
     slug: "understanding-miranda-rights"
-    status: pending
+    status: published
   - title: "How to Handle a Dispute With a Contractor"
     keywords: "contractor dispute, contractor didn't finish work, sue a contractor"
     slug: "how-to-handle-contractor-dispute"
