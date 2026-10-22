@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-21"
+last_generated: "2026-10-22"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -60,7 +60,7 @@ topics:
   - title: "How to Save Money on Groceries Without Coupons"
     keywords: "how to save money on groceries, grocery budget tips, save on grocery shopping"
     slug: "how-to-save-money-on-groceries"
-    status: pending
+    status: published
   - title: "Renting vs Buying a Home: How to Decide"
     keywords: "renting vs buying a home, should i rent or buy, rent or buy decision"
     slug: "renting-vs-buying-home-how-to-decide"
