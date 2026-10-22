@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-21"
+last_generated: "2026-10-22"
 target_keywords:
   - 2fa security
   - account locked out
@@ -40,7 +40,7 @@ topics:
   - title: "LastPass vs Bitwarden: Which Password Manager Is Better"
     keywords: "lastpass vs bitwarden, best password manager, password manager comparison"
     slug: "lastpass-vs-bitwarden-comparison"
-    status: pending
+    status: published
   - title: "How to Speed Up Your Web Browsing With Keyboard Shortcuts"
     keywords: "browser keyboard shortcuts, speed up browsing, chrome shortcuts"
     slug: "speed-up-web-browsing-keyboard-shortcuts"
