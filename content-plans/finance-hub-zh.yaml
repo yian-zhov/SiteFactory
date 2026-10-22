@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-21"
+last_generated: "2026-10-22"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -56,7 +56,7 @@ topics:
   - title: "股票基本面分析入门：如何读懂财务报表"
     keywords: "基本面分析, 读懂财务报表, 股票财务分析, 基本面选股"
     slug: "stock-fundamental-analysis-basics"
-    status: pending
+    status: published
   - title: "市盈率与市净率详解：估值指标怎么用"
     keywords: "市盈率, 市净率, 股票估值指标, PE PB 怎么看"
     slug: "pe-pb-valuation-metrics-guide"
