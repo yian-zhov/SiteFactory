@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-21"
+last_generated: "2026-10-22"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -96,7 +96,7 @@ topics:
   - title: "How to Handle a Dispute With a Contractor"
     keywords: "contractor dispute, contractor didn't finish work, sue a contractor"
     slug: "how-to-handle-contractor-dispute"
-    status: pending
+    status: published
   - title: "Data Privacy Laws: What Companies Must Do With Your Data"
     keywords: "data privacy laws, consumer data rights, GDPR basics"
     slug: "data-privacy-laws-consumer-rights"
