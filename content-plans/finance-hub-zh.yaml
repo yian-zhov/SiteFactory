@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-22"
+last_generated: "2026-10-23"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -60,7 +60,7 @@ topics:
   - title: "市盈率与市净率详解：估值指标怎么用"
     keywords: "市盈率, 市净率, 股票估值指标, PE PB 怎么看"
     slug: "pe-pb-valuation-metrics-guide"
-    status: pending
+    status: published
   - title: "A股交易规则详解：交易时间、涨跌幅与手续费"
     keywords: "A股交易规则, 股票交易时间, 股票手续费, 涨跌幅限制"
     slug: "a-share-trading-rules-guide"
