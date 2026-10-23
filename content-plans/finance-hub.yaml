@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-22"
+last_generated: "2026-10-23"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -64,7 +64,7 @@ topics:
   - title: "Renting vs Buying a Home: How to Decide"
     keywords: "renting vs buying a home, should i rent or buy, rent or buy decision"
     slug: "renting-vs-buying-home-how-to-decide"
-    status: pending
+    status: published
   - title: "How to Create a Monthly Budget That Actually Works"
     keywords: "how to create a monthly budget, monthly budgeting guide, personal budget tips"
     slug: "how-to-create-monthly-budget-that-works"
