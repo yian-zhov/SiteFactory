@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-23"
+last_generated: "2026-10-24"
 target_keywords:
   - 2fa security
   - account locked out
@@ -48,7 +48,7 @@ topics:
   - title: "How to Use Google Search Effectively: A Beginner's Guide"
     keywords: "how to use google search, google search tips, improve search results"
     slug: "how-to-use-google-search-effectively"
-    status: pending
+    status: published
   - title: "How to Keep Your Google Search History Private"
     keywords: "google search history privacy, delete search history, private search"
     slug: "keep-google-search-history-private"
