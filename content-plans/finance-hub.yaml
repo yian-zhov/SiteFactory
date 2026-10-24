@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-23"
+last_generated: "2026-10-24"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -68,7 +68,7 @@ topics:
   - title: "How to Create a Monthly Budget That Actually Works"
     keywords: "how to create a monthly budget, monthly budgeting guide, personal budget tips"
     slug: "how-to-create-monthly-budget-that-works"
-    status: pending
+    status: published
   - title: "What Is an Annuity and Is It Worth It?"
     keywords: "what is an annuity, are annuities worth it, annuity explained"
     slug: "what-is-an-annuity-is-it-worth-it"
