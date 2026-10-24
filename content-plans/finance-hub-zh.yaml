@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-23"
+last_generated: "2026-10-24"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -64,7 +64,7 @@ topics:
   - title: "A股交易规则详解：交易时间、涨跌幅与手续费"
     keywords: "A股交易规则, 股票交易时间, 股票手续费, 涨跌幅限制"
     slug: "a-share-trading-rules-guide"
-    status: pending
+    status: published
   - title: "短线交易与长线投资对比：哪种适合你"
     keywords: "短线交易, 长线投资, 短线vs长线, 股票投资策略"
     slug: "short-term-vs-long-term-investing"
