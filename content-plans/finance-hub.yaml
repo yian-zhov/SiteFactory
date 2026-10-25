@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-24"
+last_generated: "2026-10-25"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -72,7 +72,7 @@ topics:
   - title: "What Is an Annuity and Is It Worth It?"
     keywords: "what is an annuity, are annuities worth it, annuity explained"
     slug: "what-is-an-annuity-is-it-worth-it"
-    status: pending
+    status: published
   - title: "How to Invest in Real Estate Without Buying Property"
     keywords: "invest in real estate without buying property, reits investing, real estate crowdfunding"
     slug: "invest-in-real-estate-without-property"
