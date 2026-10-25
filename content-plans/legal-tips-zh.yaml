@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-24"
+last_generated: "2026-10-25"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -84,7 +84,7 @@ topics:
   - title: "被公司拖欠工资怎么办？讨薪维权途径全汇总"
     keywords: "公司拖欠工资, 讨薪维权, 拖欠工资怎么办"
     slug: "unpaid-wages-recovery-methods"
-    status: pending
+    status: published
   - title: "工伤认定申请流程：哪些情况算工伤"
     keywords: "工伤认定流程, 工伤认定标准, 什么情况算工伤"
     slug: "work-injury-certification-process"
