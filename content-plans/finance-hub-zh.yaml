@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-24"
+last_generated: "2026-10-25"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -68,7 +68,7 @@ topics:
   - title: "短线交易与长线投资对比：哪种适合你"
     keywords: "短线交易, 长线投资, 短线vs长线, 股票投资策略"
     slug: "short-term-vs-long-term-investing"
-    status: pending
+    status: published
   - title: "股票止损技巧：如何设置合理止损点"
     keywords: "股票止损, 止损技巧, 止损点设置, 股票风险管理"
     slug: "stock-stop-loss-strategies"
