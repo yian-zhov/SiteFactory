@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-24"
+last_generated: "2026-10-25"
 target_keywords:
   - DIY divorce
   - DIY will
@@ -108,7 +108,7 @@ topics:
   - title: "What Is Mediation and How Can It Resolve Your Dispute?"
     keywords: "what is mediation, mediation vs litigation, resolve dispute mediation"
     slug: "what-is-mediation-resolve-dispute"
-    status: pending
+    status: published
   - title: "Employee Rights: Overtime, Breaks, and Pay Issues"
     keywords: "employee rights, overtime pay laws, wage and hour violations"
     slug: "employee-rights-overtime-and-pay"
