@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-25"
+last_generated: "2026-10-26"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -92,7 +92,7 @@ topics:
   - title: "工伤赔偿标准详解：一到十级伤残赔多少钱"
     keywords: "工伤赔偿标准, 伤残等级赔偿, 工伤十级赔偿"
     slug: "work-injury-compensation-standards"
-    status: pending
+    status: published
   - title: "民间借贷利息多少合法？超过这个数不受法律保护"
     keywords: "民间借贷利息, 借贷利率合法范围, 高利贷认定"
     slug: "private-lending-interest-limits"
