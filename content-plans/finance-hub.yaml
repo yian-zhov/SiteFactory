@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-25"
+last_generated: "2026-10-26"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -76,7 +76,7 @@ topics:
   - title: "How to Invest in Real Estate Without Buying Property"
     keywords: "invest in real estate without buying property, reits investing, real estate crowdfunding"
     slug: "invest-in-real-estate-without-property"
-    status: pending
+    status: published
   - title: "Health Savings Account (HSA): The Ultimate Triple Tax Advantage"
     keywords: "what is an hsa, hsa triple tax advantage, health savings account benefits"
     slug: "health-savings-account-ultimate-guide"
