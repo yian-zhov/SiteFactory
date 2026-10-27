@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-26"
+last_generated: "2026-10-27"
 target_keywords:
   - 2fa security
   - account locked out
@@ -60,7 +60,7 @@ topics:
   - title: "How to Set Up Two-Factor Authentication on Any Account"
     keywords: "two-factor authentication setup, enable 2fa, 2fa security"
     slug: "set-up-two-factor-authentication"
-    status: pending
+    status: published
   - title: "What Is a VPN and Do You Really Need One"
     keywords: "what is a vpn, do i need a vpn, vpn benefits explained"
     slug: "what-is-a-vpn-do-you-need-one"
