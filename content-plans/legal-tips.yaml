@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-26"
+last_generated: "2026-10-27"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -24,7 +24,7 @@ topics:
   - title: "How to Write a Demand Letter That Gets Results"
     keywords: "how to write a demand letter, demand letter template, demand letter example"
     slug: "how-to-write-demand-letter"
-    status: pending
+    status: published
   - title: "How Long Does Probate Take and What to Expect"
     keywords: "how long does probate take, probate timeline, probate process duration"
     slug: "how-long-does-probate-take"
@@ -32,7 +32,7 @@ topics:
   - title: "Security Deposit Laws: Can a Landlord Keep Your Deposit?"
     keywords: "can landlord keep security deposit, security deposit laws, getting security deposit back"
     slug: "can-landlord-keep-security-deposit"
-    status: pending
+    status: published
   - title: "How to File a Small Claims Case Without a Lawyer"
     keywords: "how to file small claims, small claims court without lawyer, file small claims lawsuit"
     slug: "how-to-file-small-claims-without-lawyer"
