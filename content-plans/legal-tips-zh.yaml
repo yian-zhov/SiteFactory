@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-26"
+last_generated: "2026-10-27"
 target_keywords:
   - 12315投诉流程
   - 个人信息保护法
@@ -96,7 +96,7 @@ topics:
   - title: "民间借贷利息多少合法？超过这个数不受法律保护"
     keywords: "民间借贷利息, 借贷利率合法范围, 高利贷认定"
     slug: "private-lending-interest-limits"
-    status: pending
+    status: published
   - title: "打官司诉讼费怎么收？律师费由谁承担"
     keywords: "诉讼费收费标准, 律师费谁承担, 打官司费用"
     slug: "litigation-costs-and-attorney-fees"
