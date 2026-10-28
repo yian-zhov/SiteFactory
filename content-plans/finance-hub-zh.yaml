@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-27"
+last_generated: "2026-10-28"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -80,7 +80,7 @@ topics:
   - title: "可转债投资入门：打新与交易全流程"
     keywords: "可转债投资, 可转债打新, 可转债交易, 可转债怎么买"
     slug: "convertible-bond-investment-guide"
-    status: pending
+    status: published
   - title: "家庭资产配置指南：标准普尔四象限解析"
     keywords: "家庭资产配置, 标准普尔四象限, 资产配置方案, 家庭理财规划"
     slug: "family-asset-allocation-guide"
