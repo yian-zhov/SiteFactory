@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-27"
+last_generated: "2026-10-28"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -84,7 +84,7 @@ topics:
   - title: "How to Retire Early: FIRE Movement Explained"
     keywords: "how to retire early, fire movement explained, financial independence retire early"
     slug: "how-to-retire-early-fire-movement"
-    status: pending
+    status: published
   - title: "Dollar-Cost Averaging vs Lump Sum Investing"
     keywords: "dollar-cost averaging vs lump sum, dca vs lump sum, investing strategies comparison"
     slug: "dollar-cost-averaging-vs-lump-sum"
