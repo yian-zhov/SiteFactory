@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-28"
+last_generated: "2026-10-29"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -88,7 +88,7 @@ topics:
   - title: "Dollar-Cost Averaging vs Lump Sum Investing"
     keywords: "dollar-cost averaging vs lump sum, dca vs lump sum, investing strategies comparison"
     slug: "dollar-cost-averaging-vs-lump-sum"
-    status: pending
+    status: published
   - title: "How to Choose the Best High-Yield Savings Account"
     keywords: "best high-yield savings account, high yield savings rates, choosing savings account"
     slug: "how-to-choose-best-high-yield-savings"
@@ -96,7 +96,7 @@ topics:
   - title: "Understanding Your 401(k): Contribution Limits and Match"
     keywords: "401k contribution limits, how does 401k work, 401k employer match explained"
     slug: "understanding-your-401k-contributions-match"
-    status: pending
+    status: published
   - title: "Tax-Loss Harvesting: How to Reduce Your Tax Bill"
     keywords: "tax-loss harvesting, reduce capital gains tax, tax loss harvesting guide"
     slug: "tax-loss-harvesting-reduce-tax-bill"
