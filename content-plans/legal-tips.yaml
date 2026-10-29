@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-28"
+last_generated: "2026-10-29"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -36,7 +36,7 @@ topics:
   - title: "How to File a Small Claims Case Without a Lawyer"
     keywords: "how to file small claims, small claims court without lawyer, file small claims lawsuit"
     slug: "how-to-file-small-claims-without-lawyer"
-    status: pending
+    status: published
   - title: "Wrongful Termination: How to Prove You Were Fired Illegally"
     keywords: "wrongful termination, how to prove wrongful termination, fired illegally"
     slug: "how-to-prove-wrongful-termination"
