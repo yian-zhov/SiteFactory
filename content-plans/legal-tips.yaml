@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-29"
+last_generated: "2026-10-30"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -40,7 +40,7 @@ topics:
   - title: "Wrongful Termination: How to Prove You Were Fired Illegally"
     keywords: "wrongful termination, how to prove wrongful termination, fired illegally"
     slug: "how-to-prove-wrongful-termination"
-    status: pending
+    status: published
   - title: "How to Create a Simple Will: Requirements by State"
     keywords: "how to write a will, simple will requirements, do it yourself will"
     slug: "how-to-create-simple-will-requirements"
