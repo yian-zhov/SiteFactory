@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-29"
+last_generated: "2026-10-30"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -88,7 +88,7 @@ topics:
   - title: "应急基金怎么存？金额、存放方式与注意事项"
     keywords: "应急基金, 应急资金怎么存, 应急基金存多少, 备用金规划"
     slug: "emergency-fund-planning-guide"
-    status: pending
+    status: published
   - title: "保险怎么买才划算？四大险种配置顺序"
     keywords: "保险怎么买, 保险配置顺序, 四大险种, 家庭保险规划"
     slug: "how-to-buy-insurance-guide"
