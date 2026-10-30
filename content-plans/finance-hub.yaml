@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-29"
+last_generated: "2026-10-30"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -92,7 +92,7 @@ topics:
   - title: "How to Choose the Best High-Yield Savings Account"
     keywords: "best high-yield savings account, high yield savings rates, choosing savings account"
     slug: "how-to-choose-best-high-yield-savings"
-    status: pending
+    status: published
   - title: "Understanding Your 401(k): Contribution Limits and Match"
     keywords: "401k contribution limits, how does 401k work, 401k employer match explained"
     slug: "understanding-your-401k-contributions-match"
