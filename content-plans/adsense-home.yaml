@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-10-29"
+last_generated: "2026-10-30"
 target_keywords:
   - 2fa security
   - account locked out
@@ -72,7 +72,7 @@ topics:
   - title: "How to Clear Browser Cache and Cookies Safely"
     keywords: "clear browser cache, delete cookies, browser cache guide"
     slug: "clear-browser-cache-and-cookies"
-    status: pending
+    status: published
   - title: "How to Download Files From the Internet Safely"
     keywords: "download files safely, safe downloads, avoid malicious downloads"
     slug: "download-files-from-internet-safely"
