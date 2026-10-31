@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-30"
+last_generated: "2026-10-31"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -44,7 +44,7 @@ topics:
   - title: "How to Create a Simple Will: Requirements by State"
     keywords: "how to write a will, simple will requirements, do it yourself will"
     slug: "how-to-create-simple-will-requirements"
-    status: pending
+    status: published
   - title: "How to Dispute an Incorrect Credit Report Entry"
     keywords: "how to dispute credit report, credit report errors, fix incorrect credit report"
     slug: "how-to-dispute-credit-report-errors"
