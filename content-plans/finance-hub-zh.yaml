@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-10-30"
+last_generated: "2026-10-31"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -92,7 +92,7 @@ topics:
   - title: "保险怎么买才划算？四大险种配置顺序"
     keywords: "保险怎么买, 保险配置顺序, 四大险种, 家庭保险规划"
     slug: "how-to-buy-insurance-guide"
-    status: pending
+    status: published
   - title: "重疾险与医疗险区别：买哪个更合适"
     keywords: "重疾险和医疗险区别, 重疾险vs医疗险, 重疾险怎么选, 医疗险怎么选"
     slug: "critical-illness-vs-medical-insurance"
