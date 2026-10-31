@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-10-30"
+last_generated: "2026-10-31"
 target_keywords:
   - 401k contribution limits
   - 401k employer match explained
@@ -100,7 +100,7 @@ topics:
   - title: "Tax-Loss Harvesting: How to Reduce Your Tax Bill"
     keywords: "tax-loss harvesting, reduce capital gains tax, tax loss harvesting guide"
     slug: "tax-loss-harvesting-reduce-tax-bill"
-    status: pending
+    status: published
   - title: "Beginner's Guide to Building a Diversified Portfolio"
     keywords: "diversified portfolio beginners, how to diversify investments, portfolio diversification guide"
     slug: "beginners-guide-diversified-portfolio"
