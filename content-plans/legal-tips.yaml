@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-10-31"
+last_generated: "2026-11-01"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -48,7 +48,7 @@ topics:
   - title: "How to Dispute an Incorrect Credit Report Entry"
     keywords: "how to dispute credit report, credit report errors, fix incorrect credit report"
     slug: "how-to-dispute-credit-report-errors"
-    status: pending
+    status: published
   - title: "What Is a Power of Attorney and When Do You Need One?"
     keywords: "what is power of attorney, when do you need power of attorney, power of attorney explained"
     slug: "what-is-power-of-attorney"
