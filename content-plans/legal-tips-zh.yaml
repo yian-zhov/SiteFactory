@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-10-31"
+last_generated: "2026-11-01"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -24,7 +24,7 @@ topics:
   - title: "劳动合同到期不续签有补偿吗？经济补偿金计算标准详解"
     keywords: "劳动合同到期不续签, 经济补偿金怎么算, 不续签有补偿吗"
     slug: "contract-expiry-non-renewal-compensation"
-    status: pending
+    status: published
   - title: "借条和欠条有什么区别？写借条必须注意的8个要点"
     keywords: "借条和欠条的区别, 借条怎么写, 借条法律效力"
     slug: "iou-vs-debt-note-differences"
@@ -32,7 +32,7 @@ topics:
   - title: "离婚财产怎么分割？夫妻共同财产认定与分割原则"
     keywords: "离婚财产分割, 夫妻共同财产怎么认定, 离婚财产怎么分"
     slug: "divorce-property-division-rules"
-    status: pending
+    status: published
   - title: "被公司违法辞退怎么维权？赔偿标准与取证要点"
     keywords: "违法辞退怎么赔偿, 被辞退如何维权, 违法解除劳动合同赔偿"
     slug: "illegal-dismissal-rights-and-compensation"
@@ -40,7 +40,7 @@ topics:
   - title: "试用期法律规定全解读：时长、工资与辞退规则"
     keywords: "试用期规定, 试用期最长多久, 试用期被辞退有补偿吗"
     slug: "probation-period-legal-rules"
-    status: pending
+    status: published
   - title: "交通事故责任认定后如何索赔？赔偿项目与流程详解"
     keywords: "交通事故赔偿, 交通事故责任认定, 交通事故怎么索赔"
     slug: "traffic-accident-claim-process"
