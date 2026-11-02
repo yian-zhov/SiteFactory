@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-01"
+last_generated: "2026-11-02"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -28,7 +28,7 @@ topics:
   - title: "借条和欠条有什么区别？写借条必须注意的8个要点"
     keywords: "借条和欠条的区别, 借条怎么写, 借条法律效力"
     slug: "iou-vs-debt-note-differences"
-    status: pending
+    status: published
   - title: "离婚财产怎么分割？夫妻共同财产认定与分割原则"
     keywords: "离婚财产分割, 夫妻共同财产怎么认定, 离婚财产怎么分"
     slug: "divorce-property-division-rules"
