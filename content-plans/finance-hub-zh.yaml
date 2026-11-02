@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-01"
+last_generated: "2026-11-02"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -100,7 +100,7 @@ topics:
   - title: "养老规划从多少岁开始？个人养老金账户详解"
     keywords: "养老规划, 个人养老金账户, 养老金怎么规划, 退休理财"
     slug: "retirement-planning-personal-pension"
-    status: pending
+    status: published
   - title: "记账方法推荐：如何通过记账控制支出"
     keywords: "记账方法, 如何记账, 记账控制支出, 个人记账技巧"
     slug: "personal-budgeting-tracking-methods"
