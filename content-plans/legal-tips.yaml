@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-01"
+last_generated: "2026-11-02"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -52,7 +52,7 @@ topics:
   - title: "What Is a Power of Attorney and When Do You Need One?"
     keywords: "what is power of attorney, when do you need power of attorney, power of attorney explained"
     slug: "what-is-power-of-attorney"
-    status: pending
+    status: published
   - title: "Landlord vs Tenant: Understanding Your Lease Agreement Rights"
     keywords: "tenant rights lease agreement, landlord tenant rights, lease agreement explained"
     slug: "landlord-tenant-lease-agreement-rights"
