@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-02"
+last_generated: "2026-11-03"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -104,7 +104,7 @@ topics:
   - title: "记账方法推荐：如何通过记账控制支出"
     keywords: "记账方法, 如何记账, 记账控制支出, 个人记账技巧"
     slug: "personal-budgeting-tracking-methods"
-    status: pending
+    status: published
   - title: "信用卡使用技巧：如何避免利息与逾期"
     keywords: "信用卡使用技巧, 信用卡免息期, 信用卡逾期, 信用卡还款"
     slug: "credit-card-usage-tips"
