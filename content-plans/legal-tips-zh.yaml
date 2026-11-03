@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-02"
+last_generated: "2026-11-03"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -36,7 +36,7 @@ topics:
   - title: "被公司违法辞退怎么维权？赔偿标准与取证要点"
     keywords: "违法辞退怎么赔偿, 被辞退如何维权, 违法解除劳动合同赔偿"
     slug: "illegal-dismissal-rights-and-compensation"
-    status: pending
+    status: published
   - title: "试用期法律规定全解读：时长、工资与辞退规则"
     keywords: "试用期规定, 试用期最长多久, 试用期被辞退有补偿吗"
     slug: "probation-period-legal-rules"
