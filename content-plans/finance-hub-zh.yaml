@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-03"
+last_generated: "2026-11-04"
 target_keywords:
   - A股交易规则
   - ETF基金
@@ -108,7 +108,7 @@ topics:
   - title: "信用卡使用技巧：如何避免利息与逾期"
     keywords: "信用卡使用技巧, 信用卡免息期, 信用卡逾期, 信用卡还款"
     slug: "credit-card-usage-tips"
-    status: pending
+    status: published
   - title: "房贷提前还款划算吗？计算与决策指南"
     keywords: "房贷提前还款, 提前还款划算吗, 房贷提前还款计算"
     slug: "should-you-prepay-mortgage-guide"
