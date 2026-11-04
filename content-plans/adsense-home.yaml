@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-02"
+last_generated: "2026-11-04"
 target_keywords:
   - 2fa security
   - account locked out
@@ -92,7 +92,7 @@ topics:
   - title: "How to Fix Account Lockout After a Suspicious Login Alert"
     keywords: "suspicious login alert, account locked out, secure hacked account"
     slug: "fix-account-lockout-suspicious-login"
-    status: pending
+    status: published
   - title: "How to Use Browser Extensions Without Compromising Privacy"
     keywords: "browser extension privacy, safe browser extensions, extension permissions"
     slug: "browser-extensions-without-privacy-risk"
