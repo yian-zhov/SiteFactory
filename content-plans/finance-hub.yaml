@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-03"
+last_generated: "2026-11-04"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -24,7 +24,7 @@ topics:
   - title: "50/30/20 Rule Explained: Does It Work for You?"
     keywords: "50/30/20 rule, budgeting rule explained, 50 30 20 budgeting"
     slug: "50-30-20-rule-explained"
-    status: pending
+    status: published
   - title: "Index Funds vs ETFs: Which Should Beginners Choose?"
     keywords: "index funds vs etfs, index funds for beginners, etf investing"
     slug: "index-funds-vs-etfs-beginners"
