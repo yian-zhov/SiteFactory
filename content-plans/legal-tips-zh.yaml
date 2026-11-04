@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-03"
+last_generated: "2026-11-04"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -44,7 +44,7 @@ topics:
   - title: "交通事故责任认定后如何索赔？赔偿项目与流程详解"
     keywords: "交通事故赔偿, 交通事故责任认定, 交通事故怎么索赔"
     slug: "traffic-accident-claim-process"
-    status: pending
+    status: published
   - title: "房屋买卖合同签订注意事项：这10个条款必须看清"
     keywords: "房屋买卖合同注意事项, 买房签合同注意什么, 二手房买卖合同"
     slug: "home-purchase-contract-key-clauses"
