@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-04"
+last_generated: "2026-11-05"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -28,7 +28,7 @@ topics:
   - title: "Index Funds vs ETFs: Which Should Beginners Choose?"
     keywords: "index funds vs etfs, index funds for beginners, etf investing"
     slug: "index-funds-vs-etfs-beginners"
-    status: pending
+    status: published
   - title: "How to Pay Off Credit Card Debt Fast: 7 Proven Strategies"
     keywords: "how to pay off credit card debt, credit card debt payoff, debt payoff strategies"
     slug: "pay-off-credit-card-debt-fast"
@@ -36,7 +36,7 @@ topics:
   - title: "Roth IRA vs Traditional IRA: Complete Comparison"
     keywords: "roth ira vs traditional ira, roth ira comparison, ira retirement accounts"
     slug: "roth-ira-vs-traditional-ira"
-    status: pending
+    status: published
   - title: "How Compound Interest Works: A Beginner's Guide"
     keywords: "how compound interest works, compound interest explained, compound interest examples"
     slug: "how-compound-interest-works"
@@ -44,7 +44,7 @@ topics:
   - title: "What Is a Credit Score and How Can You Improve It?"
     keywords: "what is a credit score, improve credit score, credit score guide"
     slug: "what-is-credit-score-improve"
-    status: pending
+    status: published
   - title: "How to Create a Monthly Budget That Actually Works"
     keywords: "how to create a monthly budget, monthly budget guide, budgeting for beginners"
     slug: "create-monthly-budget-that-works"
