@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-04"
+last_generated: "2026-11-05"
 target_keywords:
   - 2fa security
   - account locked out
@@ -96,7 +96,7 @@ topics:
   - title: "How to Use Browser Extensions Without Compromising Privacy"
     keywords: "browser extension privacy, safe browser extensions, extension permissions"
     slug: "browser-extensions-without-privacy-risk"
-    status: pending
+    status: published
   - title: "How to Manage Your Digital Footprint and Remove Old Data"
     keywords: "digital footprint management, remove old data online, delete old accounts"
     slug: "manage-digital-footprint-remove-data"
