@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-04"
+last_generated: "2026-11-05"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -64,7 +64,7 @@ topics:
   - title: "Do I Need a Lawyer for an Uncontested Divorce?"
     keywords: "uncontested divorce without lawyer, do i need a lawyer for divorce, uncontested divorce process"
     slug: "do-i-need-lawyer-uncontested-divorce"
-    status: pending
+    status: published
   - title: "How to Formalize a Handshake Deal: DIY Contract Essentials"
     keywords: "how to make a contract, simple contract template, handshake deal legal"
     slug: "how-to-make-simple-contract"
