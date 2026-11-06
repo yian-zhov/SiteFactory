@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-05"
+last_generated: "2026-11-06"
 target_keywords:
   - 2fa security
   - account locked out
@@ -100,7 +100,7 @@ topics:
   - title: "How to Manage Your Digital Footprint and Remove Old Data"
     keywords: "digital footprint management, remove old data online, delete old accounts"
     slug: "manage-digital-footprint-remove-data"
-    status: pending
+    status: published
   - title: "How to Spot Misleading Search Ads and Sponsored Results"
     keywords: "misleading search ads, sponsored results, identify paid ads google"
     slug: "spot-misleading-search-ads"
