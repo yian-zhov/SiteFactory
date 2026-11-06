@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-05"
+last_generated: "2026-11-06"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -68,7 +68,7 @@ topics:
   - title: "How to Formalize a Handshake Deal: DIY Contract Essentials"
     keywords: "how to make a contract, simple contract template, handshake deal legal"
     slug: "how-to-make-simple-contract"
-    status: pending
+    status: published
   - title: "How to Sue Someone for Breach of Contract in Small Claims"
     keywords: "how to sue for breach of contract, breach of contract claim, sue for contract breach"
     slug: "how-to-sue-breach-of-contract"
