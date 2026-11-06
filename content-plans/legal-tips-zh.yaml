@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-05"
+last_generated: "2026-11-06"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -52,7 +52,7 @@ topics:
   - title: "民间借贷利息多少合法？利率上限与无效约定解析"
     keywords: "民间借贷利息, 民间借贷利率上限, 借贷利息多少合法"
     slug: "private-lending-legal-interest-rate"
-    status: pending
+    status: published
   - title: "遗嘱怎么写才有效？五种遗嘱形式与常见无效情形"
     keywords: "遗嘱怎么写才有效, 遗嘱形式, 自书遗嘱有效条件"
     slug: "how-to-write-valid-will"
