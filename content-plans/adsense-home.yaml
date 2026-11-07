@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-06"
+last_generated: "2026-11-07"
 target_keywords:
   - 2fa security
   - account locked out
@@ -104,7 +104,7 @@ topics:
   - title: "How to Spot Misleading Search Ads and Sponsored Results"
     keywords: "misleading search ads, sponsored results, identify paid ads google"
     slug: "spot-misleading-search-ads"
-    status: pending
+    status: published
   - title: "How to Use Image Search to Find Visual Information"
     keywords: "image search tips, find visual information, google images search"
     slug: "use-image-search-find-visual-information"
