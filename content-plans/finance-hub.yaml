@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-06"
+last_generated: "2026-11-07"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -40,7 +40,7 @@ topics:
   - title: "How Compound Interest Works: A Beginner's Guide"
     keywords: "how compound interest works, compound interest explained, compound interest examples"
     slug: "how-compound-interest-works"
-    status: pending
+    status: published
   - title: "What Is a Credit Score and How Can You Improve It?"
     keywords: "what is a credit score, improve credit score, credit score guide"
     slug: "what-is-credit-score-improve"
@@ -60,7 +60,7 @@ topics:
   - title: "How to Start Investing With Only $100"
     keywords: "how to start investing with 100 dollars, small amount investing, beginner investing"
     slug: "start-investing-with-100-dollars"
-    status: pending
+    status: published
   - title: "15 Ways to Save Money on Groceries Every Month"
     keywords: "ways to save money on groceries, grocery budget tips, save on groceries"
     slug: "save-money-on-groceries-monthly"
@@ -68,7 +68,7 @@ topics:
   - title: "What Is Dollar-Cost Averaging and Does It Work?"
     keywords: "dollar cost averaging, what is dollar cost averaging, dca investing strategy"
     slug: "what-is-dollar-cost-averaging"
-    status: pending
+    status: published
   - title: "How to Get Out of Debt With Low Income"
     keywords: "how to get out of debt with low income, debt payoff low income, escape debt"
     slug: "get-out-of-debt-low-income"
@@ -76,7 +76,7 @@ topics:
   - title: "Renting vs Buying a House: Which Is Financially Smarter?"
     keywords: "renting vs buying a house, rent vs buy analysis, homeownership cost"
     slug: "renting-vs-buying-house-financially"
-    status: pending
+    status: published
   - title: "Asset Allocation Explained: How to Balance Your Portfolio"
     keywords: "asset allocation explained, portfolio asset allocation, diversify investments"
     slug: "asset-allocation-explained"
