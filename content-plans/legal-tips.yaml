@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-06"
+last_generated: "2026-11-07"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -72,7 +72,7 @@ topics:
   - title: "How to Sue Someone for Breach of Contract in Small Claims"
     keywords: "how to sue for breach of contract, breach of contract claim, sue for contract breach"
     slug: "how-to-sue-breach-of-contract"
-    status: pending
+    status: published
   - title: "Employment at Will: What It Means for Your Job Security"
     keywords: "employment at will, at-will employment meaning, at will employment exceptions"
     slug: "employment-at-will-explained"
