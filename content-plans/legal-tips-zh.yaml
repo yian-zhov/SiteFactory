@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-06"
+last_generated: "2026-11-07"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -56,7 +56,7 @@ topics:
   - title: "遗嘱怎么写才有效？五种遗嘱形式与常见无效情形"
     keywords: "遗嘱怎么写才有效, 遗嘱形式, 自书遗嘱有效条件"
     slug: "how-to-write-valid-will"
-    status: pending
+    status: published
   - title: "网购遇到假货怎么维权？退一赔三适用条件与操作步骤"
     keywords: "网购假货怎么维权, 退一赔三, 买到假货怎么赔偿"
     slug: "online-shopping-counterfeit-rights"
@@ -64,7 +64,7 @@ topics:
   - title: "工伤认定流程与赔偿标准：受伤后第一时间该做什么"
     keywords: "工伤认定流程, 工伤赔偿标准, 工伤怎么申请"
     slug: "work-injury-recognition-and-compensation"
-    status: pending
+    status: published
   - title: "租房押金不退怎么办？房东与租客的权利义务解析"
     keywords: "租房押金不退怎么办, 租房押金纠纷, 房东不退押金"
     slug: "rental-deposit-dispute-solutions"
