@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-07"
+last_generated: "2026-11-08"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -76,7 +76,7 @@ topics:
   - title: "Employment at Will: What It Means for Your Job Security"
     keywords: "employment at will, at-will employment meaning, at will employment exceptions"
     slug: "employment-at-will-explained"
-    status: pending
+    status: published
   - title: "How to Respond to a Cease and Desist Letter"
     keywords: "cease and desist letter response, how to respond to cease and desist, cease and desist meaning"
     slug: "how-to-respond-cease-and-desist-letter"
