@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-07"
+last_generated: "2026-11-08"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -52,7 +52,7 @@ topics:
   - title: "Dividend Stocks for Beginners: How to Start Investing"
     keywords: "dividend stocks for beginners, dividend investing guide, how to invest in dividends"
     slug: "dividend-stocks-for-beginners"
-    status: pending
+    status: published
   - title: "Emergency Fund vs Investing: Where Should Your Money Go?"
     keywords: "emergency fund vs investing, savings vs investing, emergency fund investing"
     slug: "emergency-fund-vs-investing"
