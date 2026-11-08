@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-07"
+last_generated: "2026-11-08"
 target_keywords:
   - 2fa security
   - account locked out
@@ -108,7 +108,7 @@ topics:
   - title: "How to Use Image Search to Find Visual Information"
     keywords: "image search tips, find visual information, google images search"
     slug: "use-image-search-find-visual-information"
-    status: pending
+    status: published
   - title: "How to Use Offline and Low Data Mode When the Internet Is Slow"
     keywords: "offline browsing, low data mode, slow internet workaround"
     slug: "offline-low-data-mode-slow-internet"
