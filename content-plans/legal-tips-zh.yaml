@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-08"
+last_generated: "2026-11-09"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -68,7 +68,7 @@ topics:
   - title: "租房押金不退怎么办？房东与租客的权利义务解析"
     keywords: "租房押金不退怎么办, 租房押金纠纷, 房东不退押金"
     slug: "rental-deposit-dispute-solutions"
-    status: pending
+    status: published
   - title: "取保候审的条件是什么？申请流程与保证金规定"
     keywords: "取保候审条件, 取保候审怎么申请, 取保候审保证金"
     slug: "release-on-bail-conditions-process"
@@ -76,7 +76,7 @@ topics:
   - title: "写了谅解书还能反悔吗？刑事谅解书的法律效力"
     keywords: "谅解书法律效力, 谅解书能反悔吗, 刑事谅解书作用"
     slug: "criminal-forgiveness-letter-legal-effect"
-    status: pending
+    status: published
   - title: "遗产继承顺序是怎样的？法定继承与遗嘱继承的区别"
     keywords: "遗产继承顺序, 法定继承, 遗嘱继承和法定继承区别"
     slug: "inheritance-order-and-types"
