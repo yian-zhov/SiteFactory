@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-08"
+last_generated: "2026-11-09"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -64,7 +64,7 @@ topics:
   - title: "15 Ways to Save Money on Groceries Every Month"
     keywords: "ways to save money on groceries, grocery budget tips, save on groceries"
     slug: "save-money-on-groceries-monthly"
-    status: pending
+    status: published
   - title: "What Is Dollar-Cost Averaging and Does It Work?"
     keywords: "dollar cost averaging, what is dollar cost averaging, dca investing strategy"
     slug: "what-is-dollar-cost-averaging"
