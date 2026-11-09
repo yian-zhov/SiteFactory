@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-07"
+last_generated: "2026-11-09"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -32,7 +32,7 @@ topics:
   - title: "债券基金适合什么人买：风险与收益特点解析"
     keywords: "债券基金适合什么人买, 债券基金风险, 债券基金收益"
     slug: "who-should-buy-bond-funds"
-    status: pending
+    status: published
   - title: "ETF怎么买：场内ETF开户与交易操作指南"
     keywords: "ETF怎么买, 场内ETF怎么买, ETF开户交易"
     slug: "how-to-buy-etf-guide"
