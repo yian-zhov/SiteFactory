@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-09"
+last_generated: "2026-11-10"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -40,7 +40,7 @@ topics:
   - title: "基金定投和一次性买入哪个收益高：对比与适用场景"
     keywords: "基金定投和一次性买入哪个好, 定投 vs 一次性买入, 基金买入方式"
     slug: "fund-regular-investment-vs-lump-sum"
-    status: pending
+    status: published
   - title: "基金赎回手续费怎么算：持有时间与费率规则详解"
     keywords: "基金赎回手续费怎么算, 基金赎回费率, 基金持有时间"
     slug: "fund-redemption-fee-rules"
