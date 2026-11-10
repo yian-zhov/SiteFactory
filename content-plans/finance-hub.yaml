@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-09"
+last_generated: "2026-11-10"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -72,7 +72,7 @@ topics:
   - title: "How to Get Out of Debt With Low Income"
     keywords: "how to get out of debt with low income, debt payoff low income, escape debt"
     slug: "get-out-of-debt-low-income"
-    status: pending
+    status: published
   - title: "Renting vs Buying a House: Which Is Financially Smarter?"
     keywords: "renting vs buying a house, rent vs buy analysis, homeownership cost"
     slug: "renting-vs-buying-house-financially"
