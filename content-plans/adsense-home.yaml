@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-10"
+last_generated: "2026-11-11"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -32,7 +32,7 @@ topics:
   - title: "How to Verify a Rumor Online Before Sharing It"
     keywords: "how to verify information online, fact check before sharing, verify news online"
     slug: "how-to-verify-information-online"
-    status: pending
+    status: published
   - title: "How to Spot a Phishing Email: 10 Warning Signs to Check"
     keywords: "how to spot phishing email, phishing email warning signs, identify phishing"
     slug: "how-to-spot-phishing-email-signs"
