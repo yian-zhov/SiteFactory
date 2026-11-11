@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-10"
+last_generated: "2026-11-11"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -80,7 +80,7 @@ topics:
   - title: "遗产继承顺序是怎样的？法定继承与遗嘱继承的区别"
     keywords: "遗产继承顺序, 法定继承, 遗嘱继承和法定继承区别"
     slug: "inheritance-order-and-types"
-    status: pending
+    status: published
   - title: "个人信息被泄露如何维权？法律依据与投诉渠道"
     keywords: "个人信息泄露维权, 个人信息保护法, 信息泄露怎么投诉"
     slug: "personal-data-leak-rights-protection"
