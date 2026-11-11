@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-10"
+last_generated: "2026-11-11"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -88,7 +88,7 @@ topics:
   - title: "Slip and Fall Claims: What to Do and How to File"
     keywords: "slip and fall claim, how to file slip and fall, slip and fall injury lawsuit"
     slug: "slip-and-fall-claim-guide"
-    status: pending
+    status: published
   - title: "How to Start an LLC: Costs, Paperwork, and Tax Implications"
     keywords: "how to start an LLC, LLC formation steps, LLC cost and paperwork"
     slug: "how-to-start-llc-guide"
