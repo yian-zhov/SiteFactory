@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-11"
+last_generated: "2026-11-12"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -48,7 +48,7 @@ topics:
   - title: "工资到手后怎么分配：适合上班族的理财分配方案"
     keywords: "工资到手怎么理财, 工资分配方案, 上班族理财"
     slug: "how-to-allocate-salary-for-investing"
-    status: pending
+    status: published
   - title: "应急备用金要存多少：计算标准与存放方式"
     keywords: "应急备用金存多少, 应急备用金, 家庭备用金"
     slug: "how-much-emergency-fund-needed"
