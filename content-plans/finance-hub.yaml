@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-12"
+last_generated: "2026-11-13"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -88,7 +88,7 @@ topics:
   - title: "How to Save for Retirement in Your 20s and 30s"
     keywords: "how to save for retirement in your 20s, retirement planning young, early retirement saving"
     slug: "save-for-retirement-in-20s-30s"
-    status: pending
+    status: published
   - title: "What Is a 401(k) and How Does It Work?"
     keywords: "what is a 401k, how does a 401k work, 401k retirement plan"
     slug: "what-is-a-401k"
