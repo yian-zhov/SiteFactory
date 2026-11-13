@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-12"
+last_generated: "2026-11-13"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -40,7 +40,7 @@ topics:
   - title: "How to Create Strong Passwords You Can Actually Remember"
     keywords: "how to create strong passwords, memorable strong password, password tips"
     slug: "how-to-create-strong-passwords"
-    status: pending
+    status: published
   - title: "Password Managers vs Browser Password Saving: Which Is Safer?"
     keywords: "password manager vs browser, is browser password saving safe, password manager comparison"
     slug: "password-manager-vs-browser-password-saving"
@@ -48,7 +48,7 @@ topics:
   - title: "How to Check if Your Email Has Been Breached in a Data Leak"
     keywords: "check email data breach, data leak checker, was my email hacked"
     slug: "check-email-data-breach"
-    status: pending
+    status: published
   - title: "Two-Factor Authentication Explained: SMS vs Authenticator Apps"
     keywords: "two factor authentication explained, sms vs authenticator app, 2fa comparison"
     slug: "two-factor-authentication-sms-vs-apps"
