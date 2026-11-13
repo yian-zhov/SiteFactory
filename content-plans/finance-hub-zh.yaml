@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-12"
+last_generated: "2026-11-13"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -52,7 +52,7 @@ topics:
   - title: "应急备用金要存多少：计算标准与存放方式"
     keywords: "应急备用金存多少, 应急备用金, 家庭备用金"
     slug: "how-much-emergency-fund-needed"
-    status: pending
+    status: published
   - title: "记账的正确方法：从记录到复盘的完整流程"
     keywords: "记账的正确方法, 个人记账方法, 记账复盘"
     slug: "how-to-keep-personal-expense-record"
@@ -60,7 +60,7 @@ topics:
   - title: "月光族怎么攒钱：从零开始建立储蓄习惯"
     keywords: "月光族怎么攒钱, 月光族存钱方法, 攒钱习惯"
     slug: "how-to-save-money-when-living-paycheck-to-paycheck"
-    status: pending
+    status: published
   - title: "50/30/20预算法则怎么用：适合中国家庭的调整方法"
     keywords: "50/30/20预算法则, 预算法则, 家庭预算方法"
     slug: "50-30-20-budget-rule-guide"
