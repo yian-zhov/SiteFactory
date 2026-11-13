@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-12"
+last_generated: "2026-11-13"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -96,7 +96,7 @@ topics:
   - title: "What to Do If You Receive a Subpoena for a Witness"
     keywords: "subpoena for witness, received a subpoena, how to respond to subpoena"
     slug: "what-to-do-receive-subpoena-witness"
-    status: pending
+    status: published
   - title: "How to Set Up a Payment Plan with the IRS"
     keywords: "IRS payment plan, how to set up IRS installment agreement, back taxes payment plan"
     slug: "how-to-set-up-irs-payment-plan"
