@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-12"
+last_generated: "2026-11-13"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -88,7 +88,7 @@ topics:
   - title: "定金和订金有什么区别？哪个可以退？"
     keywords: "定金和订金的区别, 定金能退吗, 订金可以退吗"
     slug: "earnest-money-vs-deposit-difference"
-    status: pending
+    status: published
   - title: "合同违约金约定多少合法？过高过低如何调整"
     keywords: "违约金多少合法, 违约金过高怎么办, 合同违约金规定"
     slug: "contract-penalty-clause-legality"
