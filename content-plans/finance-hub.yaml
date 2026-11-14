@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-13"
+last_generated: "2026-11-14"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -92,7 +92,7 @@ topics:
   - title: "What Is a 401(k) and How Does It Work?"
     keywords: "what is a 401k, how does a 401k work, 401k retirement plan"
     slug: "what-is-a-401k"
-    status: pending
+    status: published
   - title: "High-Yield Savings Accounts vs CDs: Which Pays More?"
     keywords: "high yield savings vs cd, savings account vs cd, best savings rates"
     slug: "high-yield-savings-vs-cds"
