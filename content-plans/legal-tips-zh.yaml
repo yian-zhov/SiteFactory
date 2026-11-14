@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-13"
+last_generated: "2026-11-14"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -92,7 +92,7 @@ topics:
   - title: "合同违约金约定多少合法？过高过低如何调整"
     keywords: "违约金多少合法, 违约金过高怎么办, 合同违约金规定"
     slug: "contract-penalty-clause-legality"
-    status: pending
+    status: published
   - title: "民事诉讼起诉流程：立案、举证到开庭完整步骤"
     keywords: "民事诉讼流程, 怎么起诉, 民事起诉需要什么材料"
     slug: "civil-lawsuit-filing-process"
