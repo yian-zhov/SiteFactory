@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-13"
+last_generated: "2026-11-14"
 target_keywords:
   - IRS payment plan
   - LLC cost and paperwork
@@ -100,7 +100,7 @@ topics:
   - title: "How to Set Up a Payment Plan with the IRS"
     keywords: "IRS payment plan, how to set up IRS installment agreement, back taxes payment plan"
     slug: "how-to-set-up-irs-payment-plan"
-    status: pending
+    status: published
   - title: "What Is Small Business Liability Insurance and Do You Need It?"
     keywords: "small business liability insurance, do i need liability insurance, business insurance basics"
     slug: "small-business-liability-insurance-guide"
