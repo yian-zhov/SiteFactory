@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-14"
+last_generated: "2026-11-15"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -64,7 +64,7 @@ topics:
   - title: "50/30/20预算法则怎么用：适合中国家庭的调整方法"
     keywords: "50/30/20预算法则, 预算法则, 家庭预算方法"
     slug: "50-30-20-budget-rule-guide"
-    status: pending
+    status: published
   - title: "信用卡怎么用才划算：免息期与分期真实成本"
     keywords: "信用卡怎么用划算, 信用卡免息期, 信用卡分期成本"
     slug: "how-to-use-credit-card-wisely"
