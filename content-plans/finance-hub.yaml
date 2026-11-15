@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-14"
+last_generated: "2026-11-15"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -96,7 +96,7 @@ topics:
   - title: "High-Yield Savings Accounts vs CDs: Which Pays More?"
     keywords: "high yield savings vs cd, savings account vs cd, best savings rates"
     slug: "high-yield-savings-vs-cds"
-    status: pending
+    status: published
   - title: "How to Build Passive Income: 12 Realistic Ideas"
     keywords: "how to build passive income, passive income ideas, passive income streams"
     slug: "build-passive-income-ideas"
@@ -104,7 +104,7 @@ topics:
   - title: "Sinking Funds Explained: How to Plan for Big Expenses"
     keywords: "sinking funds explained, what is a sinking fund, sinking fund budgeting"
     slug: "sinking-funds-explained"
-    status: pending
+    status: published
   - title: "Beginner's Guide to Mutual Funds vs Stocks"
     keywords: "mutual funds vs stocks, mutual fund investing for beginners, stocks vs funds"
     slug: "mutual-funds-vs-stocks-guide"
@@ -112,7 +112,7 @@ topics:
   - title: "How to Improve Your Credit Score Before Buying a Home"
     keywords: "improve credit score before buying a house, mortgage credit score tips, credit score for mortgage"
     slug: "improve-credit-score-before-home"
-    status: pending
+    status: published
   - title: "What Is an HSA and How Can You Use It for Retirement?"
     keywords: "what is an hsa, hsa retirement savings, health savings account benefits"
     slug: "what-is-an-hsa-retirement"
