@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-14"
+last_generated: "2026-11-15"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -52,7 +52,7 @@ topics:
   - title: "Two-Factor Authentication Explained: SMS vs Authenticator Apps"
     keywords: "two factor authentication explained, sms vs authenticator app, 2fa comparison"
     slug: "two-factor-authentication-sms-vs-apps"
-    status: pending
+    status: published
   - title: "How to Recognize Fake Online Stores Before You Buy"
     keywords: "how to spot fake online store, scam website check, fake shopping site signs"
     slug: "how-to-recognize-fake-online-stores"
