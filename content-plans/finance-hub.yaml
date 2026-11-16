@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-15"
+last_generated: "2026-11-16"
 target_keywords:
   - 401k retirement plan
   - 50 30 20 budgeting
@@ -100,7 +100,7 @@ topics:
   - title: "How to Build Passive Income: 12 Realistic Ideas"
     keywords: "how to build passive income, passive income ideas, passive income streams"
     slug: "build-passive-income-ideas"
-    status: pending
+    status: published
   - title: "Sinking Funds Explained: How to Plan for Big Expenses"
     keywords: "sinking funds explained, what is a sinking fund, sinking fund budgeting"
     slug: "sinking-funds-explained"
