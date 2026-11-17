@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-16"
+last_generated: "2026-11-17"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -104,7 +104,7 @@ topics:
   - title: "孩子抚养权怎么争取？法院判决的考量因素解析"
     keywords: "抚养权怎么争取, 孩子抚养权判定, 离婚孩子归谁"
     slug: "child-custody-court-factors"
-    status: pending
+    status: published
   - title: "协议离婚和诉讼离婚有什么区别？哪种更适合你"
     keywords: "协议离婚和诉讼离婚区别, 离婚方式怎么选, 诉讼离婚流程"
     slug: "agreed-vs-litigated-divorce-comparison"
