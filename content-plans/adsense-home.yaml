@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-16"
+last_generated: "2026-11-17"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -60,7 +60,7 @@ topics:
   - title: "How to Clear Your Browser Cache and Cookies Without Breaking Anything"
     keywords: "how to clear browser cache, clear cookies safely, browser cache explained"
     slug: "how-to-clear-browser-cache-cookies"
-    status: pending
+    status: published
   - title: "Private Browsing Mode: What It Actually Hides and What It Doesn't"
     keywords: "private browsing mode myths, incognito mode what it does, private browsing explained"
     slug: "private-browsing-mode-what-it-hides"
