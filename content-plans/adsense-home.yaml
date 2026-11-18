@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-17"
+last_generated: "2026-11-18"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -64,7 +64,7 @@ topics:
   - title: "Private Browsing Mode: What It Actually Hides and What It Doesn't"
     keywords: "private browsing mode myths, incognito mode what it does, private browsing explained"
     slug: "private-browsing-mode-what-it-hides"
-    status: pending
+    status: published
   - title: "Public Wi-Fi Safety: How to Protect Your Data on the Go"
     keywords: "public wifi safety tips, secure public wifi, protect data on public wifi"
     slug: "public-wifi-safety-tips"
