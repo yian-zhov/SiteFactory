@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-17"
+last_generated: "2026-11-18"
 target_keywords:
   - 一般保证和连带保证区别
   - 不续签有补偿吗
@@ -108,7 +108,7 @@ topics:
   - title: "协议离婚和诉讼离婚有什么区别？哪种更适合你"
     keywords: "协议离婚和诉讼离婚区别, 离婚方式怎么选, 诉讼离婚流程"
     slug: "agreed-vs-litigated-divorce-comparison"
-    status: pending
+    status: published
   - title: "公司拖欠工资怎么办？投诉举报与仲裁维权全攻略"
     keywords: "公司拖欠工资怎么办, 拖欠工资怎么维权, 欠薪举报"
     slug: "unpaid-wages-rights-guide"
