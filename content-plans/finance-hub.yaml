@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-17"
+last_generated: "2026-11-18"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -24,7 +24,7 @@ topics:
   - title: "50/30/20 Budget Rule Explained: Is It Right for You?"
     keywords: "50/30/20 budget rule, 50 30 20 budgeting, how to use 50/30/20 rule"
     slug: "50-30-20-budget-rule-explained"
-    status: pending
+    status: published
   - title: "Index Funds vs ETFs: Which Should Beginners Choose?"
     keywords: "index funds vs etfs, index fund or etf, etf vs index fund beginner"
     slug: "index-funds-vs-etfs-beginners"
@@ -40,7 +40,7 @@ topics:
   - title: "What Is Compound Interest and How Does It Grow Your Money?"
     keywords: "what is compound interest, compound interest explained, how compound interest works"
     slug: "what-is-compound-interest-explained"
-    status: pending
+    status: published
   - title: "How to Pay Off Credit Card Debt Using the Snowball Method"
     keywords: "debt snowball method, pay off credit card debt, snowball vs avalanche debt"
     slug: "pay-off-credit-card-debt-snowball"
