@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-17"
+last_generated: "2026-11-18"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -24,7 +24,7 @@ topics:
   - title: "What to Do Immediately After a Car Accident: Legal Checklist"
     keywords: "what to do after car accident, car accident legal steps, accident checklist"
     slug: "what-to-do-after-car-accident-legal"
-    status: pending
+    status: published
   - title: "Security Deposit Laws: How to Get Your Deposit Back"
     keywords: "security deposit return, landlord deposit laws, get deposit back"
     slug: "security-deposit-laws-get-deposit-back"
