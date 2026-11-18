@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-17"
+last_generated: "2026-11-18"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -76,7 +76,7 @@ topics:
   - title: "个人养老金账户值不值得开：税收优惠与适合人群"
     keywords: "个人养老金账户值不值得开, 个人养老金税收优惠, 个人养老金账户"
     slug: "is-personal-pension-account-worth-it"
-    status: pending
+    status: published
   - title: "重疾险和医疗险有什么区别：配置顺序与保额建议"
     keywords: "重疾险和医疗险区别, 重疾险保额, 医疗险怎么买"
     slug: "critical-illness-vs-medical-insurance"
