@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-18"
+last_generated: "2026-11-19"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -28,7 +28,7 @@ topics:
   - title: "Security Deposit Laws: How to Get Your Deposit Back"
     keywords: "security deposit return, landlord deposit laws, get deposit back"
     slug: "security-deposit-laws-get-deposit-back"
-    status: pending
+    status: published
   - title: "How to File a Small Claims Court Case Step by Step"
     keywords: "small claims court process, how to file small claims, small claims lawsuit"
     slug: "how-to-file-small-claims-court"
