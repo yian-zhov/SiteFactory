@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-18"
+last_generated: "2026-11-19"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -68,7 +68,7 @@ topics:
   - title: "Public Wi-Fi Safety: How to Protect Your Data on the Go"
     keywords: "public wifi safety tips, secure public wifi, protect data on public wifi"
     slug: "public-wifi-safety-tips"
-    status: pending
+    status: published
   - title: "How to Build a Weekly Digital Declutter Routine"
     keywords: "digital declutter routine, organize digital files, digital cleanup checklist"
     slug: "weekly-digital-declutter-routine"
