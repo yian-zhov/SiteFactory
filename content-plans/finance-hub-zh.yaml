@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-18"
+last_generated: "2026-11-19"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -80,7 +80,7 @@ topics:
   - title: "重疾险和医疗险有什么区别：配置顺序与保额建议"
     keywords: "重疾险和医疗险区别, 重疾险保额, 医疗险怎么买"
     slug: "critical-illness-vs-medical-insurance"
-    status: pending
+    status: published
   - title: "家庭保险怎么配置：一家三口的保障方案思路"
     keywords: "家庭保险怎么配置, 家庭保障方案, 一家三口保险"
     slug: "family-insurance-planning-guide"
@@ -88,7 +88,7 @@ topics:
   - title: "提前还房贷划算吗：利率、违约金与资金机会成本分析"
     keywords: "提前还房贷划算吗, 提前还贷违约金, 房贷提前还款"
     slug: "is-early-mortgage-repayment-worth-it"
-    status: pending
+    status: published
   - title: "LPR是什么意思：房贷利率转换与月供影响"
     keywords: "LPR是什么意思, LPR房贷利率, 房贷月供变化"
     slug: "what-is-lpr-and-mortgage-impact"
