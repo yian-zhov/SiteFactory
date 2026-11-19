@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-18"
+last_generated: "2026-11-19"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -32,7 +32,7 @@ topics:
   - title: "How to Improve Your Credit Score Fast: 10 Proven Steps"
     keywords: "how to improve credit score fast, raise credit score quickly, credit score tips"
     slug: "improve-credit-score-fast-steps"
-    status: pending
+    status: published
   - title: "Roth IRA vs Traditional IRA: Complete 2024 Comparison"
     keywords: "roth ira vs traditional ira, roth vs traditional ira, ira comparison"
     slug: "roth-ira-vs-traditional-ira-comparison"
