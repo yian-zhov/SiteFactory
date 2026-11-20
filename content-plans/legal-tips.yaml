@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-19"
+last_generated: "2026-11-20"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -32,7 +32,7 @@ topics:
   - title: "How to File a Small Claims Court Case Step by Step"
     keywords: "small claims court process, how to file small claims, small claims lawsuit"
     slug: "how-to-file-small-claims-court"
-    status: pending
+    status: published
   - title: "Wrongful Termination: Signs You Were Fired Illegally"
     keywords: "wrongful termination signs, fired illegally, wrongful dismissal"
     slug: "wrongful-termination-signs"
@@ -40,7 +40,7 @@ topics:
   - title: "How to Create a Simple Will Without a Lawyer"
     keywords: "how to write a will, diy will, simple will template"
     slug: "how-to-create-simple-will"
-    status: pending
+    status: published
   - title: "Landlord vs Tenant Rights: Who Is Responsible for Repairs?"
     keywords: "landlord repair responsibilities, tenant rights repairs, rental repairs"
     slug: "landlord-tenant-repair-responsibilities"
