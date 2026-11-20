@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-19"
+last_generated: "2026-11-20"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -84,7 +84,7 @@ topics:
   - title: "家庭保险怎么配置：一家三口的保障方案思路"
     keywords: "家庭保险怎么配置, 家庭保障方案, 一家三口保险"
     slug: "family-insurance-planning-guide"
-    status: pending
+    status: published
   - title: "提前还房贷划算吗：利率、违约金与资金机会成本分析"
     keywords: "提前还房贷划算吗, 提前还贷违约金, 房贷提前还款"
     slug: "is-early-mortgage-repayment-worth-it"
