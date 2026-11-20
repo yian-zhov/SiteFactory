@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-19"
+last_generated: "2026-11-20"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -48,7 +48,7 @@ topics:
   - title: "Dollar-Cost Averaging: A Beginner's Guide to Steady Investing"
     keywords: "dollar-cost averaging, dca investing strategy, dollar cost averaging explained"
     slug: "dollar-cost-averaging-beginners-guide"
-    status: pending
+    status: published
   - title: "How to Choose a High-Yield Savings Account in 2024"
     keywords: "best high-yield savings account, how to choose savings account, high yield savings rates"
     slug: "choose-high-yield-savings-account"
