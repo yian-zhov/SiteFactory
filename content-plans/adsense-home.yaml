@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-20"
+last_generated: "2026-11-21"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -76,7 +76,7 @@ topics:
   - title: "How to Set Up Browser Bookmarks and Folders That Stay Useful"
     keywords: "browser bookmark organization, how to organize bookmarks, bookmark folders tips"
     slug: "organize-browser-bookmarks-folders"
-    status: pending
+    status: published
   - title: "Keyboard Shortcuts That Save Time in Any Browser"
     keywords: "browser keyboard shortcuts, chrome keyboard shortcuts, time saving shortcuts"
     slug: "browser-keyboard-shortcuts-save-time"
