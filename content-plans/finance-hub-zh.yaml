@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-20"
+last_generated: "2026-11-21"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -92,7 +92,7 @@ topics:
   - title: "LPR是什么意思：房贷利率转换与月供影响"
     keywords: "LPR是什么意思, LPR房贷利率, 房贷月供变化"
     slug: "what-is-lpr-and-mortgage-impact"
-    status: pending
+    status: published
   - title: "年化收益率和年利率有什么区别：常见理财名词避坑"
     keywords: "年化收益率和年利率区别, 年化收益率, 理财名词解释"
     slug: "annualized-return-vs-annual-interest-rate"
