@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-20"
+last_generated: "2026-11-21"
 target_keywords:
   - 12315投诉流程
   - 七天无理由退货
@@ -32,7 +32,7 @@ topics:
   - title: "试用期被辞退有补偿吗？法律规定与常见误区"
     keywords: "试用期被辞退有补偿吗, 试用期辞退规定, 试用期解除劳动合同"
     slug: "probation-period-dismissal-compensation"
-    status: pending
+    status: published
   - title: "加班费怎么算：工作日、休息日、法定节假日计算标准"
     keywords: "加班费怎么算, 加班费计算标准, 法定节假日加班工资"
     slug: "overtime-pay-calculation-standards"
