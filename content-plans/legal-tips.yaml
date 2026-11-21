@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-20"
+last_generated: "2026-11-21"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -36,7 +36,7 @@ topics:
   - title: "Wrongful Termination: Signs You Were Fired Illegally"
     keywords: "wrongful termination signs, fired illegally, wrongful dismissal"
     slug: "wrongful-termination-signs"
-    status: pending
+    status: published
   - title: "How to Create a Simple Will Without a Lawyer"
     keywords: "how to write a will, diy will, simple will template"
     slug: "how-to-create-simple-will"
