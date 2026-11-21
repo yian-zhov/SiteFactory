@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-20"
+last_generated: "2026-11-21"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -52,7 +52,7 @@ topics:
   - title: "How to Choose a High-Yield Savings Account in 2024"
     keywords: "best high-yield savings account, how to choose savings account, high yield savings rates"
     slug: "choose-high-yield-savings-account"
-    status: pending
+    status: published
   - title: "Dividend Investing for Beginners: Building Passive Income"
     keywords: "dividend investing for beginners, dividend stocks passive income, how to invest in dividends"
     slug: "dividend-investing-for-beginners"
