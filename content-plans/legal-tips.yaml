@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-21"
+last_generated: "2026-11-22"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -44,7 +44,7 @@ topics:
   - title: "Landlord vs Tenant Rights: Who Is Responsible for Repairs?"
     keywords: "landlord repair responsibilities, tenant rights repairs, rental repairs"
     slug: "landlord-tenant-repair-responsibilities"
-    status: pending
+    status: published
   - title: "What Is a Power of Attorney and When Do You Need One?"
     keywords: "what is power of attorney, power of attorney explained, poa"
     slug: "what-is-power-of-attorney"
