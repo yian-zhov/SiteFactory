@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-21"
+last_generated: "2026-11-22"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -96,7 +96,7 @@ topics:
   - title: "年化收益率和年利率有什么区别：常见理财名词避坑"
     keywords: "年化收益率和年利率区别, 年化收益率, 理财名词解释"
     slug: "annualized-return-vs-annual-interest-rate"
-    status: pending
+    status: published
   - title: "复利怎么计算：72法则与长期投资的应用"
     keywords: "复利怎么计算, 72法则, 复利投资"
     slug: "compound-interest-and-rule-of-72"
