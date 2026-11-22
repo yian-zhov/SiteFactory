@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-21"
+last_generated: "2026-11-22"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -80,7 +80,7 @@ topics:
   - title: "Keyboard Shortcuts That Save Time in Any Browser"
     keywords: "browser keyboard shortcuts, chrome keyboard shortcuts, time saving shortcuts"
     slug: "browser-keyboard-shortcuts-save-time"
-    status: pending
+    status: published
   - title: "How to Use AI Chatbots for Research Without Getting Misled"
     keywords: "using ai chatbots for research, ai search reliability, verify ai answers"
     slug: "ai-chatbots-for-research-safely"
