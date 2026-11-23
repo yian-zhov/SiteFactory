@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-22"
+last_generated: "2026-11-23"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -84,7 +84,7 @@ topics:
   - title: "How to Use AI Chatbots for Research Without Getting Misled"
     keywords: "using ai chatbots for research, ai search reliability, verify ai answers"
     slug: "ai-chatbots-for-research-safely"
-    status: pending
+    status: published
   - title: "Google Search vs Perplexity vs Bing Chat: Best for Quick Answers?"
     keywords: "google vs perplexity vs bing chat, ai search engines comparison, best ai search tool"
     slug: "google-vs-perplexity-vs-bing-chat"
