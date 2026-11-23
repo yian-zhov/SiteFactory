@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-22"
+last_generated: "2026-11-23"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -100,7 +100,7 @@ topics:
   - title: "复利怎么计算：72法则与长期投资的应用"
     keywords: "复利怎么计算, 72法则, 复利投资"
     slug: "compound-interest-and-rule-of-72"
-    status: pending
+    status: published
   - title: "银行理财和存款怎么选：净值型理财产品风险解读"
     keywords: "银行理财和存款怎么选, 净值型理财, 银行理财风险"
     slug: "bank-wealth-product-vs-deposit"
