@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-22"
+last_generated: "2026-11-23"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -60,7 +60,7 @@ topics:
   - title: "How Much Should You Save for Retirement? A Simple Guide"
     keywords: "how much to save for retirement, retirement savings guide, retirement savings by age"
     slug: "how-much-to-save-for-retirement"
-    status: pending
+    status: published
   - title: "Term Life vs Whole Life Insurance: Which Is Better?"
     keywords: "term life vs whole life insurance, term vs whole life, life insurance comparison"
     slug: "term-vs-whole-life-insurance"
