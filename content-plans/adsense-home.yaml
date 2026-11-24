@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-23"
+last_generated: "2026-11-24"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -88,7 +88,7 @@ topics:
   - title: "Google Search vs Perplexity vs Bing Chat: Best for Quick Answers?"
     keywords: "google vs perplexity vs bing chat, ai search engines comparison, best ai search tool"
     slug: "google-vs-perplexity-vs-bing-chat"
-    status: pending
+    status: published
   - title: "How to Evaluate a Website's Credibility in Under 5 Minutes"
     keywords: "how to evaluate website credibility, reliable website checklist, check source trustworthiness"
     slug: "evaluate-website-credibility"
