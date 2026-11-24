@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-23"
+last_generated: "2026-11-24"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -104,7 +104,7 @@ topics:
   - title: "银行理财和存款怎么选：净值型理财产品风险解读"
     keywords: "银行理财和存款怎么选, 净值型理财, 银行理财风险"
     slug: "bank-wealth-product-vs-deposit"
-    status: pending
+    status: published
   - title: "可转债打新怎么操作：申购流程与破发风险"
     keywords: "可转债打新怎么操作, 可转债申购, 可转债破发风险"
     slug: "how-to-subscribe-convertible-bonds"
