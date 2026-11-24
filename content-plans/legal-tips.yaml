@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-23"
+last_generated: "2026-11-24"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -52,7 +52,7 @@ topics:
   - title: "How to Dispute a Debt Collection Claim That Isn't Yours"
     keywords: "dispute debt collection, debt validation letter, wrong debt collector"
     slug: "how-to-dispute-debt-collection"
-    status: pending
+    status: published
   - title: "Non-Disclosure Agreement Basics: What You Should Never Sign"
     keywords: "nda basics, what is an nda, nda signing tips"
     slug: "nda-basics-what-not-to-sign"
