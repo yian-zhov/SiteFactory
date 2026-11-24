@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-23"
+last_generated: "2026-11-24"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -68,7 +68,7 @@ topics:
   - title: "How to Create a Monthly Budget That Actually Works"
     keywords: "how to make a monthly budget, monthly budgeting guide, create a budget"
     slug: "create-monthly-budget-that-works"
-    status: pending
+    status: published
   - title: "Beginner's Guide to Investing in the S&P 500"
     keywords: "how to invest in s&p 500, s&p 500 investing for beginners, s&p 500 index fund"
     slug: "investing-in-sp500-beginners-guide"
@@ -80,7 +80,7 @@ topics:
   - title: "How to Start Investing With Only $100"
     keywords: "how to start investing with $100, start investing small amounts, invest with little money"
     slug: "start-investing-with-100-dollars"
-    status: pending
+    status: published
   - title: "What Is a 401(k) and How Does Employer Matching Work?"
     keywords: "what is a 401k, how 401k employer match works, 401k explained"
     slug: "what-is-401k-employer-match"
@@ -88,7 +88,7 @@ topics:
   - title: "Saving vs Investing: Key Differences Explained"
     keywords: "saving vs investing, difference between saving and investing, should i save or invest"
     slug: "saving-vs-investing-differences"
-    status: pending
+    status: published
   - title: "How to Reduce Taxes on Investment Income Legally"
     keywords: "reduce taxes on investment income, investment tax strategies, capital gains tax tips"
     slug: "reduce-taxes-investment-income"
