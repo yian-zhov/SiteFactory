@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-24"
+last_generated: "2026-11-25"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -60,7 +60,7 @@ topics:
   - title: "How to Handle a Workplace Injury Claim: Rights and Steps"
     keywords: "workplace injury claim, workers comp steps, injured at work rights"
     slug: "workplace-injury-claim-rights"
-    status: pending
+    status: published
   - title: "Renting an Apartment: Contract Clauses You Must Check"
     keywords: "lease agreement clauses, apartment lease tips, rental contract review"
     slug: "apartment-lease-clauses-to-check"
