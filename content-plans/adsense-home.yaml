@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-24"
+last_generated: "2026-11-25"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -92,7 +92,7 @@ topics:
   - title: "How to Evaluate a Website's Credibility in Under 5 Minutes"
     keywords: "how to evaluate website credibility, reliable website checklist, check source trustworthiness"
     slug: "evaluate-website-credibility"
-    status: pending
+    status: published
   - title: "How to Set Up Email Filters and Labels to Tame Your Inbox"
     keywords: "email filter setup, gmail labels and filters, organize inbox automatically"
     slug: "email-filters-labels-organize-inbox"
