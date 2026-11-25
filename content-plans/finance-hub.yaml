@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-24"
+last_generated: "2026-11-25"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -76,7 +76,7 @@ topics:
   - title: "Renting vs Buying a Home: How to Decide in 2024"
     keywords: "renting vs buying a home, rent or buy a house, renting vs buying pros and cons"
     slug: "renting-vs-buying-home-guide"
-    status: pending
+    status: published
   - title: "How to Start Investing With Only $100"
     keywords: "how to start investing with $100, start investing small amounts, invest with little money"
     slug: "start-investing-with-100-dollars"
