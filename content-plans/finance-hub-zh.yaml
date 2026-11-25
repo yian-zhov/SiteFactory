@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-24"
+last_generated: "2026-11-25"
 target_keywords:
   - 50/30/20预算法则
   - 72法则
@@ -108,7 +108,7 @@ topics:
   - title: "可转债打新怎么操作：申购流程与破发风险"
     keywords: "可转债打新怎么操作, 可转债申购, 可转债破发风险"
     slug: "how-to-subscribe-convertible-bonds"
-    status: pending
+    status: published
   - title: "家庭资产怎么配置：四账户模型实操方法"
     keywords: "家庭资产怎么配置, 四账户模型, 资产配置方法"
     slug: "family-asset-allocation-four-accounts"
