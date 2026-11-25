@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-24"
+last_generated: "2026-11-25"
 target_keywords:
   - 12315投诉流程
   - 七天无理由退货
@@ -52,7 +52,7 @@ topics:
   - title: "民间借贷没有借条怎么办：证据收集与起诉要点"
     keywords: "没有借条怎么起诉, 民间借贷证据, 借钱不还怎么维权"
     slug: "private-lending-without-iou-evidence"
-    status: pending
+    status: published
   - title: "借钱不还怎么起诉：民间借贷诉讼流程全解析"
     keywords: "借钱不还怎么起诉, 民间借贷起诉流程, 债务纠纷诉讼"
     slug: "debt-lawsuit-procedure-guide"
