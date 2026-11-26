@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-25"
+last_generated: "2026-11-26"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -84,7 +84,7 @@ topics:
   - title: "What Is a 401(k) and How Does Employer Matching Work?"
     keywords: "what is a 401k, how 401k employer match works, 401k explained"
     slug: "what-is-401k-employer-match"
-    status: pending
+    status: published
   - title: "Saving vs Investing: Key Differences Explained"
     keywords: "saving vs investing, difference between saving and investing, should i save or invest"
     slug: "saving-vs-investing-differences"
