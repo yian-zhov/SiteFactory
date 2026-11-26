@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-25"
+last_generated: "2026-11-26"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -64,7 +64,7 @@ topics:
   - title: "Renting an Apartment: Contract Clauses You Must Check"
     keywords: "lease agreement clauses, apartment lease tips, rental contract review"
     slug: "apartment-lease-clauses-to-check"
-    status: pending
+    status: published
   - title: "Traffic Ticket Defense: How to Fight a Speeding Ticket"
     keywords: "fight speeding ticket, traffic ticket defense, contest traffic citation"
     slug: "how-to-fight-speeding-ticket"
