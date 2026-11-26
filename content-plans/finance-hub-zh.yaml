@@ -4,116 +4,116 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-25"
+last_generated: "2026-11-26"
 target_keywords:
-  - 50/30/20预算法则
-  - 72法则
-  - ETF开户交易
+  - 4321理财法则
+  - ETF开户流程
   - ETF怎么买
-  - LPR房贷利率
-  - LPR是什么意思
-  - 一家三口保险
-  - 七日年化收益率是什么意思
-  - 上班族理财
-  - 个人养老金税收优惠
+  - 个人养老金值得买吗
+  - 个人养老金账户
+  - 中等收入理财规划
+  - 主动基金对比
+  - 保险怎么买
+  - 保险配置顺序
+  - 信用卡分期划算吗
 topics:
-  - title: "基金定投怎么入门：新手第一次定投的完整步骤"
-    keywords: "基金定投怎么入门, 新手基金定投, 定投步骤"
-    slug: "how-to-start-fund-investment-plan"
+  - title: "新手如何开始基金定投：从零到第一笔投资的完整流程"
+    keywords: "基金定投怎么开始, 新手基金定投, 定投入门教程"
+    slug: "how-to-start-fund-regular-investment"
     status: published
-  - title: "指数基金和主动基金哪个好：核心区别与选择思路"
-    keywords: "指数基金和主动基金哪个好, 指数基金 vs 主动基金, 主动基金区别"
-    slug: "index-fund-vs-active-fund"
-    status: published
-  - title: "货币基金收益怎么算：七日年化收益率是什么意思"
-    keywords: "货币基金收益怎么算, 七日年化收益率是什么意思, 货币基金收益"
-    slug: "money-market-fund-yield-explained"
-    status: published
-  - title: "债券基金适合什么人买：风险与收益特点解析"
-    keywords: "债券基金适合什么人买, 债券基金风险, 债券基金收益"
-    slug: "who-should-buy-bond-funds"
-    status: published
-  - title: "ETF怎么买：场内ETF开户与交易操作指南"
-    keywords: "ETF怎么买, 场内ETF怎么买, ETF开户交易"
-    slug: "how-to-buy-etf-guide"
-    status: published
-  - title: "基金定投和一次性买入哪个收益高：对比与适用场景"
-    keywords: "基金定投和一次性买入哪个好, 定投 vs 一次性买入, 基金买入方式"
-    slug: "fund-regular-investment-vs-lump-sum"
-    status: published
-  - title: "基金赎回手续费怎么算：持有时间与费率规则详解"
-    keywords: "基金赎回手续费怎么算, 基金赎回费率, 基金持有时间"
-    slug: "fund-redemption-fee-rules"
-    status: published
-  - title: "工资到手后怎么分配：适合上班族的理财分配方案"
-    keywords: "工资到手怎么理财, 工资分配方案, 上班族理财"
-    slug: "how-to-allocate-salary-for-investing"
-    status: published
-  - title: "应急备用金要存多少：计算标准与存放方式"
-    keywords: "应急备用金存多少, 应急备用金, 家庭备用金"
-    slug: "how-much-emergency-fund-needed"
-    status: published
-  - title: "记账的正确方法：从记录到复盘的完整流程"
-    keywords: "记账的正确方法, 个人记账方法, 记账复盘"
-    slug: "how-to-keep-personal-expense-record"
-    status: published
-  - title: "月光族怎么攒钱：从零开始建立储蓄习惯"
-    keywords: "月光族怎么攒钱, 月光族存钱方法, 攒钱习惯"
-    slug: "how-to-save-money-when-living-paycheck-to-paycheck"
-    status: published
-  - title: "50/30/20预算法则怎么用：适合中国家庭的调整方法"
-    keywords: "50/30/20预算法则, 预算法则, 家庭预算方法"
-    slug: "50-30-20-budget-rule-guide"
-    status: published
-  - title: "信用卡怎么用才划算：免息期与分期真实成本"
-    keywords: "信用卡怎么用划算, 信用卡免息期, 信用卡分期成本"
-    slug: "how-to-use-credit-card-wisely"
-    status: published
-  - title: "公积金有什么用：提取条件与使用场景全解析"
-    keywords: "公积金有什么用, 公积金提取条件, 公积金使用"
-    slug: "housing-fund-usage-and-withdrawal"
-    status: published
-  - title: "个人养老金账户值不值得开：税收优惠与适合人群"
-    keywords: "个人养老金账户值不值得开, 个人养老金税收优惠, 个人养老金账户"
-    slug: "is-personal-pension-account-worth-it"
-    status: published
-  - title: "重疾险和医疗险有什么区别：配置顺序与保额建议"
-    keywords: "重疾险和医疗险区别, 重疾险保额, 医疗险怎么买"
-    slug: "critical-illness-vs-medical-insurance"
-    status: published
-  - title: "家庭保险怎么配置：一家三口的保障方案思路"
-    keywords: "家庭保险怎么配置, 家庭保障方案, 一家三口保险"
-    slug: "family-insurance-planning-guide"
-    status: published
-  - title: "提前还房贷划算吗：利率、违约金与资金机会成本分析"
-    keywords: "提前还房贷划算吗, 提前还贷违约金, 房贷提前还款"
-    slug: "is-early-mortgage-repayment-worth-it"
-    status: published
-  - title: "LPR是什么意思：房贷利率转换与月供影响"
-    keywords: "LPR是什么意思, LPR房贷利率, 房贷月供变化"
-    slug: "what-is-lpr-and-mortgage-impact"
-    status: published
-  - title: "年化收益率和年利率有什么区别：常见理财名词避坑"
-    keywords: "年化收益率和年利率区别, 年化收益率, 理财名词解释"
-    slug: "annualized-return-vs-annual-interest-rate"
-    status: published
-  - title: "复利怎么计算：72法则与长期投资的应用"
-    keywords: "复利怎么计算, 72法则, 复利投资"
-    slug: "compound-interest-and-rule-of-72"
-    status: published
-  - title: "银行理财和存款怎么选：净值型理财产品风险解读"
-    keywords: "银行理财和存款怎么选, 净值型理财, 银行理财风险"
-    slug: "bank-wealth-product-vs-deposit"
-    status: published
-  - title: "可转债打新怎么操作：申购流程与破发风险"
-    keywords: "可转债打新怎么操作, 可转债申购, 可转债破发风险"
-    slug: "how-to-subscribe-convertible-bonds"
-    status: published
-  - title: "家庭资产怎么配置：四账户模型实操方法"
-    keywords: "家庭资产怎么配置, 四账户模型, 资产配置方法"
-    slug: "family-asset-allocation-four-accounts"
+  - title: "货币基金和银行活期存款有什么区别，哪个更划算"
+    keywords: "货币基金和活期区别, 货币基金收益, 活期存款对比"
+    slug: "money-fund-vs-demand-deposit"
     status: pending
-  - title: "定投亏钱了要不要停：下跌行情中的应对策略"
-    keywords: "定投亏钱了怎么办, 定投要不要停, 定投亏损策略"
-    slug: "should-you-stop-investing-when-losing"
+  - title: "月光族如何强制储蓄：5个可执行的攒钱方法"
+    keywords: "月光族怎么存钱, 强制储蓄方法, 攒钱技巧"
+    slug: "how-to-save-money-for-spendthrifts"
+    status: pending
+  - title: "指数基金和主动型基金怎么选：全面对比与适用人群"
+    keywords: "指数基金和主动基金区别, 指数基金怎么选, 主动基金对比"
+    slug: "index-fund-vs-active-fund"
+    status: pending
+  - title: "个人资产配置入门：标准普尔家庭资产象限图怎么用"
+    keywords: "家庭资产配置, 标准普尔象限图, 资产配置比例"
+    slug: "personal-asset-allocation-quadrant"
+    status: pending
+  - title: "信用卡分期还款的真实利率是多少，划不划算"
+    keywords: "信用卡分期利率, 分期手续费计算, 信用卡分期划算吗"
+    slug: "credit-card-installment-real-interest-rate"
+    status: pending
+  - title: "工资到手如何分配：4321理财法则实操指南"
+    keywords: "4321理财法则, 工资分配方法, 工资理财规划"
+    slug: "salary-allocation-4321-rule"
+    status: pending
+  - title: "国债怎么买：储蓄国债和记账式国债的购买流程与区别"
+    keywords: "国债怎么买, 储蓄国债购买, 记账式国债区别"
+    slug: "how-to-buy-treasury-bonds"
+    status: pending
+  - title: "年化收益率和实际收益怎么换算，别被高收益数字骗了"
+    keywords: "年化收益率怎么算, 实际收益计算, 年化收益换算"
+    slug: "annualized-return-vs-actual-return"
+    status: pending
+  - title: "保险怎么买才不踩坑：重疾险、医疗险、意外险配置顺序"
+    keywords: "保险怎么买, 重疾险医疗险区别, 保险配置顺序"
+    slug: "insurance-purchase-guide-order"
+    status: pending
+  - title: "复利是什么：用复利计算看懂长期投资的力量"
+    keywords: "复利是什么意思, 复利计算公式, 复利效应"
+    slug: "what-is-compound-interest"
+    status: pending
+  - title: "应急备用金该存多少、放在哪里最合适"
+    keywords: "应急备用金多少合适, 备用金放哪里, 家庭应急资金"
+    slug: "emergency-fund-amount-and-placement"
+    status: pending
+  - title: "定投亏钱了要不要停：基金定投止盈止损策略详解"
+    keywords: "基金定投亏了怎么办, 定投止盈策略, 定投止损"
+    slug: "fund-regular-investment-stop-loss-strategy"
+    status: pending
+  - title: "ETF是什么、怎么买：场内ETF开户与交易完整教程"
+    keywords: "ETF怎么买, ETF开户流程, 场内ETF交易"
+    slug: "what-is-etf-and-how-to-buy"
+    status: pending
+  - title: "房贷提前还款划算吗：等额本息与等额本金对比分析"
+    keywords: "房贷提前还款划算吗, 等额本息和等额本金, 提前还贷计算"
+    slug: "should-you-prepay-mortgage"
+    status: pending
+  - title: "基金A类和C类有什么区别，长期持有选哪个"
+    keywords: "基金A类和C类区别, 基金A类C类怎么选, 基金申购费"
+    slug: "fund-class-a-vs-class-c"
+    status: pending
+  - title: "年收入20万家庭如何做理财规划：分阶段方案"
+    keywords: "年收入20万理财, 家庭理财方案, 中等收入理财规划"
+    slug: "family-financial-plan-200k-income"
+    status: pending
+  - title: "黄金怎么投资：实物金、纸黄金、黄金ETF全面对比"
+    keywords: "黄金怎么投资, 黄金ETF, 纸黄金和实物金区别"
+    slug: "how-to-invest-in-gold-comparison"
+    status: pending
+  - title: "基金净值高好还是低好，净值高低与投资价值的关系"
+    keywords: "基金净值高低, 基金净值高能买吗, 净值与收益关系"
+    slug: "fund-nav-high-or-low"
+    status: pending
+  - title: "个人养老金账户值得开吗：税收优惠与投资品种解析"
+    keywords: "个人养老金账户, 个人养老金值得买吗, 养老金税收优惠"
+    slug: "personal-pension-account-guide"
+    status: pending
+  - title: "如何看懂基金季报和年报：关键指标解读"
+    keywords: "基金季报怎么看, 基金年报解读, 基金持仓分析"
+    slug: "how-to-read-fund-reports"
+    status: pending
+  - title: "存款利率下调后，闲钱放哪里收益更高"
+    keywords: "存款利率下调, 闲钱怎么理财, 存款替代产品"
+    slug: "where-to-put-money-after-rate-cut"
+    status: pending
+  - title: "可转债打新怎么操作：申购流程、中签规则与风险"
+    keywords: "可转债打新, 可转债申购流程, 打新债风险"
+    slug: "convertible-bond-ipo-guide"
+    status: pending
+  - title: "基金亏损后如何补仓：金字塔补仓法实操教学"
+    keywords: "基金补仓方法, 金字塔补仓法, 基金亏损补仓"
+    slug: "how-to-average-down-fund-losses"
+    status: pending
+  - title: "家庭记账怎么做才有效：从记账到预算管理的完整方法"
+    keywords: "家庭记账方法, 记账怎么做, 家庭预算管理"
+    slug: "how-to-keep-family-budget-records"
     status: pending
