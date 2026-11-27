@@ -4,7 +4,7 @@
 site: legal-tips
 niche: "legal tips"
 publishing_schedule: "daily"
-last_generated: "2026-11-26"
+last_generated: "2026-11-27"
 target_keywords:
   - accident checklist
   - apartment lease tips
@@ -68,7 +68,7 @@ topics:
   - title: "Traffic Ticket Defense: How to Fight a Speeding Ticket"
     keywords: "fight speeding ticket, traffic ticket defense, contest traffic citation"
     slug: "how-to-fight-speeding-ticket"
-    status: pending
+    status: published
   - title: "Understanding Child Custody Agreements for Divorcing Parents"
     keywords: "child custody agreement, custody types, divorce custody basics"
     slug: "understanding-child-custody-agreements"
