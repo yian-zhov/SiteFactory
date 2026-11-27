@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-26"
+last_generated: "2026-11-27"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -100,7 +100,7 @@ topics:
   - title: "Cloud Storage Comparison: Google Drive vs OneDrive vs Dropbox"
     keywords: "google drive vs onedrive vs dropbox, cloud storage comparison, best cloud storage"
     slug: "cloud-storage-comparison-drive-onedrive-dropbox"
-    status: pending
+    status: published
   - title: "How to Back Up Your Files: A Simple 3-2-1 Strategy Explained"
     keywords: "3-2-1 backup strategy, how to back up files, simple data backup plan"
     slug: "3-2-1-backup-strategy-guide"
