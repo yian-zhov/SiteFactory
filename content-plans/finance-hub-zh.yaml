@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-26"
+last_generated: "2026-11-27"
 target_keywords:
   - 4321理财法则
   - ETF开户流程
@@ -24,7 +24,7 @@ topics:
   - title: "货币基金和银行活期存款有什么区别，哪个更划算"
     keywords: "货币基金和活期区别, 货币基金收益, 活期存款对比"
     slug: "money-fund-vs-demand-deposit"
-    status: pending
+    status: published
   - title: "月光族如何强制储蓄：5个可执行的攒钱方法"
     keywords: "月光族怎么存钱, 强制储蓄方法, 攒钱技巧"
     slug: "how-to-save-money-for-spendthrifts"
