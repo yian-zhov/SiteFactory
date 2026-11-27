@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-26"
+last_generated: "2026-11-27"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -92,7 +92,7 @@ topics:
   - title: "How to Reduce Taxes on Investment Income Legally"
     keywords: "reduce taxes on investment income, investment tax strategies, capital gains tax tips"
     slug: "reduce-taxes-investment-income"
-    status: pending
+    status: published
   - title: "Mutual Funds vs ETFs: Fees, Risks, and Returns Compared"
     keywords: "mutual funds vs etfs, etf vs mutual fund, mutual fund etf comparison"
     slug: "mutual-funds-vs-etfs-comparison"
