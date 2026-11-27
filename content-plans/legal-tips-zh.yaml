@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-26"
+last_generated: "2026-11-27"
 target_keywords:
   - 12315投诉流程
   - 七天无理由退货
@@ -60,7 +60,7 @@ topics:
   - title: "借条怎么写才有法律效力：必备条款与范本说明"
     keywords: "借条怎么写, 借条范本, 借条法律效力"
     slug: "how-to-write-valid-iou"
-    status: pending
+    status: published
   - title: "房屋租赁合同纠纷：押金不退、提前退租怎么处理"
     keywords: "房东不退押金怎么办, 提前退租违约金, 房屋租赁纠纷"
     slug: "rental-deposit-dispute-solutions"
