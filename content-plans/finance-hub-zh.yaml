@@ -4,7 +4,7 @@
 site: finance-hub-zh
 niche: "理财攻略"
 publishing_schedule: "daily"
-last_generated: "2026-11-27"
+last_generated: "2026-11-28"
 target_keywords:
   - 4321理财法则
   - ETF开户流程
@@ -28,7 +28,7 @@ topics:
   - title: "月光族如何强制储蓄：5个可执行的攒钱方法"
     keywords: "月光族怎么存钱, 强制储蓄方法, 攒钱技巧"
     slug: "how-to-save-money-for-spendthrifts"
-    status: pending
+    status: published
   - title: "指数基金和主动型基金怎么选：全面对比与适用人群"
     keywords: "指数基金和主动基金区别, 指数基金怎么选, 主动基金对比"
     slug: "index-fund-vs-active-fund"
