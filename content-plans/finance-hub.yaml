@@ -4,7 +4,7 @@
 site: finance-hub
 niche: "finance hub"
 publishing_schedule: "daily"
-last_generated: "2026-11-27"
+last_generated: "2026-11-28"
 target_keywords:
   - 401k explained
   - 50 30 20 budgeting
@@ -96,7 +96,7 @@ topics:
   - title: "Mutual Funds vs ETFs: Fees, Risks, and Returns Compared"
     keywords: "mutual funds vs etfs, etf vs mutual fund, mutual fund etf comparison"
     slug: "mutual-funds-vs-etfs-comparison"
-    status: pending
+    status: published
   - title: "How to Build Good Credit History From Scratch"
     keywords: "how to build credit history, build credit from scratch, first credit card build credit"
     slug: "build-credit-history-from-scratch"
