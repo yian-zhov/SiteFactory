@@ -4,7 +4,7 @@
 site: adsense-home
 niche: "search123"
 publishing_schedule: "daily"
-last_generated: "2026-11-27"
+last_generated: "2026-11-28"
 target_keywords:
   - 2fa comparison
   - 3-2-1 backup strategy
@@ -104,7 +104,7 @@ topics:
   - title: "How to Back Up Your Files: A Simple 3-2-1 Strategy Explained"
     keywords: "3-2-1 backup strategy, how to back up files, simple data backup plan"
     slug: "3-2-1-backup-strategy-guide"
-    status: pending
+    status: published
   - title: "How to Do Deep Research with Search Engines: A Step-by-Step Method"
     keywords: "deep research online method, how to research a topic, effective search research"
     slug: "deep-research-search-engine-method"
