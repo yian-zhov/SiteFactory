@@ -4,7 +4,7 @@
 site: legal-tips-zh
 niche: "法律小知识"
 publishing_schedule: "daily"
-last_generated: "2026-11-27"
+last_generated: "2026-11-28"
 target_keywords:
   - 12315投诉流程
   - 七天无理由退货
@@ -64,7 +64,7 @@ topics:
   - title: "房屋租赁合同纠纷：押金不退、提前退租怎么处理"
     keywords: "房东不退押金怎么办, 提前退租违约金, 房屋租赁纠纷"
     slug: "rental-deposit-dispute-solutions"
-    status: pending
+    status: published
   - title: "租房合同签订注意事项：租客必看的避坑清单"
     keywords: "租房合同注意事项, 签租房合同避坑, 租房合同条款"
     slug: "rental-contract-tips-for-tenants"
@@ -72,7 +72,7 @@ topics:
   - title: "买到假货怎么维权：退一赔三的适用条件与流程"
     keywords: "买到假货怎么赔偿, 退一赔三规定, 消费者维权流程"
     slug: "fake-goods-refund-triple-compensation"
-    status: pending
+    status: published
   - title: "网购商品七天无理由退货：适用范围与例外情形"
     keywords: "七天无理由退货, 网购退货规定, 无理由退货例外"
     slug: "seven-day-no-reason-return-policy"
@@ -80,7 +80,7 @@ topics:
   - title: "交通事故责任认定后，赔偿项目与计算方式详解"
     keywords: "交通事故赔偿项目, 交通事故赔偿标准, 事故责任认定赔偿"
     slug: "traffic-accident-compensation-items"
-    status: pending
+    status: published
   - title: "发生交通事故后第一时间该做什么：处理流程指南"
     keywords: "交通事故处理流程, 交通事故现场怎么办, 交通事故报警理赔"
     slug: "traffic-accident-first-steps-guide"
@@ -88,7 +88,7 @@ topics:
   - title: "遗产继承顺序与份额：法定继承规则通俗解读"
     keywords: "遗产继承顺序, 法定继承份额, 遗产怎么分配"
     slug: "statutory-inheritance-order-and-shares"
-    status: pending
+    status: published
   - title: "遗嘱怎么写才有效：自书遗嘱、代书遗嘱的形式要求"
     keywords: "遗嘱怎么写才有效, 自书遗嘱格式, 遗嘱法律效力"
     slug: "how-to-write-valid-will"
